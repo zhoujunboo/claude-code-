@@ -1,0 +1,9 @@
+{
+  "id": "20260416-github_trending-codeburn",
+  "title": "codeburn",
+  "sourceUrl": "https://github.com/AgentSeal/codeburn",
+  "sourceType": "github_trending",
+  "summary": "交互式终端UI仪表板，实时监控Claude Code、Codex和Cursor的AI编码令牌消耗，实现成本可观测性和优化。",
+  "tags": ["monitoring", "cost-management", "ai-coding", "claude-code"],
+  "status": "analyzed"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "langgraph-20260429-001",
+  "title": "LangGraph — 构建有状态 AI Agent 的框架",
+  "sourceUrl": "https://langchain-ai.github.io/langgraph/",
+  "summary": "LangGraph 是 LangChain 推出的图编排框架，用于构建有状态的 AI Agent。",
+  "tags": ["LangGraph", "AI Agent", "LangChain"],
+  "status": "draft"
+}

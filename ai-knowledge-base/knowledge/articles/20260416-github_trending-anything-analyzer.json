@@ -1,0 +1,9 @@
+{
+  "id": "20260416-github_trending-anything-analyzer",
+  "title": "anything-analyzer",
+  "sourceUrl": "https://github.com/Mouseww/anything-analyzer",
+  "sourceType": "github_trending",
+  "summary": "基于浏览器和CDP捕获的协议分析工具，结合AI自动生成注册机、API接口文档及浏览器/应用行为分析报告。",
+  "tags": ["protocol-analysis", "reverse-engineering", "automation", "ai-analysis", "browser"],
+  "status": "analyzed"
+}

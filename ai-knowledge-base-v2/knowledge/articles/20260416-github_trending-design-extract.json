@@ -1,0 +1,9 @@
+{
+  "id": "20260416-github_trending-design-extract",
+  "title": "design-extract",
+  "sourceUrl": "https://github.com/Manavarya09/design-extract",
+  "sourceType": "github_trending",
+  "summary": "从任何网站提取完整设计语言（颜色、排版、间距等）的工具，提供npx命令行界面和Claude Code插件，自动化设计系统分析。",
+  "tags": ["design-system", "web-scraping", "cli", "claude-code", "automation"],
+  "status": "analyzed"
+}

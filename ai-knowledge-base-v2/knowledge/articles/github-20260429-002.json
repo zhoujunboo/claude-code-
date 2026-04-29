@@ -1,0 +1,14 @@
+{
+  "id": "github-20260429-002",
+  "title": "n8n-io/n8n",
+  "sourceUrl": "https://github.com/n8n-io/n8n",
+  "summary": "基于TypeScript的公平代码工作流自动化平台，支持可视化构建与自定义代码，集成400+应用，具备原生AI能力，可自托管或云部署。",
+  "tags": [
+    "工作流自动化",
+    "AI集成",
+    "低代码平台",
+    "自托管",
+    "开源"
+  ],
+  "status": "draft"
+}

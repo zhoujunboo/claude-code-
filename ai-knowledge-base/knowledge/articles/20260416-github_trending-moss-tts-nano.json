@@ -1,0 +1,9 @@
+{
+  "id": "20260416-github_trending-moss-tts-nano",
+  "title": "MOSS-TTS-Nano",
+  "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+  "sourceType": "github_trending",
+  "summary": "开源多语言微型语音生成模型，仅0.1B参数，支持实时语音合成，可直接在CPU上运行，适合本地部署和轻量级集成。",
+  "tags": ["tts", "speech-synthesis", "open-source", "edge-ai", "lightweight"],
+  "status": "analyzed"
+}

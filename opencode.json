@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "knowledge": {
+      "type": "local",
+      "command": ["node", "--experimental-strip-types", "ai-knowledge-base-v2/pipeline/mcp_knowledge_server.ts"],
+      "enabled": true
+    }
+  }
+}

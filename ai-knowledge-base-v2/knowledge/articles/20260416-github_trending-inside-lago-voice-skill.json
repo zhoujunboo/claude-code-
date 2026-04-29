@@ -1,0 +1,9 @@
+{
+  "id": "20260416-github_trending-inside-lago-voice-skill",
+  "title": "inside-lago-voice-skill",
+  "sourceUrl": "https://github.com/getlago/inside-lago-voice-skill",
+  "sourceType": "github_trending",
+  "summary": "教导AI模仿用户个人写作风格的框架，实现个性化文本生成，让AI输出更符合用户语言习惯和表达方式。",
+  "tags": ["style-transfer", "personalization", "writing", "ai-mimicry", "nlp"],
+  "status": "analyzed"
+}

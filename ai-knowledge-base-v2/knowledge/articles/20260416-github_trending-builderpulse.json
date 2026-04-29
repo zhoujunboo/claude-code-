@@ -1,0 +1,9 @@
+{
+  "id": "20260416-github_trending-builderpulse",
+  "title": "BuilderPulse",
+  "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse",
+  "sourceType": "github_trending",
+  "summary": "AI驱动每日情报服务，为独立开发者和构建者提供每天20个精选问题和10+来源信息，助力技术决策和市场洞察。",
+  "tags": ["news-aggregation", "ai-curation", "developer-tools", "market-intelligence"],
+  "status": "analyzed"
+}

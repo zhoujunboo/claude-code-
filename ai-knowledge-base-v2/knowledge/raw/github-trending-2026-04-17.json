@@ -1,0 +1,127 @@
+{
+  "source": "github",
+  "skill": "github-trending",
+  "collected_at": "2026-04-17T00:00:00Z",
+  "items": [
+    {
+      "name": "fireworks-tech-graph",
+      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+      "summary": "fireworks-tech-graph 是一个生成高质量技术图的 Claude Code 技能，支持多种图表与风格，因此适合 AI/Agent 场景快速产出可发布图示。",
+      "stars": 3406,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "codeburn",
+      "url": "https://github.com/AgentSeal/codeburn",
+      "summary": "codeburn 是一个追踪 Claude Code、Codex 和 Cursor 令牌成本的终端仪表盘，因此适合做 AI 编码成本观测与优化。",
+      "stars": 2312,
+      "language": "TypeScript",
+      "topics": ["ai-coding", "claude-code", "cli", "codex", "cost-tracking", "cursor-ide", "developer-tools", "observability", "terminal-ui", "token-usage"]
+    },
+    {
+      "name": "MOSS-TTS-Nano",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+      "summary": "MOSS-TTS-Nano 是一个 0.1B 参数的多语言语音生成模型，支持 CPU 实时部署，因此适合轻量语音产品和本地演示。",
+      "stars": 1259,
+      "language": "Python",
+      "topics": ["audio-tokenizer", "chinese", "english", "multi-modality", "multilingual", "realtime", "streaming-audio", "tts", "voice-clone"]
+    },
+    {
+      "name": "anything-analyzer",
+      "url": "https://github.com/Mouseww/anything-analyzer",
+      "summary": "anything-analyzer 是一个结合浏览器抓包与 AI 分析生成协议文档的工具，因此适合快速理解应用行为和接口模式。",
+      "stars": 1079,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "BuilderPulse",
+      "url": "https://github.com/BuilderPulse/BuilderPulse",
+      "summary": "BuilderPulse 是一个面向独立开发者的 AI 每日情报产品，聚合多来源问题与线索，因此适合高频追踪创业和产品动态。",
+      "stars": 768,
+      "language": null,
+      "topics": ["ai", "builders", "indiehackers"]
+    },
+    {
+      "name": "GEOFlow",
+      "url": "https://github.com/yaojingang/GEOFlow",
+      "summary": "GEOFlow 是一个带 AI 任务、审核流和发布能力的内容生产系统，因此适合搭建自动化内容工作流。",
+      "stars": 766,
+      "language": "PHP",
+      "topics": ["ai", "cms", "content-automation", "geo", "openai-compatible", "php", "postgresql", "seo"]
+    },
+    {
+      "name": "SkillClaw",
+      "url": "https://github.com/AMAP-ML/SkillClaw",
+      "summary": "SkillClaw 是一个面向 Agent 技能协同进化的项目，因此适合关注自进化智能体与技能学习方向。",
+      "stars": 687,
+      "language": "Python",
+      "topics": ["agent", "agentic-ai", "ai-agent", "collective-intelligence", "continual-learning", "hermes", "llm", "llms", "openclaw", "self-evolving", "skill-evolution", "skill-learning", "skills"]
+    },
+    {
+      "name": "weft",
+      "url": "https://github.com/WeaveMindAI/weft",
+      "summary": "weft 是一门面向 AI 系统设计的编程语言，因此适合关注 AI 原生开发范式和语言层创新。",
+      "stars": 676,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "hermes-web-ui",
+      "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+      "summary": "hermes-web-ui 是一个多平台 AI Agent 管理面板，支持聊天、会话和定时任务，因此适合统一运营多渠道智能体。",
+      "stars": 516,
+      "language": "TypeScript",
+      "topics": ["ai-agent", "chat-ui", "chatbot", "cron-jobs", "dashboard", "discord-bot", "hermes-agent", "i18n", "llm", "multi-platform", "naive-ui", "nousresearch", "session-management", "slack-bot", "telegram-bot", "typescript", "vue3", "web-terminal", "whatsapp"]
+    },
+    {
+      "name": "antivibe",
+      "url": "https://github.com/mohi-devhub/antivibe",
+      "summary": "antivibe 是一个把 AI 生成代码转成教学式解析的 Claude Code 技能，因此适合提升 AI 编程结果的可理解性。",
+      "stars": 498,
+      "language": "Shell",
+      "topics": ["ai", "claude-code", "claude-code-skill", "code-explanation", "education", "learning", "vibecoding"]
+    },
+    {
+      "name": "llm-internals",
+      "url": "https://github.com/amitshekhariitbhu/llm-internals",
+      "summary": "llm-internals 是一个系统讲解 LLM 内部机制的学习仓库，因此适合快速补齐从分词到推理优化的知识链路。",
+      "stars": 454,
+      "language": null,
+      "topics": ["attention-is-all-you-need", "attention-mechanism", "large-language-models", "learn-llm", "llm", "llm-internals"]
+    },
+    {
+      "name": "cli-to-js",
+      "url": "https://github.com/millionco/cli-to-js",
+      "summary": "cli-to-js 是一个把命令行工具包装成 JavaScript API 的工具，因此适合把现有 CLI 快速接入 Agent 和自动化流程。",
+      "stars": 351,
+      "language": "TypeScript",
+      "topics": ["agent", "api", "cli", "node"]
+    },
+    {
+      "name": "agentic-inbox",
+      "url": "https://github.com/cloudflare/agentic-inbox",
+      "summary": "agentic-inbox 是一个运行在 Cloudflare Workers 上的自托管 AI 邮件客户端，因此适合探索邮件场景的 Agent 自动化。",
+      "stars": 297,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "design-md-chrome",
+      "url": "https://github.com/bergside/design-md-chrome",
+      "summary": "design-md-chrome 是一个提取网页设计风格并生成 DESIGN.md 的扩展，因此适合为 AI 生成前端提供可复用设计上下文。",
+      "stars": 287,
+      "language": "JavaScript",
+      "topics": ["ai", "chrome", "chrome-extension", "design-md", "design-skills", "extension", "open-source", "skills", "skills-ai", "typeui"]
+    },
+    {
+      "name": "easy-agent",
+      "url": "https://github.com/ConardLi/easy-agent",
+      "summary": "easy-agent 是一个从零复刻 Claude Code 核心思路的项目，因此适合学习 AI 编码 Agent 的实现结构。",
+      "stars": 261,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}
