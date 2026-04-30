@@ -1,0 +1,13 @@
+{
+  "id": "20260430-rss-virtualisation-on-apple-silicon-macs-is-different",
+  "title": "Virtualisation on Apple Silicon Macs is different",
+  "sourceUrl": "https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/",
+  "summary": "探讨Apple Silicon Mac上虚拟化技术的特殊性，分析其架构差异与实现挑战，为开发者提供技术参考。",
+  "tags": [
+    "Apple Silicon",
+    "虚拟化",
+    "Mac",
+    "架构差异"
+  ],
+  "status": "draft"
+}
