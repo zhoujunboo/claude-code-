@@ -1,0 +1,14 @@
+{
+  "id": "20260430-rss-a-grounded-conceptual-model-for-ownership-types-in-rust",
+  "title": "A grounded conceptual model for ownership types in Rust",
+  "sourceUrl": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
+  "summary": "提出Rust所有权类型的扎根理论概念模型，为类型系统提供形式化基础，增强语言安全性与可理解性。",
+  "tags": [
+    "Rust",
+    "所有权类型",
+    "概念模型",
+    "类型系统",
+    "形式化方法"
+  ],
+  "status": "draft"
+}

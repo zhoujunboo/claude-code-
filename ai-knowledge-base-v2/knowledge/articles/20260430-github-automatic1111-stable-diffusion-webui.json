@@ -2,13 +2,13 @@
   "id": "20260430-github-automatic1111-stable-diffusion-webui",
   "title": "AUTOMATIC1111/stable-diffusion-webui",
   "sourceUrl": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-  "summary": "基于Stable Diffusion的Web界面，提供图像生成与编辑功能，降低AI绘画使用门槛，推动开源生态发展。",
+  "summary": "基于Stable Diffusion的Web界面，提供图像生成与编辑功能，降低AI绘画使用门槛，支持扩展与自定义。",
   "tags": [
     "Stable Diffusion",
     "图像生成",
     "Web UI",
-    "开源",
-    "Python"
+    "AI绘画",
+    "开源"
   ],
   "status": "draft"
 }

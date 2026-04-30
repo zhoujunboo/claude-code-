@@ -2,11 +2,11 @@
   "id": "20260430-rss-monad-tutorials-timeline",
   "title": "Monad Tutorials Timeline",
   "sourceUrl": "https://wiki.haskell.org/Monad_tutorials_timeline",
-  "summary": "Monad教程时间线项目，提供结构化学习路径，但星标为零，可能处于早期阶段。",
+  "summary": "该项目为Monad教程时间线，目前无星标，语言未知，技术价值待评估。",
   "tags": [
     "教程",
     "时间线",
-    "Monad"
+    "低活跃"
   ],
   "status": "draft"
 }

@@ -2,11 +2,10 @@
   "id": "20260430-rss-opentrafficmap",
   "title": "OpenTrafficMap",
   "sourceUrl": "https://opentrafficmap.org/",
-  "summary": "OpenTrafficMap 是一个尚未获得星标的交通地图相关AI项目，目前缺乏详细描述和技术细节，需进一步关注其发展。",
+  "summary": "OpenTrafficMap 是一个交通地图相关项目，目前无语言信息且星标为0，尚处于早期阶段，技术价值待评估。",
   "tags": [
     "交通地图",
-    "AI项目",
-    "待发展"
+    "早期项目"
   ],
   "status": "draft"
 }

@@ -1,0 +1,13 @@
+{
+  "id": "20260430-rss-alignment-whack-a-mole-finetuning-activates-recall-of-copyri",
+  "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+  "sourceUrl": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+  "summary": "研究微调如何激活大型语言模型对受版权书籍的回忆，揭示对齐技术中的安全漏洞。",
+  "tags": [
+    "LLM安全",
+    "版权保护",
+    "微调攻击",
+    "对齐失效"
+  ],
+  "status": "draft"
+}

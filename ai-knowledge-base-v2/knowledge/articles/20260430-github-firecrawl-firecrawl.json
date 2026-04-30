@@ -2,13 +2,12 @@
   "id": "20260430-github-firecrawl-firecrawl",
   "title": "firecrawl/firecrawl",
   "sourceUrl": "https://github.com/firecrawl/firecrawl",
-  "summary": "提供用于AI的网页搜索、抓取和交互API，基于TypeScript开发，具备高星标和广泛关注。",
+  "summary": "Firecrawl 提供用于 AI 的网页搜索、抓取与交互 API，支持高效数据采集，助力大模型获取实时网络信息。",
   "tags": [
-    "API",
     "网页抓取",
-    "AI工具",
-    "TypeScript",
-    "数据采集"
+    "API",
+    "AI数据采集",
+    "TypeScript"
   ],
   "status": "draft"
 }

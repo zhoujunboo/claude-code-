@@ -1,0 +1,14 @@
+{
+  "id": "20260430-rss-mozilla-s-opposition-to-chrome-s-prompt-api",
+  "title": "Mozilla's Opposition to Chrome's Prompt API",
+  "sourceUrl": "https://github.com/mozilla/standards-positions/issues/1213",
+  "summary": "Mozilla 反对 Chrome 的 Prompt API，强调其对开放网络标准可能带来的垄断风险和技术控制问题。",
+  "tags": [
+    "浏览器标准",
+    "技术垄断",
+    "Mozilla",
+    "Chrome",
+    "API争议"
+  ],
+  "status": "draft"
+}

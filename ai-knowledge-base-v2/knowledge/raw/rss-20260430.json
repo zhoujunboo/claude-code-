@@ -1,27 +1,146 @@
 {
   "source": "rss",
-  "collectedAt": "2026-04-30T05:54:14.961Z",
+  "collectedAt": "2026-04-30T10:06:40.080Z",
   "items": [
     {
-      "title": "Copy Fail: 732 Bytes to Root on Every Major Linux Distribution",
-      "url": "https://xint.io/blog/copy-fail-linux-distributions",
+      "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+      "url": "https://datacenter.fm/",
       "summary": "",
       "source": "rss",
-      "collectedAt": "2026-04-30T05:54:14.960Z"
+      "collectedAt": "2026-04-30T10:06:40.079Z"
+    },
+    {
+      "title": "Mozilla's Opposition to Chrome's Prompt API",
+      "url": "https://github.com/mozilla/standards-positions/issues/1213",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "Will you heed my warnings now?",
+      "url": "https://scottaaronson.blog/?p=9718",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
     },
     {
       "title": "Monad Tutorials Timeline",
       "url": "https://wiki.haskell.org/Monad_tutorials_timeline",
       "summary": "",
       "source": "rss",
-      "collectedAt": "2026-04-30T05:54:14.961Z"
+      "collectedAt": "2026-04-30T10:06:40.080Z"
     },
     {
       "title": "Lessons from Building an OTel Normalizer for GenAI",
       "url": "https://www.groundcover.com/blog/otel-normalizer-genai-part-1",
       "summary": "",
       "source": "rss",
-      "collectedAt": "2026-04-30T05:54:14.961Z"
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+      "url": "https://burrito.bio/essays/biology-is-a-burrito",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "Functional programmers need to take a look at Zig",
+      "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "The Zig project's rationale for their anti-AI contribution policy",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "A grounded conceptual model for ownership types in Rust",
+      "url": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "Craig Venter has died",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
+      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "Mike: open-source legal AI",
+      "url": "https://mikeoss.com/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
+      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "OpenTrafficMap",
+      "url": "https://opentrafficmap.org/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "Copy Fail",
+      "url": "https://copy.fail/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "Laws of UX",
+      "url": "https://lawsofux.com/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
+    },
+    {
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T10:06:40.080Z"
     }
   ]
 }

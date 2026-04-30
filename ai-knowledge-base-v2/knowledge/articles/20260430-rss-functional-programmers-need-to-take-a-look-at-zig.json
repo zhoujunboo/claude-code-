@@ -1,0 +1,12 @@
+{
+  "id": "20260430-rss-functional-programmers-need-to-take-a-look-at-zig",
+  "title": "Functional programmers need to take a look at Zig",
+  "sourceUrl": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+  "summary": "探讨Zig语言对函数式编程的启示，强调其简洁、低开销与编译期特性带来的实用价值。",
+  "tags": [
+    "Zig",
+    "函数式编程",
+    "编程语言对比"
+  ],
+  "status": "draft"
+}

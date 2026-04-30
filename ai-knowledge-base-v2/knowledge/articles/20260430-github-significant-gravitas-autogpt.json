@@ -2,12 +2,13 @@
   "id": "20260430-github-significant-gravitas-autogpt",
   "title": "Significant-Gravitas/AutoGPT",
   "sourceUrl": "https://github.com/Significant-Gravitas/AutoGPT",
-  "summary": "AutoGPT 旨在让每个人都能使用和构建 AI，提供工具以降低门槛，聚焦用户核心需求。",
+  "summary": "AutoGPT 致力于让 AI 人人可用，提供易用的工具和平台，用户可基于其构建自主智能体，推动 AI 民主化。",
   "tags": [
-    "AI Agent",
-    "自动化",
-    "开源工具",
-    "Python"
+    "自主智能体",
+    "AI 工具",
+    "开源",
+    "Python",
+    "大语言模型"
   ],
   "status": "draft"
 }

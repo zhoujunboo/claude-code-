@@ -2,11 +2,11 @@
   "id": "20260430-rss-hermes-md-in-commit-messages-causes-requests-to-route-to-ext",
   "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
   "sourceUrl": "https://github.com/anthropics/claude-code/issues/53262",
-  "summary": "该项目指出在提交消息中包含 HERMES.md 会导致请求路由到额外计费，可能涉及系统漏洞或配置问题。",
+  "summary": "该项目指出在提交信息中包含 HERMES.md 会导致请求路由到额外计费，可能涉及系统配置或安全漏洞。",
   "tags": [
-    "计费问题",
-    "系统漏洞",
-    "提交消息"
+    "计费漏洞",
+    "配置问题",
+    "安全风险"
   ],
   "status": "draft"
 }
