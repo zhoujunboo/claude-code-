@@ -24,7 +24,7 @@ import path from "node:path";
 import fs from "node:fs/promises";
 import { existsSync } from "node:fs";
 import axios from "axios";
-import { chatWithRetry, createProvider, type ChatMessage, type ChatOptions } from "./model_client.ts";
+import { chatWithRetry, createProvider, globalTracker, type ChatMessage, type ChatOptions } from "./model_client.ts";
 
 // ── 常量 ─────────────────────────────────────────────────────────────────────
 
@@ -400,6 +400,9 @@ async function runPipeline(args: CliArgs): Promise<void> {
     await saveArticles(articles, args.dryRun, args.verbose);
     info(`  完成: 采集 ${allItems.length} → 分析 ${analyzed.size} → 去重 ${allItems.length - articles.length} → 入库 ${articles.length} (${elapsed()})`, true);
   }
+
+  const providerName = process.env.LLM_PROVIDER ?? "deepseek";
+  globalTracker.report(providerName);
 }
 
 // ── CLI ───────────────────────────────────────────────────────────────────────

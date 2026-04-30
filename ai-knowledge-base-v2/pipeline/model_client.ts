@@ -59,6 +59,8 @@ export interface ChatMessage {
 
 /** 所有 LLM 提供商必须实现的标准方法 */
 export interface LLMProvider {
+  /** 提供商名称：deepseek / qwen / openai */
+  readonly providerName: string;
   chat(messages: ChatMessage[], options?: ChatOptions): Promise<LLMResponse>;
   estimateCost(usage: LLMUsage): number;
 }
@@ -80,6 +82,137 @@ const PRICE_TABLE: Record<string, PriceEntry> = {
   "gpt-4o":         { inputPer1K: 0.0025, outputPer1K: 0.01 },
   "gpt-4":          { inputPer1K: 0.03, outputPer1K: 0.06 },
 };
+
+// ── 国产模型价格表（元 / 百万 tokens）─────────────────────────────────────────
+
+/** 单价结构：输入 + 输出，单位 元/百万tokens */
+interface CnPriceEntry {
+  input: number;
+  output: number;
+}
+
+/** 国产模型 RMB 价格表 */
+const CN_PRICE_TABLE: Record<string, CnPriceEntry> = {
+  deepseek: { input: 1, output: 2 },
+  qwen: { input: 4, output: 12 },
+  openai: { input: 150, output: 600 },
+};
+
+// ── CostTracker ───────────────────────────────────────────────────────────────
+
+/** 单次 API 调用的成本记录 */
+interface CostRecord {
+  provider: string;
+  promptTokens: number;
+  completionTokens: number;
+  costYuan: number;
+}
+
+/**
+ * LLM 调用成本追踪器
+ *
+ * 记录每次 API 调用的 token 消耗，按国产模型价格（元/百万 tokens）计算成本，
+ * 支持按提供商查询估算成本和输出汇总报告。
+ */
+export class CostTracker {
+  /** 所有调用记录 */
+  private records: CostRecord[] = [];
+
+  /**
+   * 记录一次 API 调用
+   *
+   * @param usage - token 用量统计（promptTokens / completionTokens）
+   * @param provider - 提供商名称：deepseek / qwen / openai
+   */
+  record(usage: LLMUsage, provider: string): void {
+    const price = CN_PRICE_TABLE[provider];
+    if (!price) return;
+
+    const promptCost = (usage.promptTokens / 1_000_000) * price.input;
+    const completionCost = (usage.completionTokens / 1_000_000) * price.output;
+    const costYuan = parseFloat((promptCost + completionCost).toFixed(6));
+
+    this.records.push({
+      provider,
+      promptTokens: usage.promptTokens,
+      completionTokens: usage.completionTokens,
+      costYuan,
+    });
+  }
+
+  /**
+   * 返回指定提供商的累计估算成本（元）
+   *
+   * @param provider - 提供商名称，不传则返回全部提供商的总和
+   */
+  estimatedCost(provider?: string): number {
+    const filtered = provider
+      ? this.records.filter((r) => r.provider === provider)
+      : this.records;
+    return parseFloat(
+      filtered.reduce((sum, r) => sum + r.costYuan, 0).toFixed(6),
+    );
+  }
+
+  /**
+   * 打印成本报告
+   *
+   * @param provider - 可选，指定则仅输出该提供商的报告
+   */
+  report(provider?: string): void {
+    const filtered = provider
+      ? this.records.filter((r) => r.provider === provider)
+      : this.records;
+
+    if (filtered.length === 0) {
+      console.log(`[CostTracker] 无 ${provider ?? "任何"} 调用记录`);
+      return;
+    }
+
+    const border = "═".repeat(56);
+    console.log(`\n${border}`);
+    console.log("  CostTracker 成本报告");
+    console.log(border);
+
+    // 按提供商分组统计
+    const groups = new Map<string, CostRecord[]>();
+    for (const r of filtered) {
+      const list = groups.get(r.provider) ?? [];
+      list.push(r);
+      groups.set(r.provider, list);
+    }
+
+    let grandTotal = 0;
+    let grandPrompt = 0;
+    let grandCompletion = 0;
+
+    for (const [name, recs] of groups) {
+      const calls = recs.length;
+      const promptSum = recs.reduce((s, r) => s + r.promptTokens, 0);
+      const completionSum = recs.reduce((s, r) => s + r.completionTokens, 0);
+      const cost = recs.reduce((s, r) => s + r.costYuan, 0);
+
+      console.log(`  ${name.padEnd(12)} ${calls.toString().padStart(3)} 次调用`);
+      console.log(`    Token:  输入 ${promptSum.toLocaleString()} | 输出 ${completionSum.toLocaleString()} | 合计 ${(promptSum + completionSum).toLocaleString()}`);
+      console.log(`    费用:   ¥ ${cost.toFixed(4)}`);
+
+      grandTotal += cost;
+      grandPrompt += promptSum;
+      grandCompletion += completionSum;
+    }
+
+    if (groups.size > 1) {
+      console.log(`  ${"─".repeat(54)}`);
+      console.log(`  合计:  ${groups.size} 个提供商, ¥ ${grandTotal.toFixed(4)}`);
+      console.log(`  Token: 输入 ${grandPrompt.toLocaleString()} | 输出 ${grandCompletion.toLocaleString()}`);
+    }
+
+    console.log(`${border}\n`);
+  }
+}
+
+/** 全局单例 tracker，供 chatWithRetry 和 pipeline 使用 */
+export const globalTracker = new CostTracker();
 
 // ── 提供商映射 ───────────────────────────────────────────────────────────────
 
@@ -122,11 +255,15 @@ export class OpenAICompatibleProvider implements LLMProvider {
   private apiKey: string;
   private model: string;
 
-  constructor(config: { baseURL: string; apiKey: string; model: string }) {
+  /** 提供商名称：deepseek / qwen / openai */
+  readonly providerName: string;
+
+  constructor(config: { baseURL: string; apiKey: string; model: string; providerName: string }) {
     // 去掉末尾斜杠，避免拼接 URL 时重复
     this.baseURL = config.baseURL.replace(/\/+$/, "");
     this.apiKey = config.apiKey;
     this.model = config.model;
+    this.providerName = config.providerName;
   }
 
   /** 返回当前默认模型名称 */
@@ -181,6 +318,11 @@ export class OpenAICompatibleProvider implements LLMProvider {
         completionTokens: json.usage?.completion_tokens ?? 0,
         totalTokens: json.usage?.total_tokens ?? 0,
       };
+
+      // 成功后记录 token 消耗
+      if (usage) {
+        globalTracker.record(usage, this.providerName);
+      }
 
       return { content, usage };
     } finally {
@@ -309,6 +451,7 @@ export function createProvider(providerName?: string): OpenAICompatibleProvider 
     baseURL: endpoint.baseURL,
     apiKey,
     model: endpoint.model,
+    providerName: name,
   });
 }
 

@@ -1,0 +1,13 @@
+{
+  "id": "20260430-rss-copy-fail-732-bytes-to-root-on-every-major-linux-distributio",
+  "title": "Copy Fail: 732 Bytes to Root on Every Major Linux Distribution",
+  "sourceUrl": "https://xint.io/blog/copy-fail-linux-distributions",
+  "summary": "揭示Linux系统中一个普遍存在的权限漏洞，仅需732字节即可在主流发行版上获取root权限，具有重大安全影响。",
+  "tags": [
+    "Linux安全",
+    "权限提升",
+    "漏洞利用",
+    "系统安全"
+  ],
+  "status": "draft"
+}
