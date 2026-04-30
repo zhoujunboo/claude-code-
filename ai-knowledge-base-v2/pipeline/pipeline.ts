@@ -260,7 +260,7 @@ function organize(items: RawItem[], analyzed: Map<number, { summary: string; sco
 
     const a = analyzed.get(i);
     seq++;
-    const id = `${item.source}-${TODAY}-${String(seq).padStart(3, "0")}`;
+    const id = `${TODAY}-${item.source}-${slugify(item.title)}`;
 
     articles.push({
       id,
