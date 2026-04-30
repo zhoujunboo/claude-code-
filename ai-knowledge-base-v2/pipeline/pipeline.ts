@@ -8,12 +8,15 @@
  *   node pipeline/pipeline.ts --limit 5          # 每源最多 5 条
  *   node pipeline/pipeline.ts --dry-run          # 干跑模式（不写入文件）
  *   node pipeline/pipeline.ts --verbose          # 详细日志
+ *   node pipeline/pipeline.ts --steps 0,1        # 仅采集（无 LLM，免费）
+ *   node pipeline/pipeline.ts --steps 2,3,4      # 仅分析入库（读取已采集的 raw 数据）
  *
  * CLI 参数：
  *   --sources <github,rss>   采集来源，逗号分隔，默认 github,rss
  *   --limit <N>              单源上限，默认 20
  *   --dry-run                干跑模式，仅预览不保存
  *   --verbose                输出详细日志
+ *   --steps <0,1,2,3,4>      指定运行的步骤，逗号分隔；不传则运行全部
  */
 
 import { fileURLToPath } from "node:url";
@@ -60,6 +63,7 @@ interface CliArgs {
   limit: number;
   dryRun: boolean;
   verbose: boolean;
+  steps: number[];
 }
 
 // ── 日志与计时 ──────────────────────────────────────────────────────────────
@@ -309,58 +313,100 @@ async function saveArticles(articles: Article[], dryRun: boolean, v: boolean): P
   info(`  → 共 ${articles.length} 篇, ${(totalBytes / 1024).toFixed(1)} KB, 保存至 ${ARTICLE_DIR}`, true);
 }
 
+// ── Step 1 跳过时：从磁盘加载原始数据 ───────────────────────────────────────
+
+async function loadRawFromDisk(sources: string[], v: boolean): Promise<RawItem[]> {
+  const allItems: RawItem[] = [];
+  for (const source of sources) {
+    const file = path.join(RAW_DIR, `${source}-${TODAY}.json`);
+    if (!existsSync(file)) {
+      warn(`  原始数据文件不存在: ${file}，跳过`);
+      continue;
+    }
+    const raw = JSON.parse(await fs.readFile(file, "utf-8"));
+    const items: RawItem[] = raw.items ?? [];
+    info(`  从磁盘加载 ${source} 原始数据: ${items.length} 条`, true);
+    allItems.push(...items);
+    for (const item of items) {
+      verbose(`    ${item.stars ?? 0}★ ${item.title}`, v);
+    }
+  }
+  return allItems;
+}
+
 // ── 流水线编排 ───────────────────────────────────────────────────────────────
 
 async function runPipeline(args: CliArgs): Promise<void> {
+  const runSteps = args.steps.length > 0 ? new Set(args.steps) : new Set([0, 1, 2, 3, 4]);
+
   console.log(`\n${"█".repeat(50)}`);
   console.log(`  知识库自动化流水线`);
   console.log(`  来源: ${args.sources.join(", ")}  |  上限: ${args.limit}  |  干跑: ${args.dryRun}`);
+  if (args.steps.length > 0) console.log(`  步骤: ${args.steps.join(", ")}`);
   console.log(`${"█".repeat(50)}\n`);
 
+  let allItems: RawItem[] = [];
+
   // ── Step 0: 初始化 ──
-  step(0, "初始化 Init");
-  await initStep(args);
+  if (runSteps.has(0)) {
+    step(0, "初始化 Init");
+    await initStep(args);
+  }
 
   // ── Step 1: 采集 ──
-  step(1, "采集 Collect");
-  const allItems: RawItem[] = [];
-  for (const source of args.sources) {
-    if (source === "github") {
-      const items = await collectGitHub(args.limit, args.verbose);
-      await saveRaw("github", items, args.verbose);
-      allItems.push(...items);
-    } else if (source === "rss") {
-      const items = await collectRSS(args.limit, args.verbose);
-      await saveRaw("rss", items, args.verbose);
-      allItems.push(...items);
-    } else {
-      warn(`未知来源: ${source}，跳过`);
+  if (runSteps.has(1)) {
+    step(1, "采集 Collect");
+    for (const source of args.sources) {
+      if (source === "github") {
+        const items = await collectGitHub(args.limit, args.verbose);
+        await saveRaw("github", items, args.verbose);
+        allItems.push(...items);
+      } else if (source === "rss") {
+        const items = await collectRSS(args.limit, args.verbose);
+        await saveRaw("rss", items, args.verbose);
+        allItems.push(...items);
+      } else {
+        warn(`未知来源: ${source}，跳过`);
+      }
     }
+  } else if (runSteps.has(2) || runSteps.has(3) || runSteps.has(4)) {
+    // Step 1 被跳过但后续步骤需要数据 → 从磁盘加载
+    allItems = await loadRawFromDisk(args.sources, args.verbose);
   }
 
   // ── Step 2: 分析 ──
-  step(2, "分析 Analyze");
-  const analyzed = new Map<number, { summary: string; score: number; tags: string[] }>();
-  for (let i = 0; i < allItems.length; i++) {
-    const result = await analyzeItem(allItems[i], i, allItems.length, args.verbose);
-    analyzed.set(i, result);
+  let analyzed = new Map<number, { summary: string; score: number; tags: string[] }>();
+  if (runSteps.has(2) && allItems.length > 0) {
+    step(2, "分析 Analyze");
+    for (let i = 0; i < allItems.length; i++) {
+      const result = await analyzeItem(allItems[i], i, allItems.length, args.verbose);
+      analyzed.set(i, result);
+    }
+    tick("分析");
+  } else if (runSteps.has(2)) {
+    info(`  无数据可分析，跳过`, true);
   }
-  tick("分析");
 
-  // ── Step 3: 整理 + Step 4: 保存 ──
-  step(3, "整理 Organize");
-  const articles = organize(allItems, analyzed, args.verbose);
+  // ── Step 3: 整理 ──
+  let articles: Article[] = [];
+  if (runSteps.has(3) && allItems.length > 0) {
+    step(3, "整理 Organize");
+    articles = organize(allItems, analyzed, args.verbose);
+  }
 
-  step(4, "保存 Save");
-  await saveArticles(articles, args.dryRun, args.verbose);
-  info(`  完成: 采集 ${allItems.length} → 分析 ${analyzed.size} → 去重 ${allItems.length - articles.length} → 入库 ${articles.length} (${elapsed()})`, true);
+  // ── Step 4: 保存 ──
+  if (runSteps.has(4)) {
+    step(4, "保存 Save");
+    await saveArticles(articles, args.dryRun, args.verbose);
+    info(`  完成: 采集 ${allItems.length} → 分析 ${analyzed.size} → 去重 ${allItems.length - articles.length} → 入库 ${articles.length} (${elapsed()})`, true);
+  }
 }
 
 // ── CLI ───────────────────────────────────────────────────────────────────────
 
 function parseArgs(): CliArgs {
   const argv = process.argv.slice(2);
-  const args: CliArgs = { sources: ["github", "rss"], limit: 20, dryRun: false, verbose: false };
+  const args: CliArgs = { sources: ["github", "rss"], limit: 20, dryRun: false, verbose: false, steps: [] };
 
   for (let i = 0; i < argv.length; i++) {
     switch (argv[i]) {
@@ -375,6 +421,9 @@ function parseArgs(): CliArgs {
         break;
       case "--verbose":
         args.verbose = true;
+        break;
+      case "--steps":
+        args.steps = (argv[++i] ?? "").split(",").map(Number).filter(n => n >= 0 && n <= 4);
         break;
       default:
         warn(`未知参数: ${argv[i]}`);
