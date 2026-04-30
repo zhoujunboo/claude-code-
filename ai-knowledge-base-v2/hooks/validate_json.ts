@@ -59,8 +59,8 @@ const VALID_STATUSES = ['draft', 'review', 'published', 'archived', 'analyzed'] 
 /** 可选字段 "audience" 允许的枚举值。 */
 const VALID_AUDIENCES = ['beginner', 'intermediate', 'advanced'] as const;
 
-/** ID 格式：{source}-{YYYYMMDD}-{NNN}，例如 github-20260317-001。 */
-const ID_REGEX = /^[a-z0-9]+(?:[-_][a-z0-9]+)*-\d{8}-\d{3}$/i;
+/** ID 格式：{YYYYMMDD}-{source}-{slug}，例如 20260416-github_trending-ai-animation。 */
+const ID_REGEX = /^\d{8}-[a-z0-9]+(?:[-_][a-z0-9]+)*$/i;
 
 /** 基础 URL 检查 — 必须以 http:// 或 https:// 开头。 */
 const URL_REGEX = /^https?:\/\/.+/;
@@ -96,7 +96,7 @@ function validateRequiredField(
         errors.push({
           file,
           field,
-          message: `"${value}" 不符合 {source}-{YYYYMMDD}-{NNN} 格式（例如 github-20260317-001）`,
+          message: `"${value}" 不符合 {YYYYMMDD}-{source}-{slug} 格式（例如 20260416-github_trending-ai-animation）`,
         });
       }
       break;
@@ -327,7 +327,7 @@ const HELP_TEXT = `
   - JSON 解析是否合法
   - 必填字段: id, title, sourceUrl, summary, tags, status
   - 可选字段: score (1-10), audience (beginner/intermediate/advanced)
-  - ID 格式: {source}-{YYYYMMDD}-{NNN}  (例如 github-20260317-001)
+  - ID 格式: {YYYYMMDD}-{source}-{slug}  (例如 20260416-github_trending-ai-animation)
   - status 必须是以下之一: draft, review, published, archived, analyzed
   - URL 必须以 http:// 或 https:// 开头
   - 摘要至少 20 字
