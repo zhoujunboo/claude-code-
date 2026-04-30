@@ -1,0 +1,12 @@
+{
+  "id": "rss-20260430-026",
+  "title": "Vera: a programming language designed for machines to write",
+  "sourceUrl": "https://github.com/aallan/vera",
+  "summary": "Vera 是一种专为机器编写代码而设计的编程语言，旨在提升 AI 代码生成效率与可读性。",
+  "tags": [
+    "编程语言",
+    "AI代码生成",
+    "机器编程"
+  ],
+  "status": "draft"
+}

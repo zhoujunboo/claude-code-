@@ -1,0 +1,11 @@
+{
+  "id": "rss-20260430-029",
+  "title": "OpenTrafficMap",
+  "sourceUrl": "https://opentrafficmap.org/",
+  "summary": "OpenTrafficMap 是一个交通地图相关项目，目前处于早期阶段，无公开代码或文档，技术价值待评估。",
+  "tags": [
+    "交通地图",
+    "早期项目"
+  ],
+  "status": "draft"
+}
