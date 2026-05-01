@@ -1,0 +1,12 @@
+{
+  "id": "20260501-rss-full-text-search-with-duckdb",
+  "title": "Full-Text Search with DuckDB",
+  "sourceUrl": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+  "summary": "基于DuckDB实现全文搜索功能，提供轻量级数据库内文本检索能力。",
+  "tags": [
+    "DuckDB",
+    "全文搜索",
+    "数据库"
+  ],
+  "status": "draft"
+}

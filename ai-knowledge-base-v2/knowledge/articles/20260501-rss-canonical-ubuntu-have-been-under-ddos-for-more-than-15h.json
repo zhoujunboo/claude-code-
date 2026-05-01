@@ -1,0 +1,13 @@
+{
+  "id": "20260501-rss-canonical-ubuntu-have-been-under-ddos-for-more-than-15h",
+  "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
+  "sourceUrl": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
+  "summary": "Canonical/Ubuntu 遭受持续超过15小时的DDoS攻击，影响服务可用性，凸显基础设施安全挑战。",
+  "tags": [
+    "DDoS攻击",
+    "网络安全",
+    "基础设施",
+    "Ubuntu"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "20260501-rss-show-hn-whatcable-a-tiny-menu-bar-app-for-inspecting-usb-c-c",
+  "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+  "sourceUrl": "https://github.com/darrylmorley/whatcable",
+  "summary": "一个轻量级的菜单栏应用，用于检测和查看USB-C线缆的详细信息，提升硬件调试效率。",
+  "tags": [
+    "USB-C检测",
+    "菜单栏工具",
+    "硬件调试"
+  ],
+  "status": "draft"
+}

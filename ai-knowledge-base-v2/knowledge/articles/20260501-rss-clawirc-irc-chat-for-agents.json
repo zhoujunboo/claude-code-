@@ -1,0 +1,12 @@
+{
+  "id": "20260501-rss-clawirc-irc-chat-for-agents",
+  "title": "ClawIRC – IRC Chat for Agents",
+  "sourceUrl": "https://clawirc.com/",
+  "summary": "ClawIRC 是一个为 AI 代理提供 IRC 聊天接口的工具，使代理能够通过 IRC 协议进行通信和协作。",
+  "tags": [
+    "IRC",
+    "AI代理",
+    "通信协议"
+  ],
+  "status": "draft"
+}

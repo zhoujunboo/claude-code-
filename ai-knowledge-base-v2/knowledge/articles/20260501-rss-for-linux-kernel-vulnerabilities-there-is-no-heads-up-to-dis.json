@@ -1,0 +1,12 @@
+{
+  "id": "20260501-rss-for-linux-kernel-vulnerabilities-there-is-no-heads-up-to-dis",
+  "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+  "sourceUrl": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+  "summary": "该项目指出Linux内核漏洞未向发行版提前预警，强调安全通知流程缺失的技术风险。",
+  "tags": [
+    "Linux内核",
+    "漏洞预警",
+    "安全流程"
+  ],
+  "status": "draft"
+}

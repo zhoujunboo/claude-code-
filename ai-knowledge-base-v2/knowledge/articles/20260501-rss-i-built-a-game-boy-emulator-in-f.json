@@ -1,0 +1,13 @@
+{
+  "id": "20260501-rss-i-built-a-game-boy-emulator-in-f",
+  "title": "I built a Game Boy emulator in F#",
+  "sourceUrl": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+  "summary": "使用F#语言实现的Game Boy模拟器项目，展示函数式编程在模拟器开发中的应用。",
+  "tags": [
+    "Game Boy",
+    "模拟器",
+    "F#",
+    "函数式编程"
+  ],
+  "status": "draft"
+}

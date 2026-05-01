@@ -1,0 +1,12 @@
+{
+  "id": "20260501-rss-does-postgres-scale",
+  "title": "Does Postgres Scale?",
+  "sourceUrl": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+  "summary": "该项目探讨PostgreSQL的扩展能力，分析其在高并发、大数据量场景下的性能与架构限制，提供技术评估。",
+  "tags": [
+    "PostgreSQL",
+    "数据库扩展",
+    "性能分析"
+  ],
+  "status": "draft"
+}

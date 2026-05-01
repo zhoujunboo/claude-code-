@@ -1,0 +1,13 @@
+{
+  "id": "20260501-github-nousresearch-hermes-agent",
+  "title": "NousResearch/hermes-agent",
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent",
+  "summary": "一个基于Python的AI代理项目，强调与用户共同成长，具备高可扩展性和自适应能力，技术价值在于持续学习和个性化交互。",
+  "tags": [
+    "AI代理",
+    "自适应学习",
+    "Python",
+    "个性化交互"
+  ],
+  "status": "draft"
+}
