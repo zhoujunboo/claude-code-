@@ -1,0 +1,13 @@
+{
+  "id": "20260502-rss-lib0xc-a-set-of-c-standard-library-adjacent-apis-for-safer-s",
+  "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+  "sourceUrl": "https://github.com/microsoft/lib0xc",
+  "summary": "Lib0xc 提供一组接近 C 标准库的 API，旨在提升系统编程的安全性，减少内存错误。",
+  "tags": [
+    "系统编程",
+    "C语言",
+    "安全",
+    "标准库"
+  ],
+  "status": "draft"
+}

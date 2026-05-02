@@ -1,0 +1,12 @@
+{
+  "id": "20260502-rss-create-an-mp4-video-of-a-web-page-scrolling-at-a-steady-spee",
+  "title": "Create an MP4 video of a web page scrolling at a steady speed",
+  "sourceUrl": "https://github.com/upenn/web-scroll-video",
+  "summary": "该项目实现将网页内容以恒定速度滚动并录制为MP4视频，适用于网页演示或自动化测试场景。",
+  "tags": [
+    "网页录制",
+    "视频生成",
+    "自动化"
+  ],
+  "status": "draft"
+}

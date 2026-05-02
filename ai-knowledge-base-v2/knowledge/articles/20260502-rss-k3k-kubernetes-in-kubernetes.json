@@ -1,0 +1,12 @@
+{
+  "id": "20260502-rss-k3k-kubernetes-in-kubernetes",
+  "title": "K3k: Kubernetes in Kubernetes",
+  "sourceUrl": "https://github.com/rancher/k3k",
+  "summary": "K3k 项目探索在 Kubernetes 集群内部署和管理 Kubernetes 集群的技术方案，旨在实现嵌套集群的自动化与资源隔离。",
+  "tags": [
+    "Kubernetes",
+    "嵌套集群",
+    "容器编排"
+  ],
+  "status": "draft"
+}

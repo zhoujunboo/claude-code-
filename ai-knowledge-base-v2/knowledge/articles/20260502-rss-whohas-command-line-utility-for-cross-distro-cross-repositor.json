@@ -1,0 +1,13 @@
+{
+  "id": "20260502-rss-whohas-command-line-utility-for-cross-distro-cross-repositor",
+  "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
+  "sourceUrl": "https://github.com/whohas/whohas",
+  "summary": "跨发行版、跨仓库的命令行包搜索工具，提升 Linux 包管理效率与兼容性。",
+  "tags": [
+    "命令行工具",
+    "包管理",
+    "跨发行版",
+    "Linux"
+  ],
+  "status": "draft"
+}

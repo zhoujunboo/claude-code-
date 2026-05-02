@@ -1,0 +1,13 @@
+{
+  "id": "20260502-github-hacksider-deep-live-cam",
+  "title": "hacksider/Deep-Live-Cam",
+  "sourceUrl": "https://github.com/hacksider/Deep-Live-Cam",
+  "summary": "基于单张图片实现实时换脸和一键视频深度伪造的开源工具，技术门槛低，应用场景广泛。",
+  "tags": [
+    "deepfake",
+    "实时换脸",
+    "计算机视觉",
+    "Python"
+  ],
+  "status": "draft"
+}
