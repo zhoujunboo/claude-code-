@@ -1,0 +1,12 @@
+{
+  "id": "20260503-rss-nethack-5-0-0",
+  "title": "NetHack 5.0.0",
+  "sourceUrl": "https://nethack.org/v500/release.html",
+  "summary": "NetHack 5.0.0 是经典 roguelike 游戏的新版本，延续深度策略与随机生成玩法，技术价值在于其复杂的游戏逻辑与开放源码架构。",
+  "tags": [
+    "游戏",
+    "roguelike",
+    "开源"
+  ],
+  "status": "draft"
+}

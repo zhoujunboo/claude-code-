@@ -1,0 +1,13 @@
+{
+  "id": "20260503-rss-vs-code-inserting-co-authored-by-copilot-into-commits-regard",
+  "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+  "sourceUrl": "https://github.com/microsoft/vscode/pull/310226",
+  "summary": "VS Code 在提交中自动插入“Co-Authored-by Copilot”信息，无论是否实际使用 Copilot，引发对代码归属和透明度的关注。",
+  "tags": [
+    "VS Code",
+    "Copilot",
+    "代码归属",
+    "透明度"
+  ],
+  "status": "draft"
+}

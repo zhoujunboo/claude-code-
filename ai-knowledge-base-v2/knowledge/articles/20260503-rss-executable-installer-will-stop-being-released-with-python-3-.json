@@ -1,0 +1,13 @@
+{
+  "id": "20260503-rss-executable-installer-will-stop-being-released-with-python-3-",
+  "title": "Executable installer will stop being released with Python 3.16",
+  "sourceUrl": "https://www.python.org/downloads/release/pymanager-261/",
+  "summary": "Python 3.16 起将停止发布可执行安装程序，影响用户部署方式，需关注替代方案。",
+  "tags": [
+    "Python",
+    "安装程序",
+    "版本变更",
+    "部署"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "20260503-rss-a-couple-million-lines-of-haskell-production-engineering-at-",
+  "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+  "sourceUrl": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+  "summary": "Mercury 公司分享在生产环境中使用数百万行 Haskell 的工程实践，展示函数式语言在金融科技中的技术价值与挑战。",
+  "tags": [
+    "Haskell",
+    "生产环境",
+    "金融科技",
+    "工程实践"
+  ],
+  "status": "draft"
+}

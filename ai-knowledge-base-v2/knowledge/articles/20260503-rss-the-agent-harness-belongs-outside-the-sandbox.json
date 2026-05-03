@@ -1,0 +1,12 @@
+{
+  "id": "20260503-rss-the-agent-harness-belongs-outside-the-sandbox",
+  "title": "The agent harness belongs outside the sandbox",
+  "sourceUrl": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+  "summary": "该项目探讨智能体工具链中沙箱外部的代理控制机制，强调安全与灵活性的技术平衡。",
+  "tags": [
+    "智能体",
+    "沙箱",
+    "安全架构"
+  ],
+  "status": "draft"
+}

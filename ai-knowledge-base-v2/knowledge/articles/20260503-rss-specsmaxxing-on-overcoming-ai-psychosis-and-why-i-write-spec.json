@@ -1,0 +1,12 @@
+{
+  "id": "20260503-rss-specsmaxxing-on-overcoming-ai-psychosis-and-why-i-write-spec",
+  "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+  "sourceUrl": "https://acai.sh/blog/specsmaxxing",
+  "summary": "探讨AI幻觉问题，提出用YAML编写规范来克服AI精神病，强调结构化输入对提升AI可靠性的技术价值。",
+  "tags": [
+    "AI可靠性",
+    "YAML规范",
+    "AI幻觉"
+  ],
+  "status": "draft"
+}

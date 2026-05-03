@@ -1,0 +1,13 @@
+{
+  "id": "20260503-rss-dabbling-in-erlang-part-2-a-minimal-introduction-2013",
+  "title": "Dabbling in Erlang, part 2: A minimal introduction (2013)",
+  "sourceUrl": "https://agis.io/post/dabbling-in-erlang-a-minimal-introduction/",
+  "summary": "一篇2013年的Erlang入门教程，介绍基础语法和并发模型，适合初学者快速了解Erlang核心概念。",
+  "tags": [
+    "Erlang",
+    "教程",
+    "入门",
+    "并发编程"
+  ],
+  "status": "draft"
+}
