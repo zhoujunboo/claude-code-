@@ -1,0 +1,13 @@
+{
+  "id": "20260504-rss-the-hidden-costs-of-great-abstractions",
+  "title": "The 'Hidden' Costs of Great Abstractions",
+  "sourceUrl": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+  "summary": "探讨抽象设计中的隐性成本，分析其对系统复杂性、维护性和性能的潜在影响，强调平衡抽象与实用性的技术价值。",
+  "tags": [
+    "软件设计",
+    "抽象",
+    "技术债务",
+    "系统架构"
+  ],
+  "status": "draft"
+}

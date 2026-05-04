@@ -1,0 +1,14 @@
+{
+  "id": "20260504-rss-stitch-together-lots-of-little-html-pages-with-navigations-f",
+  "title": "Stitch together lots of little HTML pages with navigations for interactions",
+  "sourceUrl": "https://blog.jim-nielsen.com/2026/small-html-pages/",
+  "summary": "该项目通过导航将多个小HTML页面拼接，实现交互式浏览体验，适合轻量级前端原型或文档组织。",
+  "tags": [
+    "HTML",
+    "前端",
+    "导航",
+    "交互",
+    "原型"
+  ],
+  "status": "draft"
+}

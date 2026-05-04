@@ -1,0 +1,14 @@
+{
+  "id": "20260504-rss-the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-access",
+  "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+  "sourceUrl": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+  "summary": "文章批判现代TUI（文本用户界面）在可访问性上的失败，指出其背离传统文本模式设计原则，导致屏幕阅读器等辅助工具难以支持。",
+  "tags": [
+    "可访问性",
+    "TUI",
+    "文本界面",
+    "用户体验",
+    "辅助技术"
+  ],
+  "status": "draft"
+}

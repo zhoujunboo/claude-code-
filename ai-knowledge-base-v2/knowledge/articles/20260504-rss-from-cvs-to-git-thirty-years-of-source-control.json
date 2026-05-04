@@ -1,0 +1,13 @@
+{
+  "id": "20260504-rss-from-cvs-to-git-thirty-years-of-source-control",
+  "title": "From CVS to Git, thirty years of source control",
+  "sourceUrl": "https://evilgeniuslabs.ca/blog/from-cvs-to-git-thirty-years-of-source-control",
+  "summary": "该项目探讨从CVS到Git的版本控制技术演进，总结三十年发展历程，突出Git的分布式架构与效率优势。",
+  "tags": [
+    "版本控制",
+    "技术演进",
+    "Git",
+    "CVS"
+  ],
+  "status": "draft"
+}

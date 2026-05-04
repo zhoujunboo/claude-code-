@@ -1,0 +1,13 @@
+{
+  "id": "20260504-rss-openai-s-o1-correctly-diagnosed-67-of-er-patients-vs-50-55-b",
+  "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+  "sourceUrl": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+  "summary": "OpenAI的o1模型在急诊诊断中准确率达67%，高于分诊医生的50-55%，展示了AI在医疗辅助诊断中的技术潜力。",
+  "tags": [
+    "AI医疗",
+    "诊断准确率",
+    "大语言模型",
+    "急诊医学"
+  ],
+  "status": "draft"
+}

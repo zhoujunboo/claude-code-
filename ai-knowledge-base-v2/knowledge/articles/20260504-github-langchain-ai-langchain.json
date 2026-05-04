@@ -1,0 +1,14 @@
+{
+  "id": "20260504-github-langchain-ai-langchain",
+  "title": "langchain-ai/langchain",
+  "sourceUrl": "https://github.com/langchain-ai/langchain",
+  "summary": "LangChain 是一个智能体工程平台，提供 TypeScript 支持，简化 AI 应用开发流程。",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "开发框架",
+    "TypeScript",
+    "Python"
+  ],
+  "status": "draft"
+}
