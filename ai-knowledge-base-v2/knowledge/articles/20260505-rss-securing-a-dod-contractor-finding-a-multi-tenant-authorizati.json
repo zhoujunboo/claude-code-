@@ -1,0 +1,13 @@
+{
+  "id": "20260505-rss-securing-a-dod-contractor-finding-a-multi-tenant-authorizati",
+  "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+  "sourceUrl": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+  "summary": "分析国防部承包商多租户授权漏洞，提升系统安全防护能力。",
+  "tags": [
+    "安全",
+    "授权漏洞",
+    "多租户",
+    "国防部"
+  ],
+  "status": "draft"
+}

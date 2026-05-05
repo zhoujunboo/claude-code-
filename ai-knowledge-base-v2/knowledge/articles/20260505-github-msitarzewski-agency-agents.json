@@ -1,0 +1,14 @@
+{
+  "id": "20260505-github-msitarzewski-agency-agents",
+  "title": "msitarzewski/agency-agents",
+  "sourceUrl": "https://github.com/msitarzewski/agency-agents",
+  "summary": "基于Shell构建的AI代理机构系统，提供多样化专业代理（前端、社区管理、创意、审核等），具备个性化和交付能力。",
+  "tags": [
+    "AI代理",
+    "多代理系统",
+    "自动化",
+    "Shell",
+    "开源"
+  ],
+  "status": "draft"
+}

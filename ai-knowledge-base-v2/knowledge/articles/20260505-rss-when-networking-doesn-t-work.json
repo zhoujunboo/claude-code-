@@ -1,0 +1,12 @@
+{
+  "id": "20260505-rss-when-networking-doesn-t-work",
+  "title": "When Networking Doesn't Work",
+  "sourceUrl": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+  "summary": "该项目探讨网络通信失效时的应对策略，可能涉及容错、诊断或替代方案，技术价值在于提升系统鲁棒性。",
+  "tags": [
+    "网络",
+    "容错",
+    "系统可靠性"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20260505-rss-how-openai-delivers-low-latency-voice-ai-at-scale",
+  "title": "How OpenAI delivers low-latency voice AI at scale",
+  "sourceUrl": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+  "summary": "OpenAI 实现低延迟语音 AI 大规模部署的技术方案，聚焦实时性与可扩展性优化。",
+  "tags": [
+    "低延迟",
+    "语音AI",
+    "大规模部署",
+    "OpenAI",
+    "实时系统"
+  ],
+  "status": "draft"
+}

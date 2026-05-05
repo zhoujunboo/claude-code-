@@ -1,0 +1,13 @@
+{
+  "id": "20260505-rss-train-your-own-llm-from-scratch",
+  "title": "Train Your Own LLM from Scratch",
+  "sourceUrl": "https://github.com/angelos-p/llm-from-scratch",
+  "summary": "该项目提供从零开始训练大型语言模型的完整指南，涵盖数据准备、模型架构和训练流程，具有重要的技术教育价值。",
+  "tags": [
+    "LLM",
+    "训练",
+    "开源",
+    "教育"
+  ],
+  "status": "draft"
+}

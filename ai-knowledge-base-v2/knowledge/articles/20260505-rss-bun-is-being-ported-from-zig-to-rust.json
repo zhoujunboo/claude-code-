@@ -1,0 +1,14 @@
+{
+  "id": "20260505-rss-bun-is-being-ported-from-zig-to-rust",
+  "title": "Bun is being ported from Zig to Rust",
+  "sourceUrl": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+  "summary": "Bun 运行时正在从 Zig 语言迁移到 Rust，可能影响性能与生态，技术重构价值高。",
+  "tags": [
+    "Bun",
+    "Zig",
+    "Rust",
+    "运行时",
+    "重构"
+  ],
+  "status": "draft"
+}

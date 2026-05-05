@@ -1,0 +1,13 @@
+{
+  "id": "20260505-rss-async-rust-never-left-the-mvp-state",
+  "title": "Async Rust never left the MVP state",
+  "sourceUrl": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+  "summary": "该文探讨了异步Rust在生态成熟度上的不足，指出其长期停留在最小可行产品阶段，缺乏关键库和工具支持。",
+  "tags": [
+    "Rust",
+    "异步编程",
+    "生态分析",
+    "技术批判"
+  ],
+  "status": "draft"
+}
