@@ -1,0 +1,13 @@
+{
+  "id": "20260506-rss-accelerating-gemma-4-faster-inference-with-multi-token-predi",
+  "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+  "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+  "summary": "通过多令牌预测草稿模型加速Gemma 4推理，提升生成效率，降低延迟。",
+  "tags": [
+    "推理加速",
+    "多令牌预测",
+    "Gemma 4",
+    "模型优化"
+  ],
+  "status": "draft"
+}

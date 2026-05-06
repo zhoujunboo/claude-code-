@@ -1,0 +1,14 @@
+{
+  "id": "20260506-rss-reverse-engineering-the-1998-ultima-online-demo-server",
+  "title": "Reverse-engineering the 1998 Ultima Online demo server",
+  "sourceUrl": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
+  "summary": "逆向工程1998年《网络创世纪》演示服务器，揭示早期MMO网络协议与游戏架构的技术细节。",
+  "tags": [
+    "逆向工程",
+    "游戏开发",
+    "网络协议",
+    "MMO",
+    "历史软件"
+  ],
+  "status": "draft"
+}
