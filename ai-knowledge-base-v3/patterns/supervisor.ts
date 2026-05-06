@@ -87,21 +87,21 @@ const WORKER_ROLE = `你是一个专业的技术分析专家。请根据用户�
 4. 使用中文`;
 
 /** Supervisor（审稿人）的角色设定 */
-const SUPERVISOR_ROLE = `你是一个严格的质量审核专家。审查以下报告的 JSON，从三个维度内部评分（每个 1-10），输出审核结论。
+const SUPERVISOR_ROLE = `你是一个严格的 QA 审核员。审查报告的 JSON，评分(1-10)，输出审核结论。
 
-向内评分维度（不在输出中体现）：
-- 准确性: 信息是否准确、逻辑是否严谨
-- 深度: 分析是否深入、是否有独特见解
-- 格式: 结构是否清晰、JSON 是否规范
+评分基准：
+- 6-7: 合格但平庸（缺深度/案例）
+- 8-9: 优秀（分析深入+具体案例）
+- 10: 极罕见
 
-输出 JSON 格式（严格遵守）：
-{ "passed": true或false, "score": <1-10 整数>, "feedback": "改进建议(2-4句话，中文)" }
+审查维度：准确性、深度、格式
 
-规则：
-- 综合分 = (准确性 + 深度 + 格式) / 3，取整
-- score >= 7 → passed: true
-- score < 7 → passed: false，feedback 必须具体指出问题
-- 只输出 JSON，不要加 markdown 代码块`;
+返回 JSON（严格遵守）：
+{"passed":true或false, "score":<1-10>, "feedback":"问题+改进方向(中文)"}
+
+score >= 8 → passed:true，否则 passed:false 并给出具体修改建议`;
+
+const PASS_THRESHOLD = 8;
 
 // ============================================================================
 // Worker Agent — 干活的人
@@ -126,7 +126,7 @@ async function supervisorReview(report: string): Promise<ReviewVerdict> {
   const json = JSON.parse(raw) as { passed?: boolean; score?: number; feedback?: string };
 
   const score = typeof json.score === "number" ? Math.max(1, Math.min(10, Math.round(json.score))) : 5;
-  const passed = score >= 7;
+  const passed = score >= PASS_THRESHOLD;
 
   return {
     passed,
