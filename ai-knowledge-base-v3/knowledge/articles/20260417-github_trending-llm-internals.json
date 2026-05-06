@@ -1,0 +1,8 @@
+{
+  "id": "20260417-github_trending-llm-internals",
+  "title": "llm-internals",
+  "sourceUrl": "https://github.com/amitshekhariitbhu/llm-internals",
+  "summary": "系统讲解 LLM 内部机制的学习仓库，适合快速补齐从分词到推理优化的知识链路。",
+  "tags": ["llm", "learning", "attention", "inference"],
+  "status": "analyzed"
+}

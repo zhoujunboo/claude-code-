@@ -1,0 +1,8 @@
+{
+  "id": "20260417-github_trending-easy-agent",
+  "title": "easy-agent",
+  "sourceUrl": "https://github.com/ConardLi/easy-agent",
+  "summary": "从零复刻 Claude Code 核心思路的项目，适合学习 AI 编码 Agent 的实现结构。",
+  "tags": ["agent", "claude-code", "learning", "ai-coding"],
+  "status": "analyzed"
+}

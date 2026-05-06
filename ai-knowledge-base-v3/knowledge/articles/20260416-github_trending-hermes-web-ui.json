@@ -1,0 +1,9 @@
+{
+  "id": "20260416-github_trending-hermes-web-ui",
+  "title": "hermes-web-ui",
+  "sourceUrl": "https://github.com/EKKOLearnAI/hermes-web-ui",
+  "sourceType": "github_trending",
+  "summary": "Hermes Agent的Web仪表板，支持多平台AI聊天（Telegram、Discord等）、会话管理、定时任务、使用分析和频道配置。",
+  "tags": ["chatbot", "dashboard", "multi-platform", "monitoring", "automation"],
+  "status": "analyzed"
+}

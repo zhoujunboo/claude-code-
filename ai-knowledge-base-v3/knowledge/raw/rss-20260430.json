@@ -1,0 +1,27 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-04-30T05:54:14.961Z",
+  "items": [
+    {
+      "title": "Copy Fail: 732 Bytes to Root on Every Major Linux Distribution",
+      "url": "https://xint.io/blog/copy-fail-linux-distributions",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T05:54:14.960Z"
+    },
+    {
+      "title": "Monad Tutorials Timeline",
+      "url": "https://wiki.haskell.org/Monad_tutorials_timeline",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T05:54:14.961Z"
+    },
+    {
+      "title": "Lessons from Building an OTel Normalizer for GenAI",
+      "url": "https://www.groundcover.com/blog/otel-normalizer-genai-part-1",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-04-30T05:54:14.961Z"
+    }
+  ]
+}

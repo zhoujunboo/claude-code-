@@ -1,0 +1,8 @@
+{
+  "id": "20260417-github_trending-cli-to-js",
+  "title": "cli-to-js",
+  "sourceUrl": "https://github.com/millionco/cli-to-js",
+  "summary": "把命令行工具包装成 JavaScript API 的工具，适合把现有 CLI 快速接入 Agent 和自动化流程。",
+  "tags": ["cli", "javascript", "api", "agent"],
+  "status": "analyzed"
+}

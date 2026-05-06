@@ -1,0 +1,223 @@
+{
+  "source": "bestofjs",
+  "skill": "bestofjs-weekly-ai",
+  "collectedAt": "2026-04-17T06:11:09.186Z",
+  "ranking": {
+    "period": "last_7_days",
+    "sort": "weekly",
+    "limit": 15,
+    "filter": "ai_related_only"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "name": "Paperclip",
+      "slug": "paperclip",
+      "bestofjsUrl": "https://bestofjs.org/projects/paperclip",
+      "githubUrl": "https://github.com/paperclipai/paperclip",
+      "homepage": "https://paperclip.ing",
+      "starsPerDay": 593.6,
+      "estimatedWeeklyStars": 4155,
+      "bestofjsTags": [
+        "AI",
+        "AI Agents"
+      ],
+      "summary": "Paperclip 是一个AI 工作流编排工具，聚焦多步骤任务编排与流程自动化，适合企业流程、Agent 工作流等场景，近期在 Best of JS 周榜增长很快。"
+    },
+    {
+      "rank": 2,
+      "name": "get-shit-done",
+      "slug": "get-shit-done",
+      "bestofjsUrl": "https://bestofjs.org/projects/get-shit-done",
+      "githubUrl": "https://github.com/gsd-build/get-shit-done",
+      "homepage": null,
+      "starsPerDay": 591.4,
+      "estimatedWeeklyStars": 4140,
+      "bestofjsTags": [
+        "AI Methodology",
+        "AI"
+      ],
+      "summary": "get-shit-done 是一个AI 方法论与提示工程工具，聚焦提示工程、上下文管理与规范驱动开发，适合团队协作、AI 编程规范等场景，近期在 Best of JS 周榜增长很快。"
+    },
+    {
+      "rank": 3,
+      "name": "OpenCode",
+      "slug": "opencode",
+      "bestofjsUrl": "https://bestofjs.org/projects/opencode",
+      "githubUrl": "https://github.com/anomalyco/opencode",
+      "homepage": "https://opencode.ai",
+      "starsPerDay": 560.3,
+      "estimatedWeeklyStars": 3922,
+      "bestofjsTags": [
+        "AI"
+      ],
+      "summary": "OpenCode 是一个AI 编码代理，聚焦代码生成、终端协作与自动执行，适合代码助手、研发自动化等场景，近期在 Best of JS 周榜增长很快。"
+    },
+    {
+      "rank": 4,
+      "name": "Pi",
+      "slug": "pi",
+      "bestofjsUrl": "https://bestofjs.org/projects/pi",
+      "githubUrl": "https://github.com/badlogic/pi-mono",
+      "homepage": "https://pi.dev/",
+      "starsPerDay": 376.4,
+      "estimatedWeeklyStars": 2635,
+      "bestofjsTags": [
+        "AI"
+      ],
+      "summary": "Pi 是一个AI 编码代理，聚焦代码生成、终端协作与自动执行，适合代码助手、研发自动化等场景，近期在 Best of JS 周榜增长很快。"
+    },
+    {
+      "rank": 5,
+      "name": "n8n",
+      "slug": "n8n",
+      "bestofjsUrl": "https://bestofjs.org/projects/n8n",
+      "githubUrl": "https://github.com/n8n-io/n8n",
+      "homepage": "https://n8n.io",
+      "starsPerDay": 151.7,
+      "estimatedWeeklyStars": 1062,
+      "bestofjsTags": [
+        "Workflow automation"
+      ],
+      "summary": "n8n 是一个AI 工作流编排工具，聚焦多步骤任务编排与流程自动化，适合企业流程、Agent 工作流等场景，近期在 Best of JS 周榜增长很快。"
+    },
+    {
+      "rank": 6,
+      "name": "GSD 2",
+      "slug": "gsd-2",
+      "bestofjsUrl": "https://bestofjs.org/projects/gsd-2",
+      "githubUrl": "https://github.com/gsd-build/gsd-2",
+      "homepage": null,
+      "starsPerDay": 120.3,
+      "estimatedWeeklyStars": 842,
+      "bestofjsTags": [
+        "AI Methodology",
+        "AI"
+      ],
+      "summary": "GSD 2 是一个AI 方法论与提示工程工具，聚焦提示工程、上下文管理与规范驱动开发，适合团队协作、AI 编程规范等场景，近期在 Best of JS 周榜增长很快。"
+    },
+    {
+      "rank": 7,
+      "name": "BMad-Method",
+      "slug": "bmad-method",
+      "bestofjsUrl": "https://bestofjs.org/projects/bmad-method",
+      "githubUrl": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "homepage": null,
+      "starsPerDay": 107.9,
+      "estimatedWeeklyStars": 755,
+      "bestofjsTags": [
+        "AI Methodology",
+        "AI"
+      ],
+      "summary": "BMad-Method 是一个AI 方法论与提示工程工具，聚焦AI 能力接入与实际落地，适合产品原型、智能助手等场景，近期在 Best of JS 周榜增长很快。"
+    },
+    {
+      "rank": 8,
+      "name": "Gemini CLI",
+      "slug": "gemini-cli",
+      "bestofjsUrl": "https://bestofjs.org/projects/gemini-cli",
+      "githubUrl": "https://github.com/google-gemini/gemini-cli",
+      "homepage": "https://geminicli.com",
+      "starsPerDay": 107.1,
+      "estimatedWeeklyStars": 750,
+      "bestofjsTags": [
+        "AI"
+      ],
+      "summary": "Gemini CLI 是一个命令行 AI 助手，聚焦AI 能力接入与实际落地，适合终端开发、个人效率等场景，近期在 Best of JS 周榜增长很快。"
+    },
+    {
+      "rank": 9,
+      "name": "VoltAgent",
+      "slug": "voltagent",
+      "bestofjsUrl": "https://bestofjs.org/projects/voltagent",
+      "githubUrl": "https://github.com/VoltAgent/voltagent",
+      "homepage": "https://voltagent.dev",
+      "starsPerDay": 68.4,
+      "estimatedWeeklyStars": 479,
+      "bestofjsTags": [
+        "Chat"
+      ],
+      "summary": "VoltAgent 是一个AI Agent 开发平台，聚焦AI 对话界面与应用集成，适合AI 助手、会话式产品等场景，近期在 Best of JS 周榜增长很快。"
+    },
+    {
+      "rank": 10,
+      "name": "agent-skills",
+      "slug": "agent-skills",
+      "bestofjsUrl": "https://bestofjs.org/projects/agent-skills",
+      "githubUrl": "https://github.com/vercel-labs/agent-skills",
+      "homepage": "https://skills.sh/vercel-labs/agent-skills",
+      "starsPerDay": 62.6,
+      "estimatedWeeklyStars": 438,
+      "bestofjsTags": [
+        "React"
+      ],
+      "summary": "agent-skills 是一个AI Agent 开发平台，聚焦AI 应用开发与集成，适合产品原型、智能助手等场景，近期在 Best of JS 周榜增长很快。"
+    },
+    {
+      "rank": 11,
+      "name": "Repomix",
+      "slug": "repomix",
+      "bestofjsUrl": "https://bestofjs.org/projects/repomix",
+      "githubUrl": "https://github.com/yamadashy/repomix",
+      "homepage": "https://repomix.com",
+      "starsPerDay": 41.7,
+      "estimatedWeeklyStars": 292,
+      "bestofjsTags": [
+        "Scraping"
+      ],
+      "summary": "Repomix 是一个AI 开发工具，聚焦AI 能力接入与实际落地，适合产品原型、智能助手等场景，近期在 Best of JS 周榜增长很快。"
+    },
+    {
+      "rank": 12,
+      "name": "Cline",
+      "slug": "cline",
+      "bestofjsUrl": "https://bestofjs.org/projects/cline",
+      "githubUrl": "https://github.com/cline/cline",
+      "homepage": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev",
+      "starsPerDay": 37.1,
+      "estimatedWeeklyStars": 260,
+      "bestofjsTags": [],
+      "summary": "Cline 是一个AI 编码代理，聚焦代码生成、终端协作与自动执行，适合代码助手、研发自动化等场景，近期在 Best of JS 周榜增长很快。"
+    },
+    {
+      "rank": 13,
+      "name": "Mastra",
+      "slug": "mastra",
+      "bestofjsUrl": "https://bestofjs.org/projects/mastra",
+      "githubUrl": "https://github.com/mastra-ai/mastra",
+      "homepage": "https://mastra.ai",
+      "starsPerDay": 31.9,
+      "estimatedWeeklyStars": 223,
+      "bestofjsTags": [
+        "AI"
+      ],
+      "summary": "Mastra 是一个AI 开发工具，聚焦Agent 构建、扩展与集成能力，适合产品原型、智能助手等场景，近期在 Best of JS 周榜增长很快。"
+    },
+    {
+      "rank": 14,
+      "name": "Vercel AI SDK",
+      "slug": "vercel-ai-sdk",
+      "bestofjsUrl": "https://bestofjs.org/projects/vercel-ai-sdk",
+      "githubUrl": "https://github.com/vercel/ai",
+      "homepage": "https://ai-sdk.dev",
+      "starsPerDay": 28.3,
+      "estimatedWeeklyStars": 198,
+      "bestofjsTags": [],
+      "summary": "Vercel AI SDK 是一个AI 开发工具，聚焦Agent 构建、扩展与集成能力，适合产品原型、智能助手等场景，近期在 Best of JS 周榜增长很快。"
+    },
+    {
+      "rank": 15,
+      "name": "json-render",
+      "slug": "json-render",
+      "bestofjsUrl": "https://bestofjs.org/projects/json-render",
+      "githubUrl": "https://github.com/vercel-labs/json-render",
+      "homepage": "https://json-render.dev",
+      "starsPerDay": 27,
+      "estimatedWeeklyStars": 189,
+      "bestofjsTags": [
+        "React"
+      ],
+      "summary": "json-render 是一个AI 方法论与提示工程工具，聚焦提示工程、上下文管理与规范驱动开发，适合团队协作、AI 编程规范等场景，近期在 Best of JS 周榜增长很快。"
+    }
+  ]
+}

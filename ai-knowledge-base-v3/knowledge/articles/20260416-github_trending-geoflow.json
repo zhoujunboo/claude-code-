@@ -1,0 +1,9 @@
+{
+  "id": "20260416-github_trending-geoflow",
+  "title": "GEOFlow",
+  "sourceUrl": "https://github.com/yaojingang/GEOFlow",
+  "sourceType": "github_trending",
+  "summary": "开源GEO内容生产系统，集成AI任务、审核工作流和发布功能，实现地理内容的全流程自动化生产。",
+  "tags": ["geo", "content-generation", "workflow", "open-source", "automation"],
+  "status": "analyzed"
+}

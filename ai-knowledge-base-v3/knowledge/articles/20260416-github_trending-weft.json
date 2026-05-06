@@ -1,0 +1,9 @@
+{
+  "id": "20260416-github_trending-weft",
+  "title": "weft",
+  "sourceUrl": "https://github.com/WeaveMindAI/weft",
+  "sourceType": "github_trending",
+  "summary": "专为AI系统设计的编程语言，提供更适合AI开发和智能体编程的语法和范式，提升开发效率和系统性能。",
+  "tags": ["programming-language", "ai-systems", "language-design", "agents"],
+  "status": "analyzed"
+}

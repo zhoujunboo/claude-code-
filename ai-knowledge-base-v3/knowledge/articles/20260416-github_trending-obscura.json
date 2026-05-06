@@ -1,0 +1,9 @@
+{
+  "id": "20260416-github_trending-obscura",
+  "title": "obscura",
+  "sourceUrl": "https://github.com/h4ckf0r0day/obscura",
+  "sourceType": "github_trending",
+  "summary": "专为AI智能体和网络爬虫设计的无头浏览器，提供优化的浏览器环境，提升自动化任务执行效率和稳定性。",
+  "tags": ["headless-browser", "web-scraping", "ai-agents", "automation", "testing"],
+  "status": "analyzed"
+}

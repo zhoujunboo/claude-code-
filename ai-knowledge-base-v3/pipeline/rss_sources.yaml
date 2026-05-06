@@ -1,0 +1,48 @@
+# pipeline/rss_sources.yaml — RSS 数据源配置
+# enabled: true  采集该源
+# enabled: false 跳过该源（量太大或不可用）
+
+sources:
+  # ── 综合技术 ─────────────────────────────────────────────────────────────
+  - name: Hacker News Best
+    url: https://hnrss.org/best?count=30
+    category: 综合技术
+    enabled: true
+
+  - name: Lobsters AI/ML
+    url: https://lobste.rs/tags/ai-ml.rss
+    category: 综合技术
+    enabled: true
+
+  # ── AI 研究 ───────────────────────────────────────────────────────────────
+  - name: arXiv cs.AI
+    url: https://rss.arxiv.org/rss/cs.AI
+    category: AI 研究
+    enabled: false
+
+  # ── 公司博客 ─────────────────────────────────────────────────────────────
+  - name: OpenAI Blog
+    url: https://openai.com/blog/feed.xml
+    category: 公司博客
+    enabled: true
+
+  - name: Anthropic Research
+    url: https://www.anthropic.com/research/feed.xml
+    category: 公司博客
+    enabled: true
+
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    category: 公司博客
+    enabled: true
+
+  # ── 中文社区 ─────────────────────────────────────────────────────────────
+  - name: 机器之心
+    url: https://www.jiqizhixin.com/rss
+    category: 中文社区
+    enabled: false
+
+  - name: 量子位
+    url: https://www.qbitai.com/feed
+    category: 中文社区
+    enabled: false

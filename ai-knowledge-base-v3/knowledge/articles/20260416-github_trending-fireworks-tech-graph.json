@@ -1,0 +1,9 @@
+{
+  "id": "20260416-github_trending-fireworks-tech-graph",
+  "title": "fireworks-tech-graph",
+  "sourceUrl": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+  "sourceType": "github_trending",
+  "summary": "Claude Code技能，生成高质量SVG+PNG技术图，支持8种图表类型和5种视觉风格，专为AI/智能体领域知识可视化设计。",
+  "tags": ["claude-code", "svg", "visualization", "ai-tools"],
+  "status": "analyzed"
+}

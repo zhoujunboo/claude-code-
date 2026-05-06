@@ -1,0 +1,8 @@
+{
+  "id": "20260417-github_trending-agentic-inbox",
+  "title": "agentic-inbox",
+  "sourceUrl": "https://github.com/cloudflare/agentic-inbox",
+  "summary": "运行在 Cloudflare Workers 上的自托管 AI 邮件客户端，适合探索邮件场景的 Agent 自动化。",
+  "tags": ["agent", "email", "cloudflare-workers", "productivity"],
+  "status": "analyzed"
+}

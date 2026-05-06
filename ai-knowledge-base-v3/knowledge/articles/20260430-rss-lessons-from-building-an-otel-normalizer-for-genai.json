@@ -1,0 +1,12 @@
+{
+  "id": "20260430-rss-lessons-from-building-an-otel-normalizer-for-genai",
+  "title": "Lessons from Building an OTel Normalizer for GenAI",
+  "sourceUrl": "https://www.groundcover.com/blog/otel-normalizer-genai-part-1",
+  "summary": "该项目探讨为生成式AI构建OTel标准化工具的经验，聚焦技术实现与价值，但缺乏具体细节。",
+  "tags": [
+    "OpenTelemetry",
+    "GenAI",
+    "标准化"
+  ],
+  "status": "draft"
+}

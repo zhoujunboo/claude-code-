@@ -1,0 +1,9 @@
+{
+  "id": "20260416-github_trending-hy-world-2-0",
+  "title": "HY-World-2.0",
+  "sourceUrl": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
+  "sourceType": "github_trending",
+  "summary": "腾讯混元多模态世界模型，用于3D世界的重建、生成和模拟，推动虚拟环境创建和数字孪生技术发展。",
+  "tags": ["3d-generation", "world-model", "multimodal", "tencent", "digital-twin"],
+  "status": "analyzed"
+}

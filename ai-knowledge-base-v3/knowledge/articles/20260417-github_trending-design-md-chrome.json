@@ -1,0 +1,8 @@
+{
+  "id": "20260417-github_trending-design-md-chrome",
+  "title": "design-md-chrome",
+  "sourceUrl": "https://github.com/bergside/design-md-chrome",
+  "summary": "提取网页设计语言并生成 DESIGN.md 的扩展，适合为 AI 生成前端提供可复用设计上下文。",
+  "tags": ["design", "chrome-extension", "frontend", "ai"],
+  "status": "analyzed"
+}
