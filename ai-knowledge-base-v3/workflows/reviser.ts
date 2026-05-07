@@ -93,7 +93,8 @@ export async function reviseNode(state: KBState): Promise<Partial<KBState>> {
     return {};
   }
 
-  console.log(`[reviseNode] 根据反馈修正 ${analyses.length} 条 analyses...`);
+  const round = state.iteration ?? 0;
+  console.log(`[reviseNode] 根据反馈修正 ${analyses.length} 条 analyses (第 ${round} 轮修正)...`);
   log(`反馈: ${review_feedback.slice(0, 100)}${review_feedback.length > 100 ? "..." : ""}`);
 
   const tracker: CostTracker = { ...cost_tracker };
