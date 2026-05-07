@@ -274,7 +274,6 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
       console.log(`  预算状态: ${status}`);
     }
 
-    await guard.saveReport();
     console.log();
 
     // ════════════════════════════════════════════════════════════════════════════
@@ -302,7 +301,6 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
       console.log(`  预算超限检测通过: 成本已超出预算！当前: ¥${exceededError.totalCost.toFixed(4)}, 预算: ¥${exceededError.budget.toFixed(2)}`);
     }
 
-    await guard2.saveReport();
     console.log();
 
     // ════════════════════════════════════════════════════════════════════════════
@@ -336,12 +334,13 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
     }
     assert(exceeded2, "追加后应抛出 BudgetExceededError");
 
-    await guard3.saveReport();
     console.log();
 
     // ════════════════════════════════════════════════════════════════════════════
     // 汇总
     // ════════════════════════════════════════════════════════════════════════════
+
+    await guard3.saveReport();
 
     if (failed === 0) {
       console.log("所有测试通过！");
