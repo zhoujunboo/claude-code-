@@ -32,6 +32,7 @@ import { humanFlagNode } from "./human_flag.js";
 import { plannerNode } from "./planner.js";
 import { organizeNode } from "./organizer.js";
 import type { KBState, SourceItem, AnalysisItem, ArticleItem, CostTracker, Plan } from "./state.js";
+import { getCostGuard } from "../pipeline/model_client.js";
 
 // ============================================================================
 // State 定义
@@ -151,6 +152,15 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
     app.invoke(initialState).then((finalState) => {
       console.log("\n=== 完成 ===");
       console.log(`articles: ${finalState.articles.length} | passed: ${finalState.review_passed} | iteration: ${finalState.iteration}`);
+
+      const guard = getCostGuard();
+      const report = guard.getReport() as Record<string, unknown>;
+      const summary = report.summary as Record<string, unknown>;
+      const byNode = report.byNode as Record<string, Record<string, unknown>>;
+      console.log(`\n[CostGuard] 总调用 ${summary.totalCalls ?? 0} 次 · 总成本 ¥${(summary.totalCostYuan as number)?.toFixed(4)}`);
+      const nodes = Object.entries(byNode).map(([k, v]) => `${k}: ¥${v.costYuan}`).join(", ");
+      console.log(`[CostGuard] 按节点: {${nodes}}`);
+      guard.saveReport();
     }).catch((err: Error) => { console.error(err.message); process.exit(1); });
   } else {
     console.log(`=== ${title} (stream) ===\n`);
@@ -176,6 +186,15 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
 
       console.log(`路径: ${steps.join(" → ")}`);
       console.log("\n=== 完成 ===");
+
+      const guard = getCostGuard();
+      const report = guard.getReport() as Record<string, unknown>;
+      const summary = report.summary as Record<string, unknown>;
+      const byNode = report.byNode as Record<string, Record<string, unknown>>;
+      console.log(`\n[CostGuard] 总调用 ${summary.totalCalls ?? 0} 次 · 总成本 ¥${(summary.totalCostYuan as number)?.toFixed(4)}`);
+      const nodes = Object.entries(byNode).map(([k, v]) => `${k}: ¥${v.costYuan}`).join(", ");
+      console.log(`[CostGuard] 按节点: {${nodes}}`);
+      guard.saveReport();
     })().catch((err: Error) => { console.error(err.message); process.exit(1); });
   }
 }
