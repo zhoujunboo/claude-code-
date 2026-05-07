@@ -1,0 +1,13 @@
+{
+  "id": "20260506-rss-behavior-oriented-concurrency-for-python",
+  "title": "Behavior-Oriented Concurrency for Python",
+  "sourceUrl": "https://microsoft.github.io/bocpy/",
+  "summary": "提出面向行为的并发模型，旨在改进 Python 并发编程的结构化与可维护性，具有潜在的技术创新价值。",
+  "tags": [
+    "Python",
+    "并发编程",
+    "行为驱动",
+    "结构化并发"
+  ],
+  "status": "draft"
+}

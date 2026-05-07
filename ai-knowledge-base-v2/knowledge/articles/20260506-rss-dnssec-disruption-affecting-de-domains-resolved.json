@@ -1,0 +1,13 @@
+{
+  "id": "20260506-rss-dnssec-disruption-affecting-de-domains-resolved",
+  "title": "DNSSEC disruption affecting .de domains – Resolved",
+  "sourceUrl": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+  "summary": "DNSSEC 中断影响 .de 域名，问题已解决。技术价值在于维护 DNS 安全扩展的稳定性。",
+  "tags": [
+    "DNSSEC",
+    "DNS",
+    "安全",
+    "故障恢复"
+  ],
+  "status": "draft"
+}

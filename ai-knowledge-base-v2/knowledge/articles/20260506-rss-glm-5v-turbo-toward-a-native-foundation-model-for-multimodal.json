@@ -1,0 +1,13 @@
+{
+  "id": "20260506-rss-glm-5v-turbo-toward-a-native-foundation-model-for-multimodal",
+  "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+  "sourceUrl": "https://arxiv.org/abs/2604.26752",
+  "summary": "提出GLM-5V-Turbo，一种面向多模态智能体的原生基础模型，旨在统一视觉与语言理解能力，提升智能体交互性能。",
+  "tags": [
+    "多模态",
+    "基础模型",
+    "智能体",
+    "视觉语言理解"
+  ],
+  "status": "draft"
+}

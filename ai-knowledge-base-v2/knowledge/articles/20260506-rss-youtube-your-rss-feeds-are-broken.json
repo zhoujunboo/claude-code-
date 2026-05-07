@@ -1,0 +1,12 @@
+{
+  "id": "20260506-rss-youtube-your-rss-feeds-are-broken",
+  "title": "YouTube, your RSS feeds are broken",
+  "sourceUrl": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+  "summary": "该项目指出YouTube的RSS订阅功能存在故障，可能影响用户获取视频更新的效率，技术价值在于提醒修复订阅机制。",
+  "tags": [
+    "YouTube",
+    "RSS",
+    "订阅问题"
+  ],
+  "status": "draft"
+}

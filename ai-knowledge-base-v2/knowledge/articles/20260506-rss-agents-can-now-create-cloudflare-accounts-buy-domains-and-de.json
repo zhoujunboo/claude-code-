@@ -1,0 +1,13 @@
+{
+  "id": "20260506-rss-agents-can-now-create-cloudflare-accounts-buy-domains-and-de",
+  "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+  "sourceUrl": "https://blog.cloudflare.com/agents-stripe-projects/",
+  "summary": "该项目实现AI代理自主创建Cloudflare账户、购买域名并部署服务，提升云基础设施自动化水平。",
+  "tags": [
+    "AI代理",
+    "云基础设施",
+    "自动化部署",
+    "域名管理"
+  ],
+  "status": "draft"
+}
