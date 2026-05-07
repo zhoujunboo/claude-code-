@@ -2,8 +2,8 @@
  * workflows/graph.ts — 组装 LangGraph 知识库工作流
  *
  * @flow
- *   START → planner → collect → analyze → organize → review
- *     ├─ passed → save → END
+ *   START → planner → collect → analyze → review
+ *     ├─ passed → organize → END
  *     ├─ !passed + iter<3 → revise → review (循环修正)
  *     └─ !passed + iter≥3 → human_flag → END
  *
@@ -17,13 +17,12 @@ import { StateGraph, Annotation, END, START } from "@langchain/langgraph";
 import {
   collectNode,
   analyzeNode,
-  organizeNode,
-  saveNode,
 } from "./nodes.js";
 import { reviewNode } from "./reviewer.js";
 import { reviseNode } from "./reviser.js";
 import { humanFlagNode } from "./human_flag.js";
 import { plannerNode } from "./planner.js";
+import { organizeNode } from "./organizer.js";
 import type { KBState, SourceItem, AnalysisItem, ArticleItem, CostTracker, Plan } from "./state.js";
 
 // ============================================================================
@@ -77,7 +76,7 @@ const KBStateAnnotation = Annotation.Root({
 
 function routeAfterReview(state: KBState): string {
   const iter = state.iteration ?? 0;
-  if (state.review_passed) return "save";
+  if (state.review_passed) return "organize";
   if (iter < 3) return "revise";
   return "human_flag";
 }
@@ -87,23 +86,21 @@ function buildGraph() {
     .addNode("planner", plannerNode)
     .addNode("collect", collectNode)
     .addNode("analyze", analyzeNode)
-    .addNode("organize", organizeNode)
     .addNode("review", reviewNode)
     .addNode("revise", reviseNode)
     .addNode("human_flag", humanFlagNode)
-    .addNode("save", saveNode)
+    .addNode("organize", organizeNode)
 
     .addEdge(START, "planner")
     .addEdge("planner", "collect")
     .addEdge("collect", "analyze")
-    .addEdge("analyze", "organize")
-    .addEdge("organize", "review")
+    .addEdge("analyze", "review")
 
     .addConditionalEdges("review", routeAfterReview)
 
     .addEdge("revise", "review")
     .addEdge("human_flag", END)
-    .addEdge("save", END)
+    .addEdge("organize", END)
     .compile();
 }
 
@@ -159,14 +156,13 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
         if (nodeName === "planner") steps.push(`planner(${data.plan?.tier ?? "?"})`);
         if (data.sources?.length) steps.push(`collect(${data.sources.length})`);
         if (nodeName === "analyze" && data.analyses?.length) steps.push(`analyze(${data.analyses.length})`);
-        if (nodeName === "organize" && data.articles?.length) steps.push(`organize(${data.articles.length})`);
         if (nodeName === "revise" && data.analyses?.length) steps.push(`revise(${data.analyses.length})`);
         if (nodeName === "review" || data.review_passed !== undefined) {
           const icon = data.review_passed ? "v" : "x";
           steps.push(`review${icon}(${data.iteration})`);
         }
+        if (nodeName === "organize" && data.articles?.length) steps.push(`organize(${data.articles.length})`);
         if (nodeName === "human_flag") steps.push("human_flag");
-        if (nodeName === "save") steps.push("save");
       }
 
       console.log(`路径: ${steps.join(" → ")}`);
