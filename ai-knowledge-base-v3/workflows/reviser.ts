@@ -12,10 +12,7 @@
  */
 
 import {
-  chatWithRetry,
-  createProvider,
-  type ChatMessage,
-  type ChatOptions,
+  chatJSON,
   type LLMUsage,
 } from "../pipeline/model_client.js";
 import type { KBState, AnalysisItem, CostTracker } from "./state.js";
@@ -43,32 +40,10 @@ const REVISE_PROMPT = `你是一个知识库内容编辑。根据审核反馈，
 审核反馈：`;
 
 // ============================================================================
-// LLM 调用封装
+// 工具函数
 // ============================================================================
 
-async function chat(
-  prompt: string,
-  system?: string,
-  opts?: ChatOptions,
-): Promise<{ content: string; usage: Usage }> {
-  const provider = createProvider();
-  const messages: ChatMessage[] = [];
-  if (system) messages.push({ role: "system", content: system });
-  messages.push({ role: "user", content: prompt });
-  return chatWithRetry(provider, messages, opts);
-}
-
-async function chatJSONArray(
-  prompt: string,
-  system?: string,
-  opts?: ChatOptions,
-): Promise<{ json: unknown[]; usage: Usage }> {
-  const { content, usage } = await chat(prompt, system, opts);
-  const cleaned = content.replace(/^```(?:json)?\s*|\s*```$/g, "").trim();
-  return { json: JSON.parse(cleaned), usage };
-}
-
-function accumulateUsage(tracker: CostTracker, usage: Usage): void {
+function accumulateUsage(tracker: CostTracker, usage: LLMUsage): void {
   tracker.totalTokens = (tracker.totalTokens ?? 0) + usage.totalTokens;
 }
 
@@ -110,7 +85,7 @@ export async function reviseNode(state: KBState): Promise<Partial<KBState>> {
   const prompt = `${REVISE_PROMPT}${review_feedback}\n\n当前条目:\n${itemsList}`;
 
   try {
-    const { json, usage } = await chatJSONArray(prompt, undefined, {
+    const { json, usage } = await chatJSON<unknown[]>(prompt, undefined, "reviser", {
       temperature: REVISE_TEMPERATURE,
     });
     accumulateUsage(tracker, usage);

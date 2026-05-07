@@ -12,10 +12,7 @@
  */
 
 import {
-  chatWithRetry,
-  createProvider,
-  type ChatMessage,
-  type ChatOptions,
+  chatJSON,
   type LLMUsage,
 } from "../pipeline/model_client.js";
 import type { KBState, AnalysisItem, CostTracker, Plan } from "./state.js";
@@ -37,32 +34,10 @@ const DIMENSION_WEIGHTS: Record<string, number> = {
 const MAX_REVIEW_COUNT = 5;
 
 // ============================================================================
-// LLM 调用封装
+// 工具函数
 // ============================================================================
 
-async function chat(
-  prompt: string,
-  system?: string,
-  opts?: ChatOptions,
-): Promise<{ content: string; usage: Usage }> {
-  const provider = createProvider();
-  const messages: ChatMessage[] = [];
-  if (system) messages.push({ role: "system", content: system });
-  messages.push({ role: "user", content: prompt });
-  return chatWithRetry(provider, messages, opts);
-}
-
-async function chatJSON(
-  prompt: string,
-  system?: string,
-  opts?: ChatOptions,
-): Promise<{ json: Record<string, unknown>; usage: Usage }> {
-  const { content, usage } = await chat(prompt, system, opts);
-  const cleaned = content.replace(/^```(?:json)?\s*|\s*```$/g, "").trim();
-  return { json: JSON.parse(cleaned), usage };
-}
-
-function accumulateUsage(tracker: CostTracker, usage: Usage): void {
+function accumulateUsage(tracker: CostTracker, usage: LLMUsage): void {
   tracker.totalTokens = (tracker.totalTokens ?? 0) + usage.totalTokens;
 }
 
@@ -133,9 +108,10 @@ export async function reviewNode(state: KBState): Promise<Partial<KBState>> {
   let parsed: Record<string, unknown>;
 
   try {
-    const { json, usage } = await chatJSON(
+    const { json, usage } = await chatJSON<Record<string, unknown>>(
       `${REVIEW_PROMPT}\n\n分析条目:\n${list}`,
       "你是严格但公正的知识库质量审核员。给出具体、可操作的反馈。",
+      "reviewer",
       { temperature: 0.1 },
     );
     accumulateUsage(tracker, usage);

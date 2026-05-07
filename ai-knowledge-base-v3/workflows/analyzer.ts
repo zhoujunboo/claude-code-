@@ -11,10 +11,7 @@
  */
 
 import {
-  chatWithRetry,
-  createProvider,
-  type ChatMessage,
-  type ChatOptions,
+  chatJSON,
   type LLMUsage,
 } from "../pipeline/model_client.js";
 import type { KBState, SourceItem, AnalysisItem, CostTracker } from "./state.js";
@@ -22,8 +19,6 @@ import type { KBState, SourceItem, AnalysisItem, CostTracker } from "./state.js"
 // ============================================================================
 // 类型别名 & 常量
 // ============================================================================
-
-type Usage = LLMUsage;
 
 const ANALYZE_PROMPT = `你是一个知识库分析助手。分析以下项目信息，返回 JSON（不要加 markdown）：
 
@@ -34,32 +29,10 @@ const ANALYZE_PROMPT = `你是一个知识库分析助手。分析以下项目�
 }`;
 
 // ============================================================================
-// LLM 调用封装
+// 工具函数
 // ============================================================================
 
-async function chat(
-  prompt: string,
-  system?: string,
-  opts?: ChatOptions,
-): Promise<{ content: string; usage: Usage }> {
-  const provider = createProvider();
-  const messages: ChatMessage[] = [];
-  if (system) messages.push({ role: "system", content: system });
-  messages.push({ role: "user", content: prompt });
-  return chatWithRetry(provider, messages, opts);
-}
-
-async function chatJSON(
-  prompt: string,
-  system?: string,
-  opts?: ChatOptions,
-): Promise<{ json: Record<string, unknown>; usage: Usage }> {
-  const { content, usage } = await chat(prompt, system, opts);
-  const cleaned = content.replace(/^```(?:json)?\s*|\s*```$/g, "").trim();
-  return { json: JSON.parse(cleaned), usage };
-}
-
-function accumulateUsage(tracker: CostTracker, usage: Usage): void {
+function accumulateUsage(tracker: CostTracker, usage: LLMUsage): void {
   tracker.totalTokens = (tracker.totalTokens ?? 0) + usage.totalTokens;
 }
 
@@ -83,7 +56,7 @@ export async function analyzeNode(state: KBState): Promise<Partial<KBState>> {
     const prompt = `${ANALYZE_PROMPT}\n名称: ${item.title}\n描述: ${item.summary}\n语言: ${item.language ?? "未知"}\n星标: ${item.stars ?? 0}`;
 
     try {
-      const { json, usage } = await chatJSON(prompt);
+      const { json, usage } = await chatJSON<Record<string, unknown>>(prompt, undefined, "analyzer");
       accumulateUsage(tracker, usage);
 
       analyses.push({

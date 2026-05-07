@@ -1,5 +1,6 @@
 import { fileURLToPath } from "node:url";
 import { readFileSync, existsSync } from "node:fs";
+import { CostGuard, BudgetExceededError } from "../tests/cost_guard.js";
 
 function loadEnvFile(): void {
   const envPath = new URL("../.env", import.meta.url);
@@ -27,6 +28,20 @@ loadEnvFile();
  * 使用 Node.js 原生 fetch 调用 OpenAI 兼容 API（无需专用 SDK）。
  */
 
+// ── 全局 CostGuard 单例（懒加载）──────────────────────────────────────────────
+
+let _costGuard: CostGuard | null = null;
+
+function getCostGuard(): CostGuard {
+  if (!_costGuard) {
+    const budget = parseFloat(process.env.BUDGET_YUAN ?? "1.0");
+    _costGuard = new CostGuard(budget);
+  }
+  return _costGuard;
+}
+
+export { getCostGuard };
+
 // ── 类型定义 ─────────────────────────────────────────────────────────────────
 
 /** Token 用量统计 */
@@ -47,6 +62,7 @@ export interface ChatOptions {
   model?: string;
   temperature?: number;
   maxTokens?: number;
+  nodeName?: string;
 }
 
 /** 聊天消息结构，符合 OpenAI API 格式 */
@@ -319,9 +335,12 @@ export class OpenAICompatibleProvider implements LLMProvider {
         totalTokens: json.usage?.total_tokens ?? 0,
       };
 
-      // 成功后记录 token 消耗
-      if (usage) {
+      // 成功后记录 token 消耗 + CostGuard 预算守卫
+      if (usage.totalTokens > 0) {
         globalTracker.record(usage, this.providerName);
+        const guard = getCostGuard();
+        guard.record(options?.nodeName ?? "unknown", usage, model);
+        guard.check();
       }
 
       return { content, usage };
@@ -479,6 +498,26 @@ export async function quickChat(
 
   const response = await chatWithRetry(provider, messages, options);
   return response.content;
+}
+
+// ── chatJSON 便捷函数 ─────────────────────────────────────────────────────────
+
+/**
+ * 调用 LLM 并解析 JSON 返回，nodeName 透传 → Provider.chat() → CostGuard。
+ */
+export async function chatJSON<T = unknown>(
+  prompt: string,
+  system?: string,
+  nodeName = "unknown",
+  opts?: ChatOptions,
+): Promise<{ json: T; usage: LLMUsage }> {
+  const provider = createProvider();
+  const messages: ChatMessage[] = [];
+  if (system) messages.push({ role: "system", content: system });
+  messages.push({ role: "user", content: prompt });
+  const { content, usage } = await provider.chat(messages, { ...opts, nodeName });
+  const cleaned = content.replace(/^```(?:json)?\s*|\s*```$/g, "").trim();
+  return { json: JSON.parse(cleaned) as T, usage };
 }
 
 export { PRICE_TABLE };
