@@ -68,7 +68,7 @@ interface SanitizeResult {
   warnings: string[];
 }
 
-function sanitizeInput(text: string): SanitizeResult {
+export function sanitizeInput(text: string): SanitizeResult {
   const warnings: string[] = [];
 
   for (const pattern of INJECTION_PATTERNS) {

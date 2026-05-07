@@ -11,6 +11,7 @@
  */
 
 import type { KBState, SourceItem } from "./state.js";
+import { sanitizeInput } from "../tests/security.js";
 
 // ============================================================================
 // 常量
@@ -68,16 +69,20 @@ export async function collectNode(state: KBState): Promise<Partial<KBState>> {
     };
 
     const now = new Date().toISOString();
-    const items: SourceItem[] = (data.items ?? []).map((r) => ({
-      title: r.full_name,
-      url: r.html_url,
-      summary: (r.description ?? "").slice(0, 300),
-      source: "github",
-      collectedAt: now,
-      stars: r.stargazers_count,
-      language: r.language,
-      topics: r.topics ?? [],
-    }));
+    const items: SourceItem[] = (data.items ?? []).map((r) => {
+      const title = sanitizeInput(r.full_name).cleaned;
+      const summary = sanitizeInput(r.description ?? "").cleaned.slice(0, 300);
+      return {
+        title,
+        url: r.html_url,
+        summary,
+        source: "github",
+        collectedAt: now,
+        stars: r.stargazers_count,
+        language: r.language,
+        topics: r.topics ?? [],
+      };
+    });
 
     log(`采集到 ${items.length} 条`);
     return { sources: items };
