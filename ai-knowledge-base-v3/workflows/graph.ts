@@ -17,9 +17,9 @@ import {
   collectNode,
   analyzeNode,
   organizeNode,
-  reviewNode,
   saveNode,
 } from "./nodes.js";
+import { reviewNode } from './reviewer.ts'
 import type { KBState, SourceItem, AnalysisItem, ArticleItem, CostTracker } from "./state.js";
 
 // ============================================================================
