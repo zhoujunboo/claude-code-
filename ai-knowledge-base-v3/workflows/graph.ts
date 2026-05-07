@@ -10,14 +10,22 @@
  * @usage
  *   npx tsx workflows/graph.ts                  # 流式运行工作流
  *   npx tsx workflows/graph.ts --invoke         # 同步调用模式
+ * 
+ * 
+ * 
+ * ① Planner	workflows/planner.py	动态规划策略
+ * ② Collector	workflows/collector.py	数据采集
+ * ③ Analyzer	workflows/analyzer.py	LLM 单条分析
+ * ④ Reviewer	workflows/reviewer.py	5 维加权审核
+ * ⑤ Reviser	workflows/reviser.py	读反馈定向修改
+ * ⑥ Organizer	workflows/organizer.py	整理入库（正常终点）
+ * ⑦ HumanFlag	workflows/human_flag.py	人工介入（异常终点）
  */
 
 import { fileURLToPath } from "node:url";
 import { StateGraph, Annotation, END, START } from "@langchain/langgraph";
-import {
-  collectNode,
-  analyzeNode,
-} from "./nodes.js";
+import { collectNode } from "./collector.js";
+import { analyzeNode } from "./analyzer.js";
 import { reviewNode } from "./reviewer.js";
 import { reviseNode } from "./reviser.js";
 import { humanFlagNode } from "./human_flag.js";
@@ -35,7 +43,7 @@ const KBStateAnnotation = Annotation.Root({
       tier: "standard",
       perSourceLimit: 10,
       relevanceThreshold: 0.5,
-      maxIterations: 2,
+      maxIterations: 3,
       rationale: "",
     }),
     reducer: (_prev, next) => next,
@@ -75,9 +83,10 @@ const KBStateAnnotation = Annotation.Root({
 // ============================================================================
 
 function routeAfterReview(state: KBState): string {
+  const maxIter = state.plan?.maxIterations ?? 3;
   const iter = state.iteration ?? 0;
   if (state.review_passed) return "organize";
-  if (iter < 3) return "revise";
+  if (iter < maxIter) return "revise";
   return "human_flag";
 }
 
@@ -123,7 +132,7 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
       tier: "standard",
       perSourceLimit: 10,
       relevanceThreshold: 0.5,
-      maxIterations: 2,
+      maxIterations: 3,
       rationale: "",
     },
     sources: [],

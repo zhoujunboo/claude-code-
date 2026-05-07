@@ -44,13 +44,13 @@ export async function organizeNode(state: KBState): Promise<Partial<KBState>> {
   const plan: Plan = state.plan ?? {
     tier: "standard",
     perSourceLimit: 10,
-    relevanceThreshold: 0.6,
-    maxIterations: 2,
+    relevanceThreshold: 0.5,
+    maxIterations: 3,
     rationale: "",
   };
   const tracker: CostTracker = { ...state.cost_tracker };
 
-  const threshold = plan.relevanceThreshold ?? 0.6;
+  const threshold = plan.relevanceThreshold ?? 0.5;
 
   console.log(`[Organizer] 整理 ${analyses.length} 条 analyses (阈值 ≥ ${threshold})`);
 

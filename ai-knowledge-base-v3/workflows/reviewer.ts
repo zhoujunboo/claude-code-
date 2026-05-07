@@ -18,7 +18,7 @@ import {
   type ChatOptions,
   type LLMUsage,
 } from "../pipeline/model_client.js";
-import type { KBState, AnalysisItem, CostTracker } from "./state.js";
+import type { KBState, AnalysisItem, CostTracker, Plan } from "./state.js";
 
 // ============================================================================
 // 类型别名 & 常量
@@ -93,6 +93,14 @@ const REVIEW_PROMPT = `你是一个严格的知识库审核员。审查以下分
 
 export async function reviewNode(state: KBState): Promise<Partial<KBState>> {
   const { analyses, iteration, cost_tracker } = state;
+  const plan: Plan = state.plan ?? {
+    tier: "standard",
+    perSourceLimit: 10,
+    relevanceThreshold: 0.5,
+    maxIterations: 3,
+    rationale: "",
+  };
+  const maxIter = plan.maxIterations ?? 3;
   const currentIteration = iteration ?? 0;
   const round = currentIteration + 1;
   const reviewCount = Math.min(analyses.length, MAX_REVIEW_COUNT);
@@ -104,6 +112,12 @@ export async function reviewNode(state: KBState): Promise<Partial<KBState>> {
   // 无数据 → 直接通过
   if (reviewCount === 0) {
     log("无分析数据，直接通过");
+    return { review_passed: true, review_feedback: "", iteration: currentIteration + 1, cost_tracker: tracker };
+  }
+
+  // 超过 plan.maxIterations → 强制通过（内部兜底）
+  if (currentIteration >= maxIter) {
+    log(`已达 ${currentIteration} 轮审核 (maxIter=${maxIter})，强制通过`);
     return { review_passed: true, review_feedback: "", iteration: currentIteration + 1, cost_tracker: tracker };
   }
 

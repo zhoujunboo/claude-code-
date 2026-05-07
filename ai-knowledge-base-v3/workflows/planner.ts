@@ -5,7 +5,9 @@
  * 控制每轮采集条数、相关性阈值和最大迭代次数。
  *
  * @test
- *   npx tsx workflows/planner.ts
+ *   $env:PLANNER_TARGET_COUNT=5;  npx tsx workflows/planner.ts   # lite
+ *   $env:PLANNER_TARGET_COUNT=15; npx tsx workflows/planner.ts   # standard
+ *   $env:PLANNER_TARGET_COUNT=25; npx tsx workflows/planner.ts   # full
  *
  * @usage
  *   import { plannerNode, planStrategy } from "./workflows/planner.js";
@@ -45,8 +47,7 @@ const STRATEGIES = {
 export function planStrategy(targetCount?: number): Plan {
   const resolved =
     targetCount ??
-    parseInt(process.env.PLANNER_TARGET_COUNT ?? "0", 10) ||
-    10;
+    (parseInt(process.env.PLANNER_TARGET_COUNT ?? "0", 10) || 10);
 
   let plan: Plan;
 
