@@ -1,0 +1,59 @@
+{
+  "summary": {
+    "totalCalls": 3,
+    "totalCostYuan": 0.0083,
+    "budgetYuan": 0.01
+  },
+  "byNode": {
+    "collect": {
+      "nodeName": "collect",
+      "calls": 1,
+      "promptTokens": 100,
+      "completionTokens": 50,
+      "totalTokens": 150,
+      "costYuan": 0.0002
+    },
+    "analyze": {
+      "nodeName": "analyze",
+      "calls": 1,
+      "promptTokens": 2000,
+      "completionTokens": 1000,
+      "totalTokens": 3000,
+      "costYuan": 0.004
+    },
+    "review": {
+      "nodeName": "review",
+      "calls": 1,
+      "promptTokens": 2000,
+      "completionTokens": 1050,
+      "totalTokens": 3050,
+      "costYuan": 0.0041
+    }
+  },
+  "records": [
+    {
+      "timestamp": "2026-05-07T08:12:50.379Z",
+      "nodeName": "collect",
+      "promptTokens": 100,
+      "completionTokens": 50,
+      "costYuan": 0.0002,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-05-07T08:12:50.381Z",
+      "nodeName": "analyze",
+      "promptTokens": 2000,
+      "completionTokens": 1000,
+      "costYuan": 0.004,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-05-07T08:12:50.381Z",
+      "nodeName": "review",
+      "promptTokens": 2000,
+      "completionTokens": 1050,
+      "costYuan": 0.0041,
+      "model": "deepseek-chat"
+    }
+  ]
+}

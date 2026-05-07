@@ -1,0 +1,27 @@
+{
+  "summary": {
+    "totalCalls": 1,
+    "totalCostYuan": 0.3,
+    "budgetYuan": 0.3
+  },
+  "byNode": {
+    "analyzer": {
+      "nodeName": "analyzer",
+      "calls": 1,
+      "promptTokens": 100000,
+      "completionTokens": 100000,
+      "totalTokens": 200000,
+      "costYuan": 0.3
+    }
+  },
+  "records": [
+    {
+      "timestamp": "2026-05-07T08:12:50.387Z",
+      "nodeName": "analyzer",
+      "promptTokens": 100000,
+      "completionTokens": 100000,
+      "costYuan": 0.3,
+      "model": "deepseek-chat"
+    }
+  ]
+}
