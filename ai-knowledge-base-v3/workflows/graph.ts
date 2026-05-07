@@ -2,7 +2,7 @@
  * workflows/graph.ts — 组装 LangGraph 知识库工作流
  *
  * @flow
- *   START → collect → analyze → organize → review
+ *   START → planner → collect → analyze → organize → review
  *     ├─ passed → save → END
  *     ├─ !passed + iter<3 → revise → review (循环修正)
  *     └─ !passed + iter≥3 → human_flag → END
@@ -23,13 +23,24 @@ import {
 import { reviewNode } from "./reviewer.js";
 import { reviseNode } from "./reviser.js";
 import { humanFlagNode } from "./human_flag.js";
-import type { KBState, SourceItem, AnalysisItem, ArticleItem, CostTracker } from "./state.js";
+import { plannerNode } from "./planner.js";
+import type { KBState, SourceItem, AnalysisItem, ArticleItem, CostTracker, Plan } from "./state.js";
 
 // ============================================================================
 // State 定义
 // ============================================================================
 
 const KBStateAnnotation = Annotation.Root({
+  plan: Annotation<Plan>({
+    default: () => ({
+      tier: "standard",
+      perSourceLimit: 10,
+      relevanceThreshold: 0.5,
+      maxIterations: 2,
+      rationale: "",
+    }),
+    reducer: (_prev, next) => next,
+  }),
   sources: Annotation<SourceItem[]>({
     default: () => [],
     reducer: (_prev, next) => next,
@@ -73,6 +84,7 @@ function routeAfterReview(state: KBState): string {
 
 function buildGraph() {
   return new StateGraph(KBStateAnnotation)
+    .addNode("planner", plannerNode)
     .addNode("collect", collectNode)
     .addNode("analyze", analyzeNode)
     .addNode("organize", organizeNode)
@@ -81,7 +93,8 @@ function buildGraph() {
     .addNode("human_flag", humanFlagNode)
     .addNode("save", saveNode)
 
-    .addEdge(START, "collect")
+    .addEdge(START, "planner")
+    .addEdge("planner", "collect")
     .addEdge("collect", "analyze")
     .addEdge("analyze", "organize")
     .addEdge("organize", "review")
@@ -109,6 +122,13 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const app = buildGraph();
 
   const initialState: KBState = {
+    plan: {
+      tier: "standard",
+      perSourceLimit: 10,
+      relevanceThreshold: 0.5,
+      maxIterations: 2,
+      rationale: "",
+    },
     sources: [],
     analyses: [],
     articles: [],
@@ -136,6 +156,7 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
         const data = chunk[nodeName];
         if (!data) continue;
 
+        if (nodeName === "planner") steps.push(`planner(${data.plan?.tier ?? "?"})`);
         if (data.sources?.length) steps.push(`collect(${data.sources.length})`);
         if (nodeName === "analyze" && data.analyses?.length) steps.push(`analyze(${data.analyses.length})`);
         if (nodeName === "organize" && data.articles?.length) steps.push(`organize(${data.articles.length})`);

@@ -71,6 +71,15 @@ export interface ArticleItem {
   status: string;
 }
 
+/** 策略规划结果 */
+export interface Plan {
+  tier: "lite" | "standard" | "full";
+  perSourceLimit: number;
+  relevanceThreshold: number;
+  maxIterations: number;
+  rationale: string;
+}
+
 /** Token 用量追踪 */
 export interface CostTracker {
   /** 累计 Token 消耗（输入+输出） */
@@ -86,6 +95,14 @@ export interface CostTracker {
  * 下游按照字段的类型约定消费，无需知晓上游的内部处理细节。
  */
 export interface KBState {
+  
+  /**
+   *   Planner 输出策略
+   *   生产系统要能根据输入规模调整策略，数据多时要保守，数据少时要激进。这就是 Planner Agent 的职责，只规划不执行（Plan, don't execute）。
+   *   Planner 挂在图的最前面，输出一个 plan [] 写入 state，下游节点读取它调整行为。  
+   */
+   plan: Plan;
+  
   /**
    * 步骤 0 · 采集 — 原始数据列表
    * 格式：SourceItem[]，由 GitHub/RSS 采集节点填充
