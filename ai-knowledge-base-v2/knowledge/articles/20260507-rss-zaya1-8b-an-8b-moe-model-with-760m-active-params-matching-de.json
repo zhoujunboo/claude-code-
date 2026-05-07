@@ -1,0 +1,14 @@
+{
+  "id": "20260507-rss-zaya1-8b-an-8b-moe-model-with-760m-active-params-matching-de",
+  "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
+  "sourceUrl": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
+  "summary": "ZAYA1-8B 是一款 8B 参数的 MoE 模型，仅用 760M 活跃参数在数学任务上达到 DeepSeek-R1 水平，展现了高效稀疏激活的技术价值。",
+  "tags": [
+    "MoE",
+    "高效推理",
+    "数学推理",
+    "稀疏激活",
+    "小参数大性能"
+  ],
+  "status": "draft"
+}

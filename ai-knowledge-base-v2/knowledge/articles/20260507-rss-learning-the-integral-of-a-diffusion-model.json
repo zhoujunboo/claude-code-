@@ -1,0 +1,12 @@
+{
+  "id": "20260507-rss-learning-the-integral-of-a-diffusion-model",
+  "title": "Learning the Integral of a Diffusion Model",
+  "sourceUrl": "https://sander.ai/2026/05/06/flow-maps.html",
+  "summary": "提出学习扩散模型积分的方法，旨在提升生成模型的采样效率与理论理解，具有潜在的理论与实用价值。",
+  "tags": [
+    "扩散模型",
+    "积分学习",
+    "生成模型"
+  ],
+  "status": "draft"
+}

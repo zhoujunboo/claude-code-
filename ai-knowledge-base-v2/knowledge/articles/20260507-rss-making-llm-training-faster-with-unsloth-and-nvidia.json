@@ -1,0 +1,13 @@
+{
+  "id": "20260507-rss-making-llm-training-faster-with-unsloth-and-nvidia",
+  "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+  "sourceUrl": "https://unsloth.ai/blog/nvidia-collab",
+  "summary": "介绍如何利用 Unsloth 和 NVIDIA 技术加速大语言模型训练，提升训练效率与资源利用率。",
+  "tags": [
+    "LLM训练",
+    "加速",
+    "Unsloth",
+    "NVIDIA"
+  ],
+  "status": "draft"
+}

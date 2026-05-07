@@ -1,0 +1,14 @@
+{
+  "id": "20260507-github-open-webui-open-webui",
+  "title": "open-webui/open-webui",
+  "sourceUrl": "https://github.com/open-webui/open-webui",
+  "summary": "一个用户友好的AI交互界面，支持Ollama和OpenAI等多种API，便于快速搭建和使用大模型服务。",
+  "tags": [
+    "AI界面",
+    "Ollama",
+    "OpenAI",
+    "大模型",
+    "开源工具"
+  ],
+  "status": "draft"
+}
