@@ -129,6 +129,13 @@ export interface KBState {
   iteration: number;
 
   /**
+   * 人工介入节点（审核循环超过上限时的兜底） 
+   * 超过 max_iterations 仍未通过 → 写入 knowledge/pending_review/ 独立目录，
+   * 不污染主知识库，等待人工判断。
+   */ 
+  needs_human_review: boolean;
+  
+  /**
    * 全局 — Token 用量追踪
    * 累计所有 LLM 调用的 Token 消耗及费用估算
    * 由各节点在调用 LLM 后更新，对外输出汇总报告

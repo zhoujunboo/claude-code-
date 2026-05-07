@@ -4,7 +4,8 @@
  * @flow
  *   START → collect → analyze → organize → review
  *     ├─ passed → save → END
- *     └─ !passed → organize (循环修正)
+ *     ├─ !passed + iter<3 → revise → review (循环修正)
+ *     └─ !passed + iter≥3 → human_flag → END
  *
  * @usage
  *   npx tsx workflows/graph.ts                  # 流式运行工作流
@@ -19,7 +20,9 @@ import {
   organizeNode,
   saveNode,
 } from "./nodes.js";
-import { reviewNode } from './reviewer.ts'
+import { reviewNode } from "./reviewer.js";
+import { reviseNode } from "./reviser.js";
+import { humanFlagNode } from "./human_flag.js";
 import type { KBState, SourceItem, AnalysisItem, ArticleItem, CostTracker } from "./state.js";
 
 // ============================================================================
@@ -61,12 +64,21 @@ const KBStateAnnotation = Annotation.Root({
 // 构建图
 // ============================================================================
 
+function routeAfterReview(state: KBState): string {
+  const iter = state.iteration ?? 0;
+  if (state.review_passed) return "save";
+  if (iter < 3) return "revise";
+  return "human_flag";
+}
+
 function buildGraph() {
   return new StateGraph(KBStateAnnotation)
     .addNode("collect", collectNode)
     .addNode("analyze", analyzeNode)
     .addNode("organize", organizeNode)
     .addNode("review", reviewNode)
+    .addNode("revise", reviseNode)
+    .addNode("human_flag", humanFlagNode)
     .addNode("save", saveNode)
 
     .addEdge(START, "collect")
@@ -74,10 +86,10 @@ function buildGraph() {
     .addEdge("analyze", "organize")
     .addEdge("organize", "review")
 
-    .addConditionalEdges("review", (state) =>
-      state.review_passed ? "save" : "organize",
-    )
+    .addConditionalEdges("review", routeAfterReview)
 
+    .addEdge("revise", "review")
+    .addEdge("human_flag", END)
     .addEdge("save", END)
     .compile();
 }
@@ -125,15 +137,14 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
         if (!data) continue;
 
         if (data.sources?.length) steps.push(`collect(${data.sources.length})`);
-        if (data.analyses?.length) steps.push(`analyze(${data.analyses.length})`);
-        if (data.articles?.length) {
-          const tag = (data.review_feedback as string)?.length > 0 ? "fixup" : "organize";
-          steps.push(`${tag}(${data.articles.length})`);
-        }
-        if (data.review_passed !== undefined) {
+        if (nodeName === "analyze" && data.analyses?.length) steps.push(`analyze(${data.analyses.length})`);
+        if (nodeName === "organize" && data.articles?.length) steps.push(`organize(${data.articles.length})`);
+        if (nodeName === "revise" && data.analyses?.length) steps.push(`revise(${data.analyses.length})`);
+        if (nodeName === "review" || data.review_passed !== undefined) {
           const icon = data.review_passed ? "v" : "x";
           steps.push(`review${icon}(${data.iteration})`);
         }
+        if (nodeName === "human_flag") steps.push("human_flag");
         if (nodeName === "save") steps.push("save");
       }
 
