@@ -20,11 +20,20 @@
  *   import { organizeNode } from "./workflows/organizer.js";
  */
 
+
+/**
+ * 为什么 sanitize 在入口 / filter 在出口
+ * 入口（collect）做 sanitize。是因为 源头脏数据 进 LLM 才会污染所有下游。越早洗越省 token。
+ * 出口（organize）做 filter，是因为 LLM 输出 永远不可信，即使 prompt 干净，模型也可能联想出真实邮箱（训练数据里见过），必须在 最后一道写盘前拦一次。
+ * 
+ */
+
 import { writeFile, readFile, mkdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import type { KBState, AnalysisItem, ArticleItem, CostTracker, Plan } from "./state.js";
+import { filterOutput } from "../tests/security.js";
 
 // ============================================================================
 // 常量
@@ -83,11 +92,14 @@ export async function organizeNode(state: KBState): Promise<Partial<KBState>> {
   const today = new Date().toISOString().slice(0, 10);
   const articles: ArticleItem[] = unique.map((item, i) => {
     const raw = item as Record<string, unknown>;
+    const title = filterOutput((raw.title as string) ?? raw.summary ?? "").filtered;
+    const summary = filterOutput(item.summary).filtered;
+    const sourceUrl = filterOutput((raw.url as string) ?? "").filtered;
     return {
       id: `${today}-${String(i + 1).padStart(3, "0")}`,
-      title: (raw.title as string) ?? raw.summary ?? "",
-      sourceUrl: (raw.url as string) ?? "",
-      summary: item.summary,
+      title,
+      sourceUrl,
+      summary,
       tags: item.tags ?? [],
       status: "published" as const,
     };

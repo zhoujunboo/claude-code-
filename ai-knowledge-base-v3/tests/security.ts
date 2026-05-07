@@ -104,7 +104,7 @@ interface FilterResult {
   detections: string[];
 }
 
-function filterOutput(text: string, mask = true): FilterResult {
+export function filterOutput(text: string, mask = true): FilterResult {
   const typeCount = new Map<string, number>();
   let filtered = text;
 
