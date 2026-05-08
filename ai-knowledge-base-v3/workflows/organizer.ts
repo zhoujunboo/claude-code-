@@ -92,9 +92,12 @@ export async function organizeNode(state: KBState): Promise<Partial<KBState>> {
   const today = new Date().toISOString().slice(0, 10);
   const articles: ArticleItem[] = unique.map((item, i) => {
     const raw = item as Record<string, unknown>;
-    const title = filterOutput((raw.title as string) ?? raw.summary ?? "").filtered;
-    const summary = filterOutput(item.summary).filtered;
-    const sourceUrl = filterOutput((raw.url as string) ?? "").filtered;
+    const { filtered: title, detections: tDet } = filterOutput((raw.title as string) ?? raw.summary ?? "");
+    const { filtered: summary, detections: sDet } = filterOutput(item.summary);
+    const { filtered: sourceUrl, detections: uDet } = filterOutput((raw.url as string) ?? "");
+    if (tDet.length) log(`  [安全] title PII: ${tDet.join(", ")}`);
+    if (sDet.length) log(`  [安全] summary PII: ${sDet.join(", ")}`);
+    if (uDet.length) log(`  [安全] url PII: ${uDet.join(", ")}`);
     return {
       id: `${today}-${String(i + 1).padStart(3, "0")}`,
       title,

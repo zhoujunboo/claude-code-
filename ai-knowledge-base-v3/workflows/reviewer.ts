@@ -13,6 +13,7 @@
 
 import {
   chatJSON,
+  BudgetExceededError,
   type LLMUsage,
 } from "../pipeline/model_client.js";
 import type { KBState, AnalysisItem, CostTracker, Plan } from "./state.js";
@@ -116,7 +117,8 @@ export async function reviewNode(state: KBState): Promise<Partial<KBState>> {
     );
     accumulateUsage(tracker, usage);
     parsed = json;
-  } catch {
+  } catch (err) {
+    if (err instanceof BudgetExceededError) throw err;
     log("审核调用失败，默认通过");
     return { review_passed: true, review_feedback: "", iteration: currentIteration + 1, cost_tracker: tracker };
   }

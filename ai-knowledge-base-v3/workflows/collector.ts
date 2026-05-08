@@ -70,12 +70,14 @@ export async function collectNode(state: KBState): Promise<Partial<KBState>> {
 
     const now = new Date().toISOString();
     const items: SourceItem[] = (data.items ?? []).map((r) => {
-      const title = sanitizeInput(r.full_name).cleaned;
-      const summary = sanitizeInput(r.description ?? "").cleaned.slice(0, 300);
+      const { cleaned: title, warnings: tWarn } = sanitizeInput(r.full_name);
+      const { cleaned: summary, warnings: sWarn } = sanitizeInput(r.description ?? "");
+      if (tWarn.length) log(`  [安全] title 清洗: ${tWarn.join("; ")}`);
+      if (sWarn.length) log(`  [安全] summary 清洗: ${sWarn.join("; ")}`);
       return {
         title,
         url: r.html_url,
-        summary,
+        summary: summary.slice(0, 300),
         source: "github",
         collectedAt: now,
         stars: r.stargazers_count,

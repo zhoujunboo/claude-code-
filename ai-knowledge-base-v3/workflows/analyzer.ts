@@ -12,6 +12,7 @@
 
 import {
   chatJSON,
+  BudgetExceededError,
   type LLMUsage,
 } from "../pipeline/model_client.js";
 import type { KBState, SourceItem, AnalysisItem, CostTracker } from "./state.js";
@@ -66,7 +67,8 @@ export async function analyzeNode(state: KBState): Promise<Partial<KBState>> {
       });
 
       log(`[${i + 1}/${sources.length}] ${item.title} → 评分 ${analyses[i].score}/10`);
-    } catch {
+    } catch (err) {
+      if (err instanceof BudgetExceededError) throw err;
       log(`[${i + 1}/${sources.length}] ${item.title} → 分析失败，使用兜底值`);
       analyses.push({ summary: item.summary, score: 5, tags: [] });
     }

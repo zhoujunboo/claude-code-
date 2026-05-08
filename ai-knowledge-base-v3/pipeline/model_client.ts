@@ -40,7 +40,7 @@ function getCostGuard(): CostGuard {
   return _costGuard;
 }
 
-export { getCostGuard };
+export { getCostGuard, BudgetExceededError };
 
 // ── 类型定义 ─────────────────────────────────────────────────────────────────
 

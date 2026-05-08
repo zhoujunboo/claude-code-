@@ -13,6 +13,7 @@
 
 import {
   chatJSON,
+  BudgetExceededError,
   type LLMUsage,
 } from "../pipeline/model_client.js";
 import type { KBState, AnalysisItem, CostTracker } from "./state.js";
@@ -114,6 +115,7 @@ export async function reviseNode(state: KBState): Promise<Partial<KBState>> {
     log(`修正完成: ${improved.length} 条`);
     return { analyses: improved, cost_tracker: tracker };
   } catch (err: unknown) {
+    if (err instanceof BudgetExceededError) throw err;
     const msg = err instanceof Error ? err.message : String(err);
     log(`修正失败: ${msg}，保持原 analyses`);
     return { cost_tracker: tracker };
