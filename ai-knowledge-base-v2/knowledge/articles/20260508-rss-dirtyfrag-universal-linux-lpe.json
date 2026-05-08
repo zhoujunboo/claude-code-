@@ -1,0 +1,12 @@
+{
+  "id": "20260508-rss-dirtyfrag-universal-linux-lpe",
+  "title": "Dirtyfrag: Universal Linux LPE",
+  "sourceUrl": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+  "summary": "一个针对Linux系统的通用本地权限提升（LPE）项目，目前无代码实现，处于初始阶段。",
+  "tags": [
+    "Linux",
+    "权限提升",
+    "安全漏洞"
+  ],
+  "status": "draft"
+}

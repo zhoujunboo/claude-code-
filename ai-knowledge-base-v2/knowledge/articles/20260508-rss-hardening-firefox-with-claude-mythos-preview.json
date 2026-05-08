@@ -1,0 +1,12 @@
+{
+  "id": "20260508-rss-hardening-firefox-with-claude-mythos-preview",
+  "title": "Hardening Firefox with Claude Mythos Preview",
+  "sourceUrl": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+  "summary": "该项目旨在通过Claude Mythos预览版增强Firefox浏览器的安全性，但缺乏具体实现细节和用户关注度。",
+  "tags": [
+    "Firefox",
+    "安全加固",
+    "AI辅助"
+  ],
+  "status": "draft"
+}

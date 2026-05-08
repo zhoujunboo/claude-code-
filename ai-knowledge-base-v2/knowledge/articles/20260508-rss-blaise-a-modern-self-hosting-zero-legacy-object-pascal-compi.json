@@ -1,0 +1,14 @@
+{
+  "id": "20260508-rss-blaise-a-modern-self-hosting-zero-legacy-object-pascal-compi",
+  "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+  "sourceUrl": "https://github.com/graemeg/blaise",
+  "summary": "一个现代自托管、零遗留的Object Pascal编译器，目标为QBE中间表示，强调轻量化和可移植性。",
+  "tags": [
+    "编译器",
+    "Object Pascal",
+    "QBE",
+    "自托管",
+    "零遗留"
+  ],
+  "status": "draft"
+}

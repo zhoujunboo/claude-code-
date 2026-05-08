@@ -1,0 +1,13 @@
+{
+  "id": "20260508-rss-natural-language-autoencoders-turning-claude-s-thoughts-into",
+  "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+  "sourceUrl": "https://www.anthropic.com/research/natural-language-autoencoders",
+  "summary": "该项目探索将Claude等AI模型的内部表征（思想）通过自然语言自编码器转化为可读文本，旨在提升模型可解释性。",
+  "tags": [
+    "可解释性",
+    "自编码器",
+    "语言模型",
+    "AI安全"
+  ],
+  "status": "draft"
+}

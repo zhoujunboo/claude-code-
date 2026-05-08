@@ -1,0 +1,13 @@
+{
+  "id": "20260508-rss-clojurescript-gets-async-await",
+  "title": "ClojureScript Gets Async/Await",
+  "sourceUrl": "https://clojurescript.org/news/2026-05-07-release",
+  "summary": "为 ClojureScript 引入 async/await 语法，提升异步编程的简洁性与可读性，增强语言竞争力。",
+  "tags": [
+    "ClojureScript",
+    "async/await",
+    "异步编程",
+    "语法糖"
+  ],
+  "status": "draft"
+}

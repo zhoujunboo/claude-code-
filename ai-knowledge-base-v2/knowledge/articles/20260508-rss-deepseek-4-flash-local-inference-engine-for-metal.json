@@ -1,0 +1,13 @@
+{
+  "id": "20260508-rss-deepseek-4-flash-local-inference-engine-for-metal",
+  "title": "DeepSeek 4 Flash local inference engine for Metal",
+  "sourceUrl": "https://github.com/antirez/ds4",
+  "summary": "基于Metal的DeepSeek 4 Flash本地推理引擎，旨在优化Apple设备上的AI推理性能。",
+  "tags": [
+    "本地推理",
+    "Metal",
+    "DeepSeek",
+    "Apple"
+  ],
+  "status": "draft"
+}

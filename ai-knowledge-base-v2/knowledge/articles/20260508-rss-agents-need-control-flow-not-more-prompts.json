@@ -1,0 +1,13 @@
+{
+  "id": "20260508-rss-agents-need-control-flow-not-more-prompts",
+  "title": "Agents need control flow, not more prompts",
+  "sourceUrl": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+  "summary": "提出AI代理应依赖控制流而非更多提示，强调结构化逻辑对智能系统效率与可靠性的提升。",
+  "tags": [
+    "AI代理",
+    "控制流",
+    "提示工程",
+    "系统架构"
+  ],
+  "status": "draft"
+}
