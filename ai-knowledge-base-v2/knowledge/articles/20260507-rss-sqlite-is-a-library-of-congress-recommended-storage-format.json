@@ -1,0 +1,14 @@
+{
+  "id": "20260507-rss-sqlite-is-a-library-of-congress-recommended-storage-format",
+  "title": "SQLite Is a Library of Congress Recommended Storage Format",
+  "sourceUrl": "https://sqlite.org/locrsf.html",
+  "summary": "SQLite 被美国国会图书馆推荐为长期存储格式，凸显其在数据持久化与数字保存中的技术价值。",
+  "tags": [
+    "数据库",
+    "数据持久化",
+    "数字保存",
+    "SQLite",
+    "标准推荐"
+  ],
+  "status": "draft"
+}

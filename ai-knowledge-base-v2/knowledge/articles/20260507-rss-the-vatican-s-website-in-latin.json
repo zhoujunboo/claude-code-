@@ -1,0 +1,12 @@
+{
+  "id": "20260507-rss-the-vatican-s-website-in-latin",
+  "title": "The Vatican's Website in Latin",
+  "sourceUrl": "https://www.vatican.va/latin/latin_index.html",
+  "summary": "该项目为梵蒂冈官网的拉丁语版本，技术价值较低，主要体现语言本地化与内容展示。",
+  "tags": [
+    "拉丁语",
+    "本地化",
+    "内容展示"
+  ],
+  "status": "draft"
+}

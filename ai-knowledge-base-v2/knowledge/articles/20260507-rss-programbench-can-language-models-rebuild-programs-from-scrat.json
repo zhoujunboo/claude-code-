@@ -1,0 +1,13 @@
+{
+  "id": "20260507-rss-programbench-can-language-models-rebuild-programs-from-scrat",
+  "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+  "sourceUrl": "https://arxiv.org/abs/2605.03546",
+  "summary": "提出ProgramBench基准，评估语言模型从零重建程序的能力，聚焦代码生成与理解的技术挑战。",
+  "tags": [
+    "代码生成",
+    "语言模型评估",
+    "程序重建",
+    "基准测试"
+  ],
+  "status": "draft"
+}

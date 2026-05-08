@@ -1,0 +1,12 @@
+{
+  "id": "20260507-rss-show-hn-agent-skills-eval-test-whether-agent-skills-improve-",
+  "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
+  "sourceUrl": "https://github.com/darkrishabh/agent-skills-eval",
+  "summary": "一个用于测试代理技能是否提升输出的评估工具，帮助开发者量化AI Agent能力改进效果。",
+  "tags": [
+    "AI评估",
+    "Agent测试",
+    "性能量化"
+  ],
+  "status": "draft"
+}

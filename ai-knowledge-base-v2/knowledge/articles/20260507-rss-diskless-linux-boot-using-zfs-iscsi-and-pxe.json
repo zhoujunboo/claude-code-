@@ -1,0 +1,14 @@
+{
+  "id": "20260507-rss-diskless-linux-boot-using-zfs-iscsi-and-pxe",
+  "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+  "sourceUrl": "https://aniket.foo/posts/20260505-netboot/",
+  "summary": "基于ZFS、iSCSI和PXE实现无盘Linux启动，提供高效网络引导与存储管理方案。",
+  "tags": [
+    "无盘启动",
+    "ZFS",
+    "iSCSI",
+    "PXE",
+    "Linux"
+  ],
+  "status": "draft"
+}

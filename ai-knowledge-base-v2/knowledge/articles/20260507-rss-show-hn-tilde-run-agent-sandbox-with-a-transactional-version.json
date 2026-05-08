@@ -1,0 +1,13 @@
+{
+  "id": "20260507-rss-show-hn-tilde-run-agent-sandbox-with-a-transactional-version",
+  "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
+  "sourceUrl": "https://tilde.run/",
+  "summary": "Tilde.run 是一个 AI 代理沙箱，提供事务性、版本化的文件系统，用于安全、可回滚的代码执行环境。",
+  "tags": [
+    "AI沙箱",
+    "版本化文件系统",
+    "代理安全",
+    "事务性执行"
+  ],
+  "status": "draft"
+}
