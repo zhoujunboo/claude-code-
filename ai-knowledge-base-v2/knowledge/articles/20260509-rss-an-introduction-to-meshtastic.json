@@ -1,0 +1,13 @@
+{
+  "id": "20260509-rss-an-introduction-to-meshtastic",
+  "title": "An Introduction to Meshtastic",
+  "sourceUrl": "https://meshtastic.org/docs/introduction/",
+  "summary": "Meshtastic 是一个基于 LoRa 的离线通信项目，适用于无网络环境下的设备互联，具有低功耗和长距离传输特点。",
+  "tags": [
+    "LoRa",
+    "离线通信",
+    "物联网",
+    "开源硬件"
+  ],
+  "status": "draft"
+}

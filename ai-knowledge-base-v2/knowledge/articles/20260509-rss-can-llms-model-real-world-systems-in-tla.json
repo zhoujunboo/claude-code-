@@ -1,0 +1,13 @@
+{
+  "id": "20260509-rss-can-llms-model-real-world-systems-in-tla",
+  "title": "Can LLMs model real-world systems in TLA+?",
+  "sourceUrl": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+  "summary": "探索大语言模型在TLA+形式化建模中的能力，评估其模拟真实世界系统的潜力与局限性。",
+  "tags": [
+    "大语言模型",
+    "形式化验证",
+    "TLA+",
+    "系统建模"
+  ],
+  "status": "draft"
+}

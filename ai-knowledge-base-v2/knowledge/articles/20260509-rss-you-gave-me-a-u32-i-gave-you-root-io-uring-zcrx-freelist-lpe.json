@@ -1,0 +1,13 @@
+{
+  "id": "20260509-rss-you-gave-me-a-u32-i-gave-you-root-io-uring-zcrx-freelist-lpe",
+  "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+  "sourceUrl": "https://ze3tar.github.io/post-zcrx.html",
+  "summary": "利用 io_uring ZCRX 空闲列表漏洞实现本地权限提升（LPE），将 u32 输入转化为 root 权限。",
+  "tags": [
+    "漏洞利用",
+    "权限提升",
+    "Linux内核",
+    "io_uring"
+  ],
+  "status": "draft"
+}

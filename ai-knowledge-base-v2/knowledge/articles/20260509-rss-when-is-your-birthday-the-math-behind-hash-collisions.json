@@ -1,0 +1,13 @@
+{
+  "id": "20260509-rss-when-is-your-birthday-the-math-behind-hash-collisions",
+  "title": "When is your birthday? The math behind hash collisions",
+  "sourceUrl": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
+  "summary": "通过生日悖论分析哈希碰撞的数学原理，揭示概率与安全性的关系。",
+  "tags": [
+    "哈希碰撞",
+    "生日悖论",
+    "数学原理",
+    "密码学"
+  ],
+  "status": "draft"
+}

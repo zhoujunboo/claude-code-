@@ -1,0 +1,13 @@
+{
+  "id": "20260509-rss-mojo-1-0-beta",
+  "title": "Mojo 1.0 Beta",
+  "sourceUrl": "https://mojolang.org/",
+  "summary": "Mojo 1.0 Beta 是 Modular 推出的新型编程语言，融合 Python 语法与高性能计算，旨在简化 AI 和科学计算开发。",
+  "tags": [
+    "编程语言",
+    "高性能计算",
+    "AI基础设施",
+    "Python兼容"
+  ],
+  "status": "draft"
+}

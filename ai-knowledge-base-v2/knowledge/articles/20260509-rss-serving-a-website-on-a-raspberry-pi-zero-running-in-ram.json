@@ -1,0 +1,13 @@
+{
+  "id": "20260509-rss-serving-a-website-on-a-raspberry-pi-zero-running-in-ram",
+  "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+  "sourceUrl": "https://btxx.org/posts/memory/",
+  "summary": "在树莓派 Zero 上从 RAM 运行网站，实现极低延迟与持久性，适合边缘计算与轻量级部署。",
+  "tags": [
+    "树莓派",
+    "RAM 运行",
+    "边缘计算",
+    "轻量级部署"
+  ],
+  "status": "draft"
+}
