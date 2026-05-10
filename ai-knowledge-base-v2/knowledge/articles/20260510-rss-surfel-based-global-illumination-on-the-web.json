@@ -1,0 +1,12 @@
+{
+  "id": "20260510-rss-surfel-based-global-illumination-on-the-web",
+  "title": "Surfel-based global illumination on the web",
+  "sourceUrl": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
+  "summary": "基于面元（surfel）的全局光照在Web端实现，探索实时渲染技术。",
+  "tags": [
+    "全局光照",
+    "Web渲染",
+    "面元"
+  ],
+  "status": "draft"
+}

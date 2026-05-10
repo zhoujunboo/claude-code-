@@ -1,0 +1,12 @@
+{
+  "id": "20260510-rss-llms-corrupt-your-documents-when-you-delegate",
+  "title": "LLMs corrupt your documents when you delegate",
+  "sourceUrl": "https://arxiv.org/abs/2604.15597",
+  "summary": "研究指出将文档处理委托给大语言模型可能导致内容被篡改，揭示AI在文档管理中的潜在风险。",
+  "tags": [
+    "大语言模型",
+    "文档安全",
+    "AI风险"
+  ],
+  "status": "draft"
+}

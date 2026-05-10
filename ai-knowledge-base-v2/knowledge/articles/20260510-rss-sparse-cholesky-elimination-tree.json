@@ -1,0 +1,13 @@
+{
+  "id": "20260510-rss-sparse-cholesky-elimination-tree",
+  "title": "Sparse Cholesky Elimination Tree",
+  "sourceUrl": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
+  "summary": "该项目实现稀疏Cholesky分解的消去树结构，用于高效求解大规模稀疏线性方程组，具有重要数值计算价值。",
+  "tags": [
+    "稀疏矩阵",
+    "Cholesky分解",
+    "消去树",
+    "数值计算"
+  ],
+  "status": "draft"
+}

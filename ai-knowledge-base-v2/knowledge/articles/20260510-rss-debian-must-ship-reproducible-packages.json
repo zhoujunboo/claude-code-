@@ -1,0 +1,13 @@
+{
+  "id": "20260510-rss-debian-must-ship-reproducible-packages",
+  "title": "Debian must ship reproducible packages",
+  "sourceUrl": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+  "summary": "该项目旨在推动 Debian 发行版实现可重现构建，确保软件包可验证、可信赖，提升供应链安全。",
+  "tags": [
+    "可重现构建",
+    "Debian",
+    "供应链安全",
+    "软件包管理"
+  ],
+  "status": "draft"
+}

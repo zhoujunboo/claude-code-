@@ -1,0 +1,13 @@
+{
+  "id": "20260510-rss-show-hn-i-made-a-clojure-like-language-in-go-boots-in-7ms",
+  "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+  "sourceUrl": "https://github.com/nooga/let-go",
+  "summary": "用Go实现了一个类似Clojure的语言，启动时间仅7毫秒，展示了极快的编译与运行效率。",
+  "tags": [
+    "Clojure",
+    "Go",
+    "语言实现",
+    "快速启动"
+  ],
+  "status": "draft"
+}

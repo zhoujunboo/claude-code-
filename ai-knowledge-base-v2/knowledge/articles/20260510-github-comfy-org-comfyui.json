@@ -1,0 +1,14 @@
+{
+  "id": "20260510-github-comfy-org-comfyui",
+  "title": "Comfy-Org/ComfyUI",
+  "sourceUrl": "https://github.com/Comfy-Org/ComfyUI",
+  "summary": "ComfyUI 是一个基于节点图的扩散模型图形界面与后端，提供模块化、可扩展的 AI 图像生成工作流。",
+  "tags": [
+    "扩散模型",
+    "图形界面",
+    "模块化",
+    "节点工作流",
+    "AI 图像生成"
+  ],
+  "status": "draft"
+}

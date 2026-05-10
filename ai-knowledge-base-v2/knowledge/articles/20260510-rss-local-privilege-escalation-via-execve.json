@@ -1,0 +1,12 @@
+{
+  "id": "20260510-rss-local-privilege-escalation-via-execve",
+  "title": "Local privilege escalation via execve()",
+  "sourceUrl": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+  "summary": "利用 execve() 系统调用实现本地权限提升的技术分析项目，适用于安全研究。",
+  "tags": [
+    "权限提升",
+    "execve",
+    "安全研究"
+  ],
+  "status": "draft"
+}

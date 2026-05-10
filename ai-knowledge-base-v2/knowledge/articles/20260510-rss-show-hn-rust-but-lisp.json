@@ -1,0 +1,12 @@
+{
+  "id": "20260510-rss-show-hn-rust-but-lisp",
+  "title": "Show HN: Rust but Lisp",
+  "sourceUrl": "https://github.com/ThatXliner/rust-but-lisp",
+  "summary": "一个将Rust语法与Lisp风格结合的项目，探索函数式与系统编程的融合，技术实验性强。",
+  "tags": [
+    "Rust",
+    "Lisp",
+    "编程语言实验"
+  ],
+  "status": "draft"
+}

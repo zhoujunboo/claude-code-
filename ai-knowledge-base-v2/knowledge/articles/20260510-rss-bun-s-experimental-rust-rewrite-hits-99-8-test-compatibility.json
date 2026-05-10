@@ -1,0 +1,14 @@
+{
+  "id": "20260510-rss-bun-s-experimental-rust-rewrite-hits-99-8-test-compatibility",
+  "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+  "sourceUrl": "https://twitter.com/jarredsumner/status/2053047748191232310",
+  "summary": "Bun 实验性 Rust 重写版本在 Linux x64 glibc 上达到 99.8% 测试兼容性，展示了高性能运行时重构的技术可行性。",
+  "tags": [
+    "Rust",
+    "Bun",
+    "运行时重写",
+    "兼容性",
+    "高性能"
+  ],
+  "status": "draft"
+}

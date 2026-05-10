@@ -1,0 +1,13 @@
+{
+  "id": "20260510-rss-show-hn-building-a-web-server-in-assembly-to-give-my-life-a-",
+  "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+  "sourceUrl": "https://github.com/imtomt/ymawky",
+  "summary": "用汇编语言构建Web服务器，探索底层编程的极限，技术价值在于展示汇编在现代网络应用中的可行性。",
+  "tags": [
+    "汇编",
+    "Web服务器",
+    "底层编程",
+    "实验性项目"
+  ],
+  "status": "draft"
+}
