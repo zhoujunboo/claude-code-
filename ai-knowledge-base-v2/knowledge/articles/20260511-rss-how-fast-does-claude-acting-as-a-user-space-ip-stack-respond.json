@@ -1,0 +1,12 @@
+{
+  "id": "20260511-rss-how-fast-does-claude-acting-as-a-user-space-ip-stack-respond",
+  "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+  "sourceUrl": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+  "summary": "该项目测试Claude模拟用户空间IP协议栈时的ping响应速度，评估AI作为网络协议处理器的性能。",
+  "tags": [
+    "AI网络性能",
+    "Claude",
+    "ping测试"
+  ],
+  "status": "draft"
+}

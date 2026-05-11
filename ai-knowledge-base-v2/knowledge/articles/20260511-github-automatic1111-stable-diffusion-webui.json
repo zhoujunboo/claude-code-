@@ -1,0 +1,14 @@
+{
+  "id": "20260511-github-automatic1111-stable-diffusion-webui",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "sourceUrl": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "summary": "基于 Gradio 的 Stable Diffusion 可视化操作界面，支持文生图、图生图及多种扩展，极大降低了 AI 绘画的使用门槛。",
+  "tags": [
+    "Stable Diffusion",
+    "Web UI",
+    "AI 绘画",
+    "图像生成",
+    "开源工具"
+  ],
+  "status": "draft"
+}

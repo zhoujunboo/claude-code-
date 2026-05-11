@@ -1,0 +1,13 @@
+{
+  "id": "20260511-rss-obsidian-plugin-was-abused-to-deploy-a-remote-access-trojan",
+  "title": "Obsidian plugin was abused to deploy a remote access trojan",
+  "sourceUrl": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+  "summary": "Obsidian插件被滥用部署远程访问木马，揭示供应链安全风险，提醒用户警惕恶意插件。",
+  "tags": [
+    "供应链安全",
+    "远程访问木马",
+    "Obsidian插件",
+    "恶意软件"
+  ],
+  "status": "draft"
+}

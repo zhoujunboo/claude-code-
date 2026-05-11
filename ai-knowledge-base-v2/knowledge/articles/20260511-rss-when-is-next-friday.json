@@ -1,0 +1,12 @@
+{
+  "id": "20260511-rss-when-is-next-friday",
+  "title": "When Is \"Next Friday\"?",
+  "sourceUrl": "https://whenisnextfriday.com/",
+  "summary": "该项目旨在解析自然语言中的相对时间表达，如“下周五”，提升AI对模糊时间语义的理解能力。",
+  "tags": [
+    "自然语言处理",
+    "时间解析",
+    "语义理解"
+  ],
+  "status": "draft"
+}

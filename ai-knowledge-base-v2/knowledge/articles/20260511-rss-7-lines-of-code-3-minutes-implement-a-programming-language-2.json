@@ -1,0 +1,13 @@
+{
+  "id": "20260511-rss-7-lines-of-code-3-minutes-implement-a-programming-language-2",
+  "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+  "sourceUrl": "https://matt.might.net/articles/implementing-a-programming-language/",
+  "summary": "用7行代码3分钟实现一个编程语言，展示极小化编译器设计的技术价值与教学意义。",
+  "tags": [
+    "编程语言实现",
+    "编译器",
+    "极简代码",
+    "教学示例"
+  ],
+  "status": "draft"
+}

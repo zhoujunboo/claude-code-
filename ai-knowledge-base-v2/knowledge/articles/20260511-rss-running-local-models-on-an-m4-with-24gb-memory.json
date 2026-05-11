@@ -1,0 +1,13 @@
+{
+  "id": "20260511-rss-running-local-models-on-an-m4-with-24gb-memory",
+  "title": "Running local models on an M4 with 24GB memory",
+  "sourceUrl": "https://jola.dev/posts/running-local-models-on-m4",
+  "summary": "探讨在M4芯片24GB内存设备上本地运行AI模型的技术可行性，关注资源优化与部署效率。",
+  "tags": [
+    "本地部署",
+    "M4芯片",
+    "内存优化",
+    "边缘计算"
+  ],
+  "status": "draft"
+}

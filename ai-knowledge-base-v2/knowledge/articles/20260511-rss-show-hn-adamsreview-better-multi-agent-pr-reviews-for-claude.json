@@ -1,0 +1,13 @@
+{
+  "id": "20260511-rss-show-hn-adamsreview-better-multi-agent-pr-reviews-for-claude",
+  "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+  "sourceUrl": "https://github.com/adamjgmiller/adamsreview",
+  "summary": "为Claude Code提供改进的多智能体PR审查工具，通过多代理协作提升代码审查效率与质量。",
+  "tags": [
+    "多智能体",
+    "代码审查",
+    "Claude Code",
+    "PR工具"
+  ],
+  "status": "draft"
+}

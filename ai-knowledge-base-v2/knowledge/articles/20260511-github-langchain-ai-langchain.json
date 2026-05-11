@@ -1,0 +1,14 @@
+{
+  "id": "20260511-github-langchain-ai-langchain",
+  "title": "langchain-ai/langchain",
+  "sourceUrl": "https://github.com/langchain-ai/langchain",
+  "summary": "LangChain 是一个用于构建和编排智能体应用的工程平台，提供模块化工具与链式调用能力，显著降低大模型应用开发门槛。",
+  "tags": [
+    "大模型",
+    "智能体",
+    "Agent工程",
+    "LLM应用开发",
+    "Python框架"
+  ],
+  "status": "draft"
+}

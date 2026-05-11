@@ -1,0 +1,12 @@
+{
+  "id": "20260511-rss-ratty-a-terminal-emulator-with-inline-3d-graphics",
+  "title": "Ratty – A terminal emulator with inline 3D graphics",
+  "sourceUrl": "https://ratty-term.org/",
+  "summary": "Ratty 是一款支持内联 3D 图形的终端模拟器，将三维渲染直接集成到命令行界面中，提升交互体验。",
+  "tags": [
+    "终端模拟器",
+    "3D图形",
+    "命令行工具"
+  ],
+  "status": "draft"
+}
