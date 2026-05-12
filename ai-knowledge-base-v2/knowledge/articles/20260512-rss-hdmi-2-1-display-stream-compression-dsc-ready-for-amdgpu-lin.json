@@ -1,0 +1,14 @@
+{
+  "id": "20260512-rss-hdmi-2-1-display-stream-compression-dsc-ready-for-amdgpu-lin",
+  "title": "HDMI 2.1 Display Stream Compression (DSC) Ready for Amdgpu Linux Driver",
+  "sourceUrl": "https://www.phoronix.com/news/HDMI-2.1-DSC-AMDGPU-FRL",
+  "summary": "为AMDGPU Linux驱动添加HDMI 2.1显示流压缩（DSC）支持，提升高分辨率高刷新率显示性能。",
+  "tags": [
+    "HDMI 2.1",
+    "DSC",
+    "AMDGPU",
+    "Linux驱动",
+    "显示技术"
+  ],
+  "status": "draft"
+}

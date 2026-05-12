@@ -1,0 +1,13 @@
+{
+  "id": "20260512-rss-postmortem-tanstack-npm-supply-chain-compromise",
+  "title": "Postmortem: TanStack NPM supply-chain compromise",
+  "sourceUrl": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+  "summary": "分析 TanStack NPM 供应链攻击事件，揭示开源项目安全漏洞与应对措施，提升软件供应链防护意识。",
+  "tags": [
+    "供应链安全",
+    "NPM",
+    "安全事件分析",
+    "开源安全"
+  ],
+  "status": "draft"
+}

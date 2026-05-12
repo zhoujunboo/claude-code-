@@ -1,0 +1,12 @@
+{
+  "id": "20260512-rss-library-for-fast-mapping-of-java-records-to-native-memory",
+  "title": "Library for fast mapping of Java records to native memory",
+  "sourceUrl": "https://github.com/mamba-studio/TypedMemory",
+  "summary": "一个用于将Java记录快速映射到本地内存的库，旨在提升Java与原生内存交互的性能。",
+  "tags": [
+    "Java",
+    "内存映射",
+    "性能优化"
+  ],
+  "status": "draft"
+}

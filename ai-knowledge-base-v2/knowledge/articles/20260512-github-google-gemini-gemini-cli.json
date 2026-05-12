@@ -1,0 +1,14 @@
+{
+  "id": "20260512-github-google-gemini-gemini-cli",
+  "title": "google-gemini/gemini-cli",
+  "sourceUrl": "https://github.com/google-gemini/gemini-cli",
+  "summary": "开源AI代理，将Gemini能力集成到终端，提升命令行交互效率与智能化水平。",
+  "tags": [
+    "AI Agent",
+    "终端工具",
+    "Gemini",
+    "开源",
+    "TypeScript"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "20260512-rss-claude-platform-on-aws",
+  "title": "Claude Platform on AWS",
+  "sourceUrl": "https://claude.com/blog/claude-platform-on-aws",
+  "summary": "在 AWS 上部署 Claude 平台的解决方案，提供企业级 AI 服务集成与云端推理能力。",
+  "tags": [
+    "AWS",
+    "Claude",
+    "云端部署",
+    "AI 平台"
+  ],
+  "status": "draft"
+}
