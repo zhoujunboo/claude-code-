@@ -1,0 +1,14 @@
+{
+  "id": "20260513-github-langflow-ai-langflow",
+  "title": "langflow-ai/langflow",
+  "sourceUrl": "https://github.com/langflow-ai/langflow",
+  "summary": "Langflow 是一个基于 Python 的 AI 代理与工作流构建部署工具，提供可视化界面，降低 AI 应用开发门槛。",
+  "tags": [
+    "AI代理",
+    "工作流",
+    "低代码",
+    "Python",
+    "部署工具"
+  ],
+  "status": "draft"
+}

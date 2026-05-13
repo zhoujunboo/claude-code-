@@ -1,0 +1,12 @@
+{
+  "id": "20260513-rss-quack-the-duckdb-client-server-protocol",
+  "title": "Quack: The DuckDB Client-Server Protocol",
+  "sourceUrl": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+  "summary": "Quack 项目定义了 DuckDB 的客户端-服务器协议，旨在扩展 DuckDB 的网络交互能力，提升其作为嵌入式数据库的远程访问与协作价值。",
+  "tags": [
+    "DuckDB",
+    "客户端-服务器协议",
+    "数据库网络交互"
+  ],
+  "status": "draft"
+}

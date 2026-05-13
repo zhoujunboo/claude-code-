@@ -1,0 +1,16 @@
+{
+  "id": "20260513-github-microsoft-generative-ai-for-beginners",
+  "title": "microsoft/generative-ai-for-beginners",
+  "sourceUrl": "https://github.com/microsoft/generative-ai-for-beginners",
+  "summary": "微软推出的生成式AI入门课程，包含21个实战教程，覆盖提示工程、RAG、AI代理等核心主题，适合初学者快速上手构建生成式AI应用。",
+  "tags": [
+    "生成式AI",
+    "入门教程",
+    "微软",
+    "提示工程",
+    "RAG",
+    "AI代理",
+    "Jupyter Notebook"
+  ],
+  "status": "draft"
+}

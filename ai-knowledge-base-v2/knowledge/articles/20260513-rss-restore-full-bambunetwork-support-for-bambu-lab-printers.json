@@ -1,0 +1,12 @@
+{
+  "id": "20260513-rss-restore-full-bambunetwork-support-for-bambu-lab-printers",
+  "title": "Restore full BambuNetwork support for Bambu Lab printers",
+  "sourceUrl": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+  "summary": "该项目旨在恢复对Bambu Lab打印机的完整BambuNetwork支持，可能涉及固件或软件兼容性修复。",
+  "tags": [
+    "3D打印",
+    "Bambu Lab",
+    "网络支持"
+  ],
+  "status": "draft"
+}

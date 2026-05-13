@@ -1,0 +1,14 @@
+{
+  "id": "20260513-rss-deterministic-fully-static-whole-binary-translation-without-",
+  "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+  "sourceUrl": "https://arxiv.org/abs/2605.08419",
+  "summary": "提出一种无需启发式方法的确定性全静态二进制翻译技术，提升翻译准确性与可预测性，适用于安全与逆向工程场景。",
+  "tags": [
+    "二进制翻译",
+    "静态分析",
+    "确定性",
+    "逆向工程",
+    "编译器技术"
+  ],
+  "status": "draft"
+}

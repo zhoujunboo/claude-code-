@@ -1,0 +1,14 @@
+{
+  "id": "20260513-rss-cert-is-releasing-six-cves-for-serious-security-vulnerabilit",
+  "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+  "sourceUrl": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+  "summary": "CERT 发布六个针对 dnsmasq 严重安全漏洞的 CVE，影响广泛使用的 DNS 转发软件，需紧急修复。",
+  "tags": [
+    "安全漏洞",
+    "DNS",
+    "CVE",
+    "dnsmasq",
+    "漏洞披露"
+  ],
+  "status": "draft"
+}

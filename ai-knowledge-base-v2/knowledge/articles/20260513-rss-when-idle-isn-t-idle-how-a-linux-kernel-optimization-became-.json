@@ -1,0 +1,13 @@
+{
+  "id": "20260513-rss-when-idle-isn-t-idle-how-a-linux-kernel-optimization-became-",
+  "title": "When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug",
+  "sourceUrl": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+  "summary": "揭示Linux内核空闲优化导致QUIC协议实现中的隐蔽bug，强调系统优化与网络协议交互的潜在风险。",
+  "tags": [
+    "Linux内核",
+    "QUIC协议",
+    "系统优化",
+    "Bug分析"
+  ],
+  "status": "draft"
+}

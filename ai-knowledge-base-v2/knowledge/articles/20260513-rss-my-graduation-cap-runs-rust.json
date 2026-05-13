@@ -1,0 +1,12 @@
+{
+  "id": "20260513-rss-my-graduation-cap-runs-rust",
+  "title": "My graduation cap runs Rust",
+  "sourceUrl": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+  "summary": "该项目将Rust语言运行在毕业帽上，展示了嵌入式系统与编程语言的创意结合，技术价值在于探索Rust在微型设备上的应用。",
+  "tags": [
+    "Rust",
+    "嵌入式系统",
+    "创意项目"
+  ],
+  "status": "draft"
+}

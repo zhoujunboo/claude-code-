@@ -1,0 +1,14 @@
+{
+  "id": "20260513-github-langchain-ai-langchain",
+  "title": "langchain-ai/langchain",
+  "sourceUrl": "https://github.com/langchain-ai/langchain",
+  "summary": "LangChain 是一个用于构建和编排 AI 代理的工程平台，提供模块化工具链与 LLM 集成能力，显著简化复杂智能体开发流程。",
+  "tags": [
+    "AI代理",
+    "LLM编排",
+    "工具链",
+    "Python",
+    "智能体开发"
+  ],
+  "status": "draft"
+}

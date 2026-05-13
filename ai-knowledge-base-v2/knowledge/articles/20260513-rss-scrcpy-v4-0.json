@@ -1,0 +1,14 @@
+{
+  "id": "20260513-rss-scrcpy-v4-0",
+  "title": "Scrcpy v4.0",
+  "sourceUrl": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
+  "summary": "Scrcpy v4.0 通过 USB/无线方式实现高性能安卓设备屏幕镜像与控制，支持低延迟、高帧率及多设备管理。",
+  "tags": [
+    "屏幕镜像",
+    "安卓控制",
+    "低延迟",
+    "多设备",
+    "开源工具"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "20260513-rss-securitybaseline-eu",
+  "title": "SecurityBaseline.eu",
+  "sourceUrl": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
+  "summary": "一个面向欧盟的安全基线项目，旨在提供合规性指导与安全配置标准，技术价值待验证。",
+  "tags": [
+    "安全基线",
+    "欧盟合规",
+    "安全配置"
+  ],
+  "status": "draft"
+}
