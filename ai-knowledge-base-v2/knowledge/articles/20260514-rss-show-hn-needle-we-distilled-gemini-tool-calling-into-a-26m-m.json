@@ -1,0 +1,13 @@
+{
+  "id": "20260514-rss-show-hn-needle-we-distilled-gemini-tool-calling-into-a-26m-m",
+  "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+  "sourceUrl": "https://github.com/cactus-compute/needle",
+  "summary": "将Gemini工具调用能力蒸馏至26M参数模型，实现高效工具调用，降低计算成本。",
+  "tags": [
+    "模型蒸馏",
+    "工具调用",
+    "轻量模型",
+    "Gemini"
+  ],
+  "status": "draft"
+}

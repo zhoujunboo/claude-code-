@@ -1,0 +1,12 @@
+{
+  "id": "20260514-rss-the-emacsification-of-software",
+  "title": "The Emacsification of Software",
+  "sourceUrl": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+  "summary": "探讨将Emacs设计哲学融入软件开发，强调可扩展性与用户自定义，技术价值在于推动软件架构的灵活性与个性化。",
+  "tags": [
+    "Emacs",
+    "软件设计",
+    "可扩展性"
+  ],
+  "status": "draft"
+}

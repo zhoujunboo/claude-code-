@@ -1,0 +1,13 @@
+{
+  "id": "20260514-rss-launch-hn-ardent-yc-p26-postgres-sandboxes-in-seconds-with-z",
+  "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+  "sourceUrl": "https://www.tryardent.com/",
+  "summary": "Ardent 提供秒级 PostgreSQL 沙箱环境，无需迁移，降低数据库测试与开发门槛。",
+  "tags": [
+    "PostgreSQL",
+    "沙箱",
+    "开发工具",
+    "YC"
+  ],
+  "status": "draft"
+}

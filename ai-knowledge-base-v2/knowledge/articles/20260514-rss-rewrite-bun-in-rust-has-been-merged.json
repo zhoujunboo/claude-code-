@@ -1,0 +1,13 @@
+{
+  "id": "20260514-rss-rewrite-bun-in-rust-has-been-merged",
+  "title": "Rewrite Bun in Rust has been merged",
+  "sourceUrl": "https://github.com/oven-sh/bun/pull/30412",
+  "summary": "将Bun运行时用Rust重写的合并请求已通过，旨在提升性能与安全性，体现跨语言重构的技术价值。",
+  "tags": [
+    "Rust",
+    "Bun",
+    "运行时重写",
+    "性能优化"
+  ],
+  "status": "draft"
+}
