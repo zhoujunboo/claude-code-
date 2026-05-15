@@ -1,0 +1,14 @@
+{
+  "id": "20260515-rss-tesla-wall-connector-bootloader-bypasses-the-firmware-downgr",
+  "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+  "sourceUrl": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+  "summary": "该项目展示了特斯拉壁挂式充电器引导加载程序中的漏洞，可绕过固件降级防护机制，对设备安全与固件完整性构成威胁。",
+  "tags": [
+    "固件安全",
+    "引导加载程序",
+    "漏洞利用",
+    "特斯拉",
+    "嵌入式安全"
+  ],
+  "status": "draft"
+}

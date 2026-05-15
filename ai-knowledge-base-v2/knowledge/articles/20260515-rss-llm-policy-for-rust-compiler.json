@@ -1,0 +1,13 @@
+{
+  "id": "20260515-rss-llm-policy-for-rust-compiler",
+  "title": "LLM Policy for Rust Compiler",
+  "sourceUrl": "https://github.com/rust-lang/rust-forge/pull/1040",
+  "summary": "该项目旨在为Rust编译器制定大语言模型（LLM）使用政策，以规范AI在编译器开发中的应用，提升代码安全与合规性。",
+  "tags": [
+    "Rust",
+    "编译器",
+    "LLM政策",
+    "AI治理"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "20260515-rss-mullvad-exit-ips-are-surprisingly-identifying",
+  "title": "Mullvad exit IPs are surprisingly identifying",
+  "sourceUrl": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+  "summary": "分析Mullvad出口IP的识别性，揭示VPN服务中IP分配可能泄露用户身份的技术问题。",
+  "tags": [
+    "VPN",
+    "隐私安全",
+    "IP识别"
+  ],
+  "status": "draft"
+}

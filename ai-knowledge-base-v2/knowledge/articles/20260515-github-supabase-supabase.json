@@ -1,0 +1,15 @@
+{
+  "id": "20260515-github-supabase-supabase",
+  "title": "supabase/supabase",
+  "sourceUrl": "https://github.com/supabase/supabase",
+  "summary": "Supabase 提供托管 Postgres 数据库与后端服务，支持 Web、移动和 AI 应用快速开发，是 Firebase 的开源替代方案。",
+  "tags": [
+    "Postgres",
+    "后端即服务",
+    "开源",
+    "TypeScript",
+    "数据库",
+    "AI应用"
+  ],
+  "status": "draft"
+}

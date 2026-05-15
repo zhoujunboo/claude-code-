@@ -1,0 +1,12 @@
+{
+  "id": "20260515-rss-how-claude-code-works-in-large-codebases",
+  "title": "How Claude Code works in large codebases",
+  "sourceUrl": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+  "summary": "分析Claude Code在大型代码库中的工作原理，探讨AI辅助编程的技术实现与优化策略。",
+  "tags": [
+    "AI编程",
+    "代码库分析",
+    "Claude Code"
+  ],
+  "status": "draft"
+}

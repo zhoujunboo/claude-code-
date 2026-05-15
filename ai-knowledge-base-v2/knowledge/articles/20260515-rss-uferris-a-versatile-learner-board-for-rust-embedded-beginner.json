@@ -1,0 +1,14 @@
+{
+  "id": "20260515-rss-uferris-a-versatile-learner-board-for-rust-embedded-beginner",
+  "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
+  "sourceUrl": "https://www.theembeddedrustacean.com/uferris",
+  "summary": "UFerris 是一款面向 Rust 嵌入式初学者的多功能学习板，旨在降低入门门槛并提升实践体验。",
+  "tags": [
+    "Rust",
+    "嵌入式",
+    "学习板",
+    "初学者",
+    "硬件"
+  ],
+  "status": "draft"
+}

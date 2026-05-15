@@ -1,0 +1,12 @@
+{
+  "id": "20260515-rss-claude-for-legal",
+  "title": "Claude for Legal",
+  "sourceUrl": "https://github.com/anthropics/claude-for-legal",
+  "summary": "基于Claude的AI法律助手项目，旨在利用大语言模型提供法律咨询与文档处理服务，技术价值尚待验证。",
+  "tags": [
+    "法律",
+    "AI助手",
+    "Claude"
+  ],
+  "status": "draft"
+}

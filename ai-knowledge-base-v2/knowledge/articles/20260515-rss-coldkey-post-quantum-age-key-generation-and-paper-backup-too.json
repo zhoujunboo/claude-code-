@@ -1,0 +1,13 @@
+{
+  "id": "20260515-rss-coldkey-post-quantum-age-key-generation-and-paper-backup-too",
+  "title": "Coldkey – Post-quantum age key generation and paper backup tool",
+  "sourceUrl": "https://github.com/pike00/coldkey",
+  "summary": "Coldkey 是一个后量子时代的密钥生成与纸质备份工具，旨在应对量子计算对现有加密体系的威胁，提升密钥安全性。",
+  "tags": [
+    "后量子密码",
+    "密钥生成",
+    "纸质备份",
+    "安全工具"
+  ],
+  "status": "draft"
+}
