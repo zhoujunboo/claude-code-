@@ -1,0 +1,14 @@
+{
+  "id": "20260516-rss-erlang-otp-29-0",
+  "title": "Erlang/OTP 29.0",
+  "sourceUrl": "https://www.erlang.org/news/188",
+  "summary": "Erlang/OTP 29.0 是 Erlang 编程语言及 OTP 框架的新版本，提供并发、容错和分布式系统开发的核心支持。",
+  "tags": [
+    "Erlang",
+    "OTP",
+    "并发",
+    "分布式系统",
+    "容错"
+  ],
+  "status": "draft"
+}

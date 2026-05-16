@@ -1,0 +1,14 @@
+{
+  "id": "20260516-rss-bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for",
+  "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+  "sourceUrl": "https://github.com/oven-sh/bun/issues/30719",
+  "summary": "Bun的Rust重写代码库未通过基本miri检查，在安全Rust中允许未定义行为，存在内存安全隐患。",
+  "tags": [
+    "Rust",
+    "未定义行为",
+    "内存安全",
+    "Bun",
+    "miri检查"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20260516-rss-show-hn-epiq-distributed-git-based-issue-tracker-tui",
+  "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+  "sourceUrl": "https://ljtn.github.io/epiq/",
+  "summary": "Epiq 是一个基于分布式 Git 的问题追踪器终端界面工具，利用 Git 存储和管理 issue，强调去中心化与轻量级协作。",
+  "tags": [
+    "Git",
+    "issue tracker",
+    "TUI",
+    "分布式",
+    "开源工具"
+  ],
+  "status": "draft"
+}

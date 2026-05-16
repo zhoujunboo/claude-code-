@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-05-16T09:40:52.282Z",
+  "items": [
+    {
+      "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
+      "url": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+      "url": "https://ljtn.github.io/epiq/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
+      "url": "https://dynomight.net/p2p-meth/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "Erlang/OTP 29.0",
+      "url": "https://www.erlang.org/news/188",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "SQL patterns I use to catch transaction fraud",
+      "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
+      "url": "https://github.com/chiennv2000/orthrus",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "How to Write to SSDs [pdf]",
+      "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "Bill to block publishers from killing online games advances in California",
+      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "The Zulip Foundation",
+      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+      "url": "https://github.com/gdevic/FPGA-Calculator",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "Hightouch (YC S19) Is Hiring",
+      "url": "https://hightouch.com/careers",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+      "url": "https://github.com/oven-sh/bun/issues/30719",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "Project Gutenberg – keeps getting better",
+      "url": "https://www.gutenberg.org/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+      "url": "https://github.com/neilsonnn/image-blaster",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "Additive Blending on the Nintendo 64",
+      "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "ASCII by Jason Scott",
+      "url": "https://ascii.textfiles.com/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    },
+    {
+      "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
+      "url": "https://signoz.io/careers",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-16T09:40:52.281Z"
+    }
+  ]
+}

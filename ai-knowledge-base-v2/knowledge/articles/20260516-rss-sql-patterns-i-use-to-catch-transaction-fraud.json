@@ -1,0 +1,13 @@
+{
+  "id": "20260516-rss-sql-patterns-i-use-to-catch-transaction-fraud",
+  "title": "SQL patterns I use to catch transaction fraud",
+  "sourceUrl": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+  "summary": "该项目总结了用于检测交易欺诈的SQL模式，提供实用的查询技巧，帮助分析异常交易行为。",
+  "tags": [
+    "SQL",
+    "欺诈检测",
+    "数据分析",
+    "交易安全"
+  ],
+  "status": "draft"
+}

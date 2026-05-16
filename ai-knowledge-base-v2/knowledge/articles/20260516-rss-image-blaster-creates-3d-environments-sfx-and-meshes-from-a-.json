@@ -1,0 +1,13 @@
+{
+  "id": "20260516-rss-image-blaster-creates-3d-environments-sfx-and-meshes-from-a-",
+  "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+  "sourceUrl": "https://github.com/neilsonnn/image-blaster",
+  "summary": "从单张图像生成3D环境、特效和网格，简化3D内容创建流程，提升效率。",
+  "tags": [
+    "3D生成",
+    "单图重建",
+    "图像转3D",
+    "特效生成"
+  ],
+  "status": "draft"
+}

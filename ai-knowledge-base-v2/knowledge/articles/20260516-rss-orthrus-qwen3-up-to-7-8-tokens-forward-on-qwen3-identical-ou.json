@@ -1,0 +1,12 @@
+{
+  "id": "20260516-rss-orthrus-qwen3-up-to-7-8-tokens-forward-on-qwen3-identical-ou",
+  "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
+  "sourceUrl": "https://github.com/chiennv2000/orthrus",
+  "summary": "Orthrus-Qwen3 通过优化推理架构，在 Qwen3 模型上实现最高 7.8 倍 token 生成加速，且保持输出分布一致，显著提升大模型推理效率。",
+  "tags": [
+    "大模型推理加速",
+    "Qwen3",
+    "token生成优化"
+  ],
+  "status": "draft"
+}

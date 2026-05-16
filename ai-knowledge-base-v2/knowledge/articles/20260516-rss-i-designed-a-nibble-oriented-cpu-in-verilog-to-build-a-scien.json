@@ -1,0 +1,13 @@
+{
+  "id": "20260516-rss-i-designed-a-nibble-oriented-cpu-in-verilog-to-build-a-scien",
+  "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+  "sourceUrl": "https://github.com/gdevic/FPGA-Calculator",
+  "summary": "用Verilog设计了一个面向半字节的CPU，用于构建科学计算器，展示了底层硬件设计与计算逻辑的结合。",
+  "tags": [
+    "Verilog",
+    "CPU设计",
+    "科学计算器",
+    "硬件描述语言"
+  ],
+  "status": "draft"
+}
