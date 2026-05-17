@@ -1,0 +1,13 @@
+{
+  "id": "20260517-rss-hosting-a-website-on-an-8-bit-microcontroller",
+  "title": "Hosting a website on an 8-bit microcontroller",
+  "sourceUrl": "https://maurycyz.com/projects/mcusite/",
+  "summary": "在8位微控制器上托管网站，探索极低资源设备实现网络服务的可行性。",
+  "tags": [
+    "嵌入式",
+    "微控制器",
+    "网络服务",
+    "极简架构"
+  ],
+  "status": "draft"
+}

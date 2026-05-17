@@ -1,0 +1,13 @@
+{
+  "id": "20260517-rss-self-distillation-enables-continual-learning-pdf",
+  "title": "Self-Distillation Enables Continual Learning [pdf]",
+  "sourceUrl": "https://arxiv.org/abs/2601.19897",
+  "summary": "提出自蒸馏方法实现持续学习，无需额外数据或复杂架构，提升模型在序列任务中的稳定性与可塑性。",
+  "tags": [
+    "持续学习",
+    "自蒸馏",
+    "灾难性遗忘",
+    "知识蒸馏"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20260517-rss-sana-wm-a-2-6b-open-source-world-model-for-1-minute-720p-vid",
+  "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+  "sourceUrl": "https://nvlabs.github.io/Sana/WM/",
+  "summary": "SANA-WM 是一个 2.6B 参数的开源世界模型，支持生成 1 分钟 720p 视频，推动长时高分辨率视频建模技术发展。",
+  "tags": [
+    "世界模型",
+    "视频生成",
+    "开源",
+    "高分辨率",
+    "长视频"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20260517-rss-playing-atari-st-music-on-the-amiga-with-zero-cpu",
+  "title": "Playing Atari ST Music on the Amiga with Zero CPU",
+  "sourceUrl": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+  "summary": "通过零CPU占用技术，在Amiga上播放Atari ST音乐，实现跨平台音频兼容与高效资源利用。",
+  "tags": [
+    "跨平台音频",
+    "复古计算",
+    "零CPU占用",
+    "Amiga",
+    "Atari ST"
+  ],
+  "status": "draft"
+}

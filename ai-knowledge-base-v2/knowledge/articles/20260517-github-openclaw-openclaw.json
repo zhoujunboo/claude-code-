@@ -1,0 +1,13 @@
+{
+  "id": "20260517-github-openclaw-openclaw",
+  "title": "openclaw/openclaw",
+  "sourceUrl": "https://github.com/openclaw/openclaw",
+  "summary": "一个跨平台、跨操作系统的个人AI助手项目，采用TypeScript开发，以龙虾方式提供智能服务。",
+  "tags": [
+    "AI助手",
+    "跨平台",
+    "TypeScript",
+    "个人助理"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "20260517-rss-mem-efficient-online-memory-for-large-language-models",
+  "title": "δ-mem: Efficient Online Memory for Large Language Models",
+  "sourceUrl": "https://arxiv.org/abs/2605.12357",
+  "summary": "提出一种高效在线记忆机制，优化大语言模型在长序列任务中的记忆效率与性能。",
+  "tags": [
+    "大语言模型",
+    "在线记忆",
+    "效率优化",
+    "长序列处理"
+  ],
+  "status": "draft"
+}
