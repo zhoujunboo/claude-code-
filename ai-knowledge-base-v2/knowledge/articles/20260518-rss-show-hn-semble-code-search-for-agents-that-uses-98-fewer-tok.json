@@ -1,0 +1,12 @@
+{
+  "id": "20260518-rss-show-hn-semble-code-search-for-agents-that-uses-98-fewer-tok",
+  "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+  "sourceUrl": "https://github.com/MinishLab/semble",
+  "summary": "Semble 是一种面向AI代理的代码搜索工具，相比grep减少98%的令牌使用，显著提升效率。",
+  "tags": [
+    "代码搜索",
+    "AI代理",
+    "效率优化"
+  ],
+  "status": "draft"
+}

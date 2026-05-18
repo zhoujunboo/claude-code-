@@ -1,0 +1,13 @@
+{
+  "id": "20260518-github-github-spec-kit",
+  "title": "github/spec-kit",
+  "sourceUrl": "https://github.com/github/spec-kit",
+  "summary": "一个帮助开发者快速上手规格驱动开发的Python工具包，通过规范化的开发流程提升软件质量和团队协作效率。",
+  "tags": [
+    "Spec-Driven Development",
+    "开发工具",
+    "Python",
+    "规范化开发"
+  ],
+  "status": "draft"
+}

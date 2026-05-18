@@ -1,0 +1,13 @@
+{
+  "id": "20260518-rss-cuda-books",
+  "title": "CUDA Books",
+  "sourceUrl": "https://github.com/alternbits/awesome-cuda-books",
+  "summary": "CUDA Books 是一个关于 CUDA 编程的书籍资源项目，旨在为开发者提供学习 GPU 并行计算的技术资料。",
+  "tags": [
+    "CUDA",
+    "GPU编程",
+    "并行计算",
+    "学习资源"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "20260518-rss-writeup-16-bytes-of-x86-that-turn-matrix-rain-into-sound",
+  "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+  "sourceUrl": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+  "summary": "一个仅用16字节x86代码将《黑客帝国》数字雨转化为声音的极简技术演示，展示了低资源下的创意编程。",
+  "tags": [
+    "x86汇编",
+    "代码艺术",
+    "音频生成",
+    "极简编程"
+  ],
+  "status": "draft"
+}

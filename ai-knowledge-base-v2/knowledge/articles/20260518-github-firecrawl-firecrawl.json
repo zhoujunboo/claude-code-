@@ -1,0 +1,14 @@
+{
+  "id": "20260518-github-firecrawl-firecrawl",
+  "title": "firecrawl/firecrawl",
+  "sourceUrl": "https://github.com/firecrawl/firecrawl",
+  "summary": "一个用TypeScript构建的开源工具，专为AI代理设计，提供高效的网页搜索、抓取与数据清洗能力。",
+  "tags": [
+    "网页抓取",
+    "AI代理",
+    "数据清洗",
+    "TypeScript",
+    "开源工具"
+  ],
+  "status": "draft"
+}

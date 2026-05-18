@@ -1,0 +1,14 @@
+{
+  "id": "20260518-rss-i-turned-a-80-rk3562-android-tablet-into-a-debian-linux-work",
+  "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+  "sourceUrl": "https://github.com/tech4bot/rk3562deb",
+  "summary": "将80美元的RK3562安卓平板改装为Debian Linux工作站，展示低成本硬件改造与嵌入式Linux部署的技术可行性。",
+  "tags": [
+    "嵌入式Linux",
+    "硬件改造",
+    "ARM设备",
+    "Debian",
+    "低成本计算"
+  ],
+  "status": "draft"
+}

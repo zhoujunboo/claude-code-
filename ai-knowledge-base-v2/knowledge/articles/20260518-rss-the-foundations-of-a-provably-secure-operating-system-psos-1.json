@@ -1,0 +1,13 @@
+{
+  "id": "20260518-rss-the-foundations-of-a-provably-secure-operating-system-psos-1",
+  "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+  "sourceUrl": "http://www.csl.sri.com/users/neumann/psos.pdf",
+  "summary": "提出可证明安全操作系统（PSOS）的理论基础，通过形式化验证方法确保系统安全性，是早期安全操作系统设计的开创性工作。",
+  "tags": [
+    "操作系统安全",
+    "形式化验证",
+    "可证明安全",
+    "经典论文"
+  ],
+  "status": "draft"
+}

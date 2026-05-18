@@ -1,0 +1,13 @@
+{
+  "id": "20260518-rss-profunctor-equipment-in-haskell",
+  "title": "Profunctor Equipment in Haskell",
+  "sourceUrl": "https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/",
+  "summary": "在Haskell中实现Profunctor Equipment，探索范畴论与函数式编程的深层结合，提供抽象计算结构。",
+  "tags": [
+    "Haskell",
+    "范畴论",
+    "Profunctor",
+    "函数式编程"
+  ],
+  "status": "draft"
+}

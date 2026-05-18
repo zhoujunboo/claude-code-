@@ -1,0 +1,13 @@
+{
+  "id": "20260518-rss-kharp-k-version-3-language-interpreter-in-c",
+  "title": "kharp – k version 3 Language Interpreter in C#",
+  "sourceUrl": "https://github.com/ERufian/ksharp",
+  "summary": "基于C#实现的K语言第三版解释器，提供轻量级编程语言解析与执行能力。",
+  "tags": [
+    "C#",
+    "解释器",
+    "编程语言",
+    "K语言"
+  ],
+  "status": "draft"
+}
