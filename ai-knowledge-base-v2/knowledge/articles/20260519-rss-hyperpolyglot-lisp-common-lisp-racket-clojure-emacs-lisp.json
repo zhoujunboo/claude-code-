@@ -1,0 +1,12 @@
+{
+  "id": "20260519-rss-hyperpolyglot-lisp-common-lisp-racket-clojure-emacs-lisp",
+  "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+  "sourceUrl": "https://hyperpolyglot.org/lisp",
+  "summary": "该项目对比分析Common Lisp、Racket、Clojure和Emacs Lisp四种Lisp方言，提供技术参考价值。",
+  "tags": [
+    "Lisp",
+    "语言对比",
+    "编程语言"
+  ],
+  "status": "draft"
+}

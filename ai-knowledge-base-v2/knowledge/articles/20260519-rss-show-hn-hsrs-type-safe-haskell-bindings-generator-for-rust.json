@@ -1,0 +1,14 @@
+{
+  "id": "20260519-rss-show-hn-hsrs-type-safe-haskell-bindings-generator-for-rust",
+  "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+  "sourceUrl": "https://github.com/harmont-dev/hsrs",
+  "summary": "Hsrs 是一个为 Rust 生成类型安全 Haskell 绑定的工具，提升跨语言调用的安全性与开发效率。",
+  "tags": [
+    "Haskell",
+    "Rust",
+    "类型安全",
+    "绑定生成",
+    "跨语言互操作"
+  ],
+  "status": "draft"
+}
