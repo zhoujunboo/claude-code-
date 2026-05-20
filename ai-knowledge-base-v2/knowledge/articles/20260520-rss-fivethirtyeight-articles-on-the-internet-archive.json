@@ -1,0 +1,12 @@
+{
+  "id": "20260520-rss-fivethirtyeight-articles-on-the-internet-archive",
+  "title": "FiveThirtyEight articles on the Internet Archive",
+  "sourceUrl": "https://fivethirtyeightindex.com/",
+  "summary": "该项目将FiveThirtyEight文章存档至互联网档案馆，提供数据备份与长期访问，技术价值在于保障网络内容持久性。",
+  "tags": [
+    "数据存档",
+    "互联网档案馆",
+    "内容备份"
+  ],
+  "status": "draft"
+}

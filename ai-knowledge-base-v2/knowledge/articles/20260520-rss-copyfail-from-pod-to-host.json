@@ -1,0 +1,12 @@
+{
+  "id": "20260520-rss-copyfail-from-pod-to-host",
+  "title": "CopyFail: From Pod to Host",
+  "sourceUrl": "https://xint.io/blog/copy-fail-pod-to-host",
+  "summary": "一个从Pod到主机的容器逃逸漏洞利用工具，强调安全研究价值。",
+  "tags": [
+    "容器安全",
+    "漏洞利用",
+    "Kubernetes"
+  ],
+  "status": "draft"
+}

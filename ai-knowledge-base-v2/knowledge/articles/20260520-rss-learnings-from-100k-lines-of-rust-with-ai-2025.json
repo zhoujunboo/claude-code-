@@ -1,0 +1,13 @@
+{
+  "id": "20260520-rss-learnings-from-100k-lines-of-rust-with-ai-2025",
+  "title": "Learnings from 100K lines of Rust with AI (2025)",
+  "sourceUrl": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+  "summary": "基于10万行Rust代码的AI实践经验总结，提炼技术洞见与工程优化策略。",
+  "tags": [
+    "Rust",
+    "AI工程",
+    "代码实践",
+    "经验总结"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "20260520-rss-railway-gcp-account-suspension-incident-report",
+  "title": "Railway GCP Account Suspension Incident Report",
+  "sourceUrl": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+  "summary": "该项目是一份关于Railway在GCP上账户暂停事件的报告，旨在记录和分析事件原因及影响，提供技术复盘参考。",
+  "tags": [
+    "事件报告",
+    "云服务",
+    "故障分析"
+  ],
+  "status": "draft"
+}

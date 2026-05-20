@@ -1,0 +1,12 @@
+{
+  "id": "20260520-rss-everything-in-c-is-undefined-behavior",
+  "title": "Everything in C is undefined behavior",
+  "sourceUrl": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+  "summary": "该项目以幽默方式探讨C语言中未定义行为的边界，具有技术教育价值，但星标数为0，可能为实验性或未公开项目。",
+  "tags": [
+    "C语言",
+    "未定义行为",
+    "编程幽默"
+  ],
+  "status": "draft"
+}
