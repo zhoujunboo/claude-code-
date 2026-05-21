@@ -1,0 +1,13 @@
+{
+  "id": "20260521-rss-show-hn-rmux-a-programmable-terminal-multiplexer-with-a-play",
+  "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+  "sourceUrl": "https://github.com/helvesec/rmux",
+  "summary": "Rmux 是一个可编程终端复用器，提供 Playwright 风格的 SDK，用于自动化终端交互。",
+  "tags": [
+    "终端复用器",
+    "可编程",
+    "SDK",
+    "自动化"
+  ],
+  "status": "draft"
+}

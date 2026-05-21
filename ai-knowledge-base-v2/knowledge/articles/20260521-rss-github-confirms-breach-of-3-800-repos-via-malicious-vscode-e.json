@@ -1,0 +1,14 @@
+{
+  "id": "20260521-rss-github-confirms-breach-of-3-800-repos-via-malicious-vscode-e",
+  "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+  "sourceUrl": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+  "summary": "GitHub确认通过恶意VSCode扩展入侵3800个仓库，凸显供应链安全风险与开发工具防护重要性。",
+  "tags": [
+    "供应链安全",
+    "VSCode扩展",
+    "GitHub安全",
+    "恶意软件",
+    "开发工具防护"
+  ],
+  "status": "draft"
+}

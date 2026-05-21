@@ -1,0 +1,12 @@
+{
+  "id": "20260521-rss-saying-goodbye-to-asm-js",
+  "title": "Saying goodbye to asm.js",
+  "sourceUrl": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+  "summary": "该项目告别asm.js，可能转向WebAssembly或其他现代技术，提升Web性能与兼容性。",
+  "tags": [
+    "WebAssembly",
+    "JavaScript",
+    "性能优化"
+  ],
+  "status": "draft"
+}

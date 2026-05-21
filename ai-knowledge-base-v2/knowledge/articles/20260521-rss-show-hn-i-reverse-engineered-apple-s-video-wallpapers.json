@@ -1,0 +1,12 @@
+{
+  "id": "20260521-rss-show-hn-i-reverse-engineered-apple-s-video-wallpapers",
+  "title": "Show HN: I reverse engineered Apple's video wallpapers",
+  "sourceUrl": "https://github.com/kageroumado/phosphene",
+  "summary": "逆向工程苹果视频壁纸，揭示其技术实现细节，为开发者提供自定义与复现的参考。",
+  "tags": [
+    "逆向工程",
+    "苹果",
+    "视频壁纸"
+  ],
+  "status": "draft"
+}
