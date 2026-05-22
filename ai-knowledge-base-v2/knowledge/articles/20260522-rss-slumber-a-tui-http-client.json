@@ -1,0 +1,13 @@
+{
+  "id": "20260522-rss-slumber-a-tui-http-client",
+  "title": "Slumber a TUI HTTP Client",
+  "sourceUrl": "https://slumber.lucaspickering.me",
+  "summary": "Slumber 是一个基于终端的 HTTP 客户端，提供 TUI 界面，适合开发者快速调试 API。",
+  "tags": [
+    "HTTP客户端",
+    "TUI",
+    "API调试",
+    "终端工具"
+  ],
+  "status": "draft"
+}

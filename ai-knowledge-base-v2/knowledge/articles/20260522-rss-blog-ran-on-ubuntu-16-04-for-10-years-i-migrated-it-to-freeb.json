@@ -1,0 +1,13 @@
+{
+  "id": "20260522-rss-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freeb",
+  "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+  "sourceUrl": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+  "summary": "将运行10年的Ubuntu 16.04博客迁移至FreeBSD，展示系统迁移经验与稳定性考量。",
+  "tags": [
+    "系统迁移",
+    "FreeBSD",
+    "Ubuntu",
+    "运维经验"
+  ],
+  "status": "draft"
+}

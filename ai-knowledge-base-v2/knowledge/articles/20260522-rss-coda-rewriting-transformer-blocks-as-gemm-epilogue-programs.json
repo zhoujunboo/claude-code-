@@ -1,0 +1,13 @@
+{
+  "id": "20260522-rss-coda-rewriting-transformer-blocks-as-gemm-epilogue-programs",
+  "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+  "sourceUrl": "https://arxiv.org/abs/2605.19269",
+  "summary": "提出将Transformer块重写为GEMM-Epilogue程序的方法，旨在优化计算性能，提升硬件利用率。",
+  "tags": [
+    "Transformer",
+    "GEMM",
+    "计算优化",
+    "深度学习编译"
+  ],
+  "status": "draft"
+}

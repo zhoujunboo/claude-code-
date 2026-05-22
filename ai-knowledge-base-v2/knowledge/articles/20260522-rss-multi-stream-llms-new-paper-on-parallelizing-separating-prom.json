@@ -1,0 +1,13 @@
+{
+  "id": "20260522-rss-multi-stream-llms-new-paper-on-parallelizing-separating-prom",
+  "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+  "sourceUrl": "https://arxiv.org/abs/2605.12460",
+  "summary": "提出多流LLM架构，通过并行化或分离提示、思考与I/O过程，提升模型效率与响应速度，具有潜在工程优化价值。",
+  "tags": [
+    "LLM",
+    "并行推理",
+    "架构优化",
+    "多流处理"
+  ],
+  "status": "draft"
+}
