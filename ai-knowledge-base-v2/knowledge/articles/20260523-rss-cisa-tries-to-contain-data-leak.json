@@ -1,0 +1,12 @@
+{
+  "id": "20260523-rss-cisa-tries-to-contain-data-leak",
+  "title": "CISA tries to contain data leak",
+  "sourceUrl": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+  "summary": "该项目涉及CISA尝试控制数据泄露事件，但缺乏具体技术细节和代码实现，技术价值有限。",
+  "tags": [
+    "数据安全",
+    "事件响应",
+    "CISA"
+  ],
+  "status": "draft"
+}

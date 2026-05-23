@@ -1,0 +1,12 @@
+{
+  "id": "20260523-rss-rubish-a-unix-shell-written-in-pure-ruby",
+  "title": "Rubish: A Unix shell written in pure Ruby",
+  "sourceUrl": "https://github.com/amatsuda/rubish",
+  "summary": "一个用纯 Ruby 编写的 Unix shell 项目，探索 Ruby 在系统编程中的应用。",
+  "tags": [
+    "Ruby",
+    "Unix shell",
+    "系统编程"
+  ],
+  "status": "draft"
+}

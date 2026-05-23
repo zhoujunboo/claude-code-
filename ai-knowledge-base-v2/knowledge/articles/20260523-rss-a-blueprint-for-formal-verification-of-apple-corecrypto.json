@@ -1,0 +1,13 @@
+{
+  "id": "20260523-rss-a-blueprint-for-formal-verification-of-apple-corecrypto",
+  "title": "A blueprint for formal verification of Apple corecrypto",
+  "sourceUrl": "https://security.apple.com/blog/formal-verification-corecrypto/",
+  "summary": "该项目为苹果核心加密库的形式化验证提供蓝图，旨在通过数学证明确保加密实现的安全性，具有高可靠性和技术前瞻性。",
+  "tags": [
+    "形式化验证",
+    "加密库",
+    "安全",
+    "苹果"
+  ],
+  "status": "draft"
+}

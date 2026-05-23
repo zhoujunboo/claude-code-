@@ -1,0 +1,12 @@
+{
+  "id": "20260523-rss-bun-support-is-now-limited-and-deprecated",
+  "title": "Bun support is now limited and deprecated",
+  "sourceUrl": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+  "summary": "该项目标记对 Bun 的支持为有限且已弃用，提示用户注意兼容性变化。",
+  "tags": [
+    "Bun",
+    "弃用",
+    "兼容性"
+  ],
+  "status": "draft"
+}

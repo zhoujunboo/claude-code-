@@ -1,0 +1,13 @@
+{
+  "id": "20260523-rss-deno-2-8",
+  "title": "Deno 2.8",
+  "sourceUrl": "https://deno.com/blog/v2.8",
+  "summary": "Deno 2.8 是 Deno 运行时的最新版本，可能包含性能改进、新特性和安全增强，但缺乏具体技术细节。",
+  "tags": [
+    "运行时",
+    "JavaScript",
+    "TypeScript",
+    "安全"
+  ],
+  "status": "draft"
+}
