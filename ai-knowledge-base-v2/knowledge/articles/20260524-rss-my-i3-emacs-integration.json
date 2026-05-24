@@ -1,0 +1,13 @@
+{
+  "id": "20260524-rss-my-i3-emacs-integration",
+  "title": "My I3-Emacs Integration",
+  "sourceUrl": "https://khz.ac/software/i3-integration.html",
+  "summary": "一个将I3窗口管理器与Emacs编辑器集成的个人项目，旨在提升工作流效率，技术价值较低。",
+  "tags": [
+    "I3",
+    "Emacs",
+    "窗口管理器",
+    "集成"
+  ],
+  "status": "draft"
+}

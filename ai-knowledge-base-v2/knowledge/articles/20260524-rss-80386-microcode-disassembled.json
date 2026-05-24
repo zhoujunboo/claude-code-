@@ -1,0 +1,13 @@
+{
+  "id": "20260524-rss-80386-microcode-disassembled",
+  "title": "80386 microcode disassembled",
+  "sourceUrl": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+  "summary": "对80386处理器微码进行反汇编分析，揭示其内部指令执行逻辑，具有硬件逆向与计算机体系结构研究价值。",
+  "tags": [
+    "微码反汇编",
+    "80386",
+    "硬件逆向",
+    "计算机体系结构"
+  ],
+  "status": "draft"
+}

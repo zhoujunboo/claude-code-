@@ -1,0 +1,13 @@
+{
+  "id": "20260524-github-supabase-supabase",
+  "title": "supabase/supabase",
+  "sourceUrl": "https://github.com/supabase/supabase",
+  "summary": "Supabase 提供基于 Postgres 的开发平台，支持构建 Web、移动和 AI 应用，技术价值在于简化后端基础设施。",
+  "tags": [
+    "Postgres",
+    "开发平台",
+    "TypeScript",
+    "后端即服务"
+  ],
+  "status": "draft"
+}

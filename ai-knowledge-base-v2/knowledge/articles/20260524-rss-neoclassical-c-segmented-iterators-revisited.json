@@ -1,0 +1,13 @@
+{
+  "id": "20260524-rss-neoclassical-c-segmented-iterators-revisited",
+  "title": "Neoclassical C++: segmented iterators revisited",
+  "sourceUrl": "https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/",
+  "summary": "重新审视分段迭代器在C++中的设计，探索新古典风格下的迭代器抽象与性能优化。",
+  "tags": [
+    "C++",
+    "迭代器",
+    "性能优化",
+    "编程范式"
+  ],
+  "status": "draft"
+}
