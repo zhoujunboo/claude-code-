@@ -1,0 +1,12 @@
+{
+  "id": "20260525-rss-show-hn-geomatic-a-command-driven-geometry-studio-enabled-wi",
+  "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+  "sourceUrl": "https://www.tinyvolt.com/geomatic",
+  "summary": "Geomatic 是一个基于自动微分的命令驱动几何工作室，支持交互式几何构建与优化，技术价值在于将自动微分引入几何设计流程。",
+  "tags": [
+    "自动微分",
+    "几何建模",
+    "命令行工具"
+  ],
+  "status": "draft"
+}

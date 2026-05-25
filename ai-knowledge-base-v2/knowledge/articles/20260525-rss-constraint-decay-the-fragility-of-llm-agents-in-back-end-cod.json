@@ -1,0 +1,13 @@
+{
+  "id": "20260525-rss-constraint-decay-the-fragility-of-llm-agents-in-back-end-cod",
+  "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+  "sourceUrl": "https://arxiv.org/abs/2605.06445",
+  "summary": "研究LLM代理在后端代码生成中的约束衰减问题，揭示其脆弱性，为提升代码生成鲁棒性提供技术洞察。",
+  "tags": [
+    "LLM",
+    "代码生成",
+    "约束衰减",
+    "鲁棒性"
+  ],
+  "status": "draft"
+}

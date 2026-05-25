@@ -1,0 +1,14 @@
+{
+  "id": "20260525-github-langgenius-dify",
+  "title": "langgenius/dify",
+  "sourceUrl": "https://github.com/langgenius/dify",
+  "summary": "一个生产级智能体工作流开发平台，基于TypeScript构建，支持高效构建和部署AI应用。",
+  "tags": [
+    "智能体",
+    "工作流",
+    "生产级",
+    "TypeScript",
+    "AI平台"
+  ],
+  "status": "draft"
+}

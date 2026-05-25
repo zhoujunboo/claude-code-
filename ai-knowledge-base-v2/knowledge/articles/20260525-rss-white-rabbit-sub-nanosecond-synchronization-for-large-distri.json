@@ -1,0 +1,12 @@
+{
+  "id": "20260525-rss-white-rabbit-sub-nanosecond-synchronization-for-large-distri",
+  "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+  "sourceUrl": "https://ohwr.org/projects/white-rabbit/",
+  "summary": "White Rabbit 项目旨在实现亚纳秒级同步，适用于大型分布式系统，具有高精度时间同步的技术价值。",
+  "tags": [
+    "分布式系统",
+    "时间同步",
+    "高精度"
+  ],
+  "status": "draft"
+}

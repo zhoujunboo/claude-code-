@@ -1,0 +1,13 @@
+{
+  "id": "20260525-rss-migrating-from-go-to-rust",
+  "title": "Migrating from Go to Rust",
+  "sourceUrl": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+  "summary": "该项目探讨从Go语言迁移到Rust的技术路径与价值，适用于需要更高性能与安全性的系统重构场景。",
+  "tags": [
+    "Go",
+    "Rust",
+    "迁移",
+    "系统编程"
+  ],
+  "status": "draft"
+}

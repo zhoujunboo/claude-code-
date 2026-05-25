@@ -1,0 +1,12 @@
+{
+  "id": "20260525-rss-defeating-git-rigour-fatigue-with-jujutsu",
+  "title": "Defeating Git Rigour Fatigue with Jujutsu",
+  "sourceUrl": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+  "summary": "该项目旨在通过引入Jujutsu工具来缓解Git使用中的疲劳问题，提升版本控制效率。",
+  "tags": [
+    "版本控制",
+    "Git",
+    "效率工具"
+  ],
+  "status": "draft"
+}

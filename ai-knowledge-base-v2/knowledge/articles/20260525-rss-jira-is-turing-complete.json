@@ -1,0 +1,14 @@
+{
+  "id": "20260525-rss-jira-is-turing-complete",
+  "title": "Jira Is Turing-Complete",
+  "sourceUrl": "https://seriot.ch/computation/jira.html",
+  "summary": "该项目指出Jira工作流系统具有图灵完备性，揭示了其潜在的复杂性和自动化能力。",
+  "tags": [
+    "图灵完备",
+    "工作流",
+    "Jira",
+    "自动化",
+    "理论计算机科学"
+  ],
+  "status": "draft"
+}
