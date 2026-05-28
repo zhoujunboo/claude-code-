@@ -1,0 +1,14 @@
+{
+  "id": "20260528-rss-i-m-getting-into-mesh-networks-meshtastic-meshcore-and-retic",
+  "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+  "sourceUrl": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+  "summary": "探讨Meshtastic、MeshCore和Reticulum等无线网状网络技术，适合对去中心化通信感兴趣的开发者。",
+  "tags": [
+    "网状网络",
+    "去中心化通信",
+    "Meshtastic",
+    "MeshCore",
+    "Reticulum"
+  ],
+  "status": "draft"
+}

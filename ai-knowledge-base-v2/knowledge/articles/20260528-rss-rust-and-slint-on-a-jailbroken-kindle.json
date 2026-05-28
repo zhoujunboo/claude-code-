@@ -1,0 +1,14 @@
+{
+  "id": "20260528-rss-rust-and-slint-on-a-jailbroken-kindle",
+  "title": "Rust (and Slint) on a Jailbroken Kindle",
+  "sourceUrl": "https://sverre.me/blog/rust-on-kindle/",
+  "summary": "在越狱Kindle上运行Rust和Slint，探索嵌入式设备的高性能UI开发技术。",
+  "tags": [
+    "Rust",
+    "Kindle越狱",
+    "嵌入式开发",
+    "Slint",
+    "UI框架"
+  ],
+  "status": "draft"
+}

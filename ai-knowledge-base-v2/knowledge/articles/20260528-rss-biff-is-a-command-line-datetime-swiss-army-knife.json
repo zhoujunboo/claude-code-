@@ -1,0 +1,12 @@
+{
+  "id": "20260528-rss-biff-is-a-command-line-datetime-swiss-army-knife",
+  "title": "Biff is a command line datetime Swiss army knife",
+  "sourceUrl": "https://github.com/BurntSushi/biff",
+  "summary": "Biff 是一个命令行日期时间处理工具，类似瑞士军刀，提供便捷的日期时间操作功能。",
+  "tags": [
+    "命令行工具",
+    "日期时间处理",
+    "实用工具"
+  ],
+  "status": "draft"
+}
