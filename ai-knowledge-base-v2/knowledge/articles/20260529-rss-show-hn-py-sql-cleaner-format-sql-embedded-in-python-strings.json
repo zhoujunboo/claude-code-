@@ -1,0 +1,12 @@
+{
+  "id": "20260529-rss-show-hn-py-sql-cleaner-format-sql-embedded-in-python-strings",
+  "title": "Show HN: Py-SQL-cleaner – format SQL embedded in Python strings",
+  "sourceUrl": "https://github.com/enumura1/py-sql-cleaner",
+  "summary": "一个用于格式化Python字符串中嵌入SQL语句的工具，提升代码可读性与维护性。",
+  "tags": [
+    "SQL格式化",
+    "Python工具",
+    "代码质量"
+  ],
+  "status": "draft"
+}

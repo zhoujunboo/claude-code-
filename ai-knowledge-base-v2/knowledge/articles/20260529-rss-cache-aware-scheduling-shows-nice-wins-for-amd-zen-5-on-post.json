@@ -1,0 +1,14 @@
+{
+  "id": "20260529-rss-cache-aware-scheduling-shows-nice-wins-for-amd-zen-5-on-post",
+  "title": "Cache Aware Scheduling Shows Nice Wins for AMD Zen 5 on PostgreSQL, Valkey",
+  "sourceUrl": "https://www.phoronix.com/review/cache-aware-scheduling-hedt",
+  "summary": "该研究展示了在AMD Zen 5架构上，通过缓存感知调度显著提升PostgreSQL和Valkey性能，验证了硬件感知优化的技术价值。",
+  "tags": [
+    "缓存感知调度",
+    "AMD Zen 5",
+    "PostgreSQL",
+    "Valkey",
+    "性能优化"
+  ],
+  "status": "draft"
+}

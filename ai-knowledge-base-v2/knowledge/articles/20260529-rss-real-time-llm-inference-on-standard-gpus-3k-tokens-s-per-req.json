@@ -1,0 +1,13 @@
+{
+  "id": "20260529-rss-real-time-llm-inference-on-standard-gpus-3k-tokens-s-per-req",
+  "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+  "sourceUrl": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+  "summary": "该项目提出在标准GPU上实现实时LLM推理，每请求可达3k tokens/s，显著提升推理效率。",
+  "tags": [
+    "LLM推理",
+    "GPU优化",
+    "实时推理",
+    "高性能计算"
+  ],
+  "status": "draft"
+}

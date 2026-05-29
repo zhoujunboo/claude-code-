@@ -1,0 +1,13 @@
+{
+  "id": "20260529-rss-building-durable-workflows-on-postgres",
+  "title": "Building durable workflows on Postgres",
+  "sourceUrl": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+  "summary": "该项目探讨如何在Postgres上构建持久化工作流，强调利用数据库特性实现可靠的任务编排，技术价值在于简化架构并提升系统稳定性。",
+  "tags": [
+    "Postgres",
+    "工作流",
+    "持久化",
+    "数据库"
+  ],
+  "status": "draft"
+}

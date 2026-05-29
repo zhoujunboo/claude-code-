@@ -1,0 +1,12 @@
+{
+  "id": "20260529-rss-garnix-a-nix-ci-is-shutting-down",
+  "title": "Garnix (A Nix CI) is shutting down",
+  "sourceUrl": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+  "summary": "Garnix 是一款基于 Nix 的 CI 服务，宣布关闭，技术价值在于其将 Nix 构建系统与持续集成结合，但项目已终止。",
+  "tags": [
+    "CI",
+    "Nix",
+    "项目关闭"
+  ],
+  "status": "draft"
+}

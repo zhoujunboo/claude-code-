@@ -1,0 +1,13 @@
+{
+  "id": "20260529-rss-volkswagen-blocks-home-assistant-by-requiring-client-asserti",
+  "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+  "sourceUrl": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+  "summary": "大众汽车要求客户端断言，阻止了Home Assistant集成，凸显车企对第三方数据访问的限制技术冲突。",
+  "tags": [
+    "汽车",
+    "智能家居",
+    "API限制",
+    "数据访问"
+  ],
+  "status": "draft"
+}

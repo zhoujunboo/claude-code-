@@ -1,0 +1,13 @@
+{
+  "id": "20260529-rss-heidisql-lightweight-mariadb-mysql-sql-server-postgresql-and",
+  "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
+  "sourceUrl": "https://github.com/HeidiSQL/HeidiSQL",
+  "summary": "HeidiSQL 是一款轻量级数据库管理工具，支持 MariaDB、MySQL、SQL Server、PostgreSQL 和 SQLite，提供图形化界面简化数据库操作。",
+  "tags": [
+    "数据库管理",
+    "SQL客户端",
+    "跨数据库支持",
+    "轻量级工具"
+  ],
+  "status": "draft"
+}

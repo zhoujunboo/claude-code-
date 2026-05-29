@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-05-29T11:29:51.550Z",
+  "items": [
+    {
+      "title": "Is This Sustainable?",
+      "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
+      "url": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "Cache Aware Scheduling Shows Nice Wins for AMD Zen 5 on PostgreSQL, Valkey",
+      "url": "https://www.phoronix.com/review/cache-aware-scheduling-hedt",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
+      "url": "https://github.com/HeidiSQL/HeidiSQL",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "Let's compile Quake like it's 1997",
+      "url": "https://fabiensanglard.net/compile_like_1997/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "Cars collect a startling amount of data about you",
+      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "Italians and Dutch share the same gestural instinct for teaching",
+      "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "Blue Origin's New Glenn blows up during static fire test",
+      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "Garnix (A Nix CI) is shutting down",
+      "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "url": "https://nick.winans.io/blog/nice-nano/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "Building durable workflows on Postgres",
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "Show HN: Py-SQL-cleaner – format SQL embedded in Python strings",
+      "url": "https://github.com/enumura1/py-sql-cleaner",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    },
+    {
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-05-29T11:29:51.549Z"
+    }
+  ]
+}
