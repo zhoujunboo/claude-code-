@@ -1,0 +1,14 @@
+{
+  "id": "20260530-rss-show-hn-tiny-vllm-high-performance-llm-inference-engine-in-c",
+  "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+  "sourceUrl": "https://github.com/jmaczan/tiny-vllm",
+  "summary": "Tiny-vLLM 是一个用 C++ 和 CUDA 实现的高性能 LLM 推理引擎，专注于轻量级和高效推理。",
+  "tags": [
+    "LLM推理",
+    "C++",
+    "CUDA",
+    "高性能",
+    "轻量级引擎"
+  ],
+  "status": "draft"
+}

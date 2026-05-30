@@ -1,0 +1,13 @@
+{
+  "id": "20260530-rss-liquid-ai-reveals-8b-a1b-moe-trained-on-38t",
+  "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+  "sourceUrl": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+  "summary": "Liquid AI 发布 8B-A1B 混合专家模型，基于 38T 数据训练，探索高效稀疏架构的技术价值。",
+  "tags": [
+    "MoE",
+    "稀疏模型",
+    "大规模训练",
+    "AI模型"
+  ],
+  "status": "draft"
+}

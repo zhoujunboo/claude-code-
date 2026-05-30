@@ -1,0 +1,14 @@
+{
+  "id": "20260530-rss-sqlite-is-all-you-need-for-durable-workflows",
+  "title": "SQLite is all you need for durable workflows",
+  "sourceUrl": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+  "summary": "提出仅用 SQLite 实现持久化工作流的技术方案，强调轻量、可靠与去中心化，适合边缘或嵌入式场景。",
+  "tags": [
+    "SQLite",
+    "工作流引擎",
+    "持久化",
+    "轻量级",
+    "边缘计算"
+  ],
+  "status": "draft"
+}

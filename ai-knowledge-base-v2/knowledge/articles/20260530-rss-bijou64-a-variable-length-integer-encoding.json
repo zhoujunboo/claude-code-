@@ -1,0 +1,12 @@
+{
+  "id": "20260530-rss-bijou64-a-variable-length-integer-encoding",
+  "title": "Bijou64: A variable-length integer encoding",
+  "sourceUrl": "https://www.inkandswitch.com/tangents/bijou64/",
+  "summary": "提出一种新的变长整数编码方案，旨在提升数据压缩效率与处理性能，适用于存储与传输场景。",
+  "tags": [
+    "变长编码",
+    "数据压缩",
+    "整数编码"
+  ],
+  "status": "draft"
+}

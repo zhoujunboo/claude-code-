@@ -1,0 +1,14 @@
+{
+  "id": "20260530-rss-perry-compiles-typescript-directly-to-executables-using-swc-",
+  "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+  "sourceUrl": "https://www.perryts.com/",
+  "summary": "Perry 使用 SWC 和 LLVM 将 TypeScript 直接编译为可执行文件，提升运行效率与部署便捷性。",
+  "tags": [
+    "TypeScript",
+    "编译器",
+    "SWC",
+    "LLVM",
+    "可执行文件"
+  ],
+  "status": "draft"
+}

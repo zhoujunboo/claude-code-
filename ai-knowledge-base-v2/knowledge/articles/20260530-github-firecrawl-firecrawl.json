@@ -1,0 +1,14 @@
+{
+  "id": "20260530-github-firecrawl-firecrawl",
+  "title": "firecrawl/firecrawl",
+  "sourceUrl": "https://github.com/firecrawl/firecrawl",
+  "summary": "一个基于TypeScript构建的高性能Web搜索、抓取与交互API，支持大规模数据采集，技术价值显著。",
+  "tags": [
+    "Web Scraping",
+    "API",
+    "TypeScript",
+    "数据采集",
+    "大规模"
+  ],
+  "status": "draft"
+}

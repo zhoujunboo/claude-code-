@@ -1,0 +1,12 @@
+{
+  "id": "20260530-rss-zig-build-system-reworked",
+  "title": "Zig: Build System Reworked",
+  "sourceUrl": "https://ziglang.org/devlog/2026/#2026-05-26",
+  "summary": "Zig 语言构建系统重构项目，旨在提升构建效率与灵活性，体现系统编程语言工具链优化方向。",
+  "tags": [
+    "构建系统",
+    "Zig",
+    "工具链优化"
+  ],
+  "status": "draft"
+}
