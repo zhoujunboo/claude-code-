@@ -1,0 +1,14 @@
+{
+  "id": "20260531-rss-show-hn-breathe-cli-paced-resonance-breathing-in-the-macos-t",
+  "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
+  "sourceUrl": "https://github.com/marekkowalczyk/breathe-cli",
+  "summary": "一个在 macOS 终端中实现共振呼吸节奏引导的 CLI 工具，通过简单命令行交互帮助用户进行呼吸训练。",
+  "tags": [
+    "macOS",
+    "CLI",
+    "呼吸训练",
+    "终端工具",
+    "健康"
+  ],
+  "status": "draft"
+}

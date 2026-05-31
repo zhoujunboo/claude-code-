@@ -1,0 +1,13 @@
+{
+  "id": "20260531-rss-parallel-reconstruction-of-lawful-tls-wiretapping",
+  "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
+  "sourceUrl": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
+  "summary": "该项目提出并行重建合法TLS窃听的技术方案，旨在提升网络监控效率与合规性，具有潜在安全应用价值。",
+  "tags": [
+    "TLS",
+    "网络监控",
+    "并行重建",
+    "合法窃听"
+  ],
+  "status": "draft"
+}

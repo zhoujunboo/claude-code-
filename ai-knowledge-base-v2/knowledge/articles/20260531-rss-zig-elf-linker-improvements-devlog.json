@@ -1,0 +1,13 @@
+{
+  "id": "20260531-rss-zig-elf-linker-improvements-devlog",
+  "title": "Zig ELF Linker Improvements Devlog",
+  "sourceUrl": "https://ziglang.org/devlog/2026/#2026-05-30",
+  "summary": "记录Zig语言ELF链接器优化开发日志，聚焦链接器性能与功能改进，对系统编程工具链有技术价值。",
+  "tags": [
+    "Zig",
+    "ELF链接器",
+    "开发日志",
+    "工具链优化"
+  ],
+  "status": "draft"
+}

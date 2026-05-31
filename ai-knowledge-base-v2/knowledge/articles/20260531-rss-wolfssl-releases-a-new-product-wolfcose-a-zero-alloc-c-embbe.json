@@ -1,0 +1,14 @@
+{
+  "id": "20260531-rss-wolfssl-releases-a-new-product-wolfcose-a-zero-alloc-c-embbe",
+  "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+  "sourceUrl": "https://github.com/wolfSSL/wolfCOSE",
+  "summary": "wolfSSL 发布 wolfCOSE，一个零分配 C 语言嵌入式 COSE 协议栈，专注于轻量级安全通信。",
+  "tags": [
+    "嵌入式安全",
+    "COSE",
+    "零分配",
+    "wolfSSL",
+    "物联网安全"
+  ],
+  "status": "draft"
+}
