@@ -1,0 +1,12 @@
+{
+  "id": "20260601-rss-cloudflare-turnstile-requiring-fingerprintable-webgl",
+  "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+  "sourceUrl": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+  "summary": "该项目探讨Cloudflare Turnstile验证机制对WebGL指纹的依赖，分析其技术实现与隐私影响。",
+  "tags": [
+    "WebGL",
+    "指纹识别",
+    "验证机制"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "20260601-rss-using-git-s-rerere-feature-to-escape-recurring-conflict-hell",
+  "title": "Using Git's rerere feature to escape recurring conflict hell",
+  "sourceUrl": "https://gist.github.com/skipcloud/f1033afb4fa5681d69fa63458cc95928",
+  "summary": "介绍 Git rerere 功能，帮助开发者自动解决重复合并冲突，提升版本控制效率。",
+  "tags": [
+    "Git",
+    "版本控制",
+    "合并冲突",
+    "开发者工具"
+  ],
+  "status": "draft"
+}

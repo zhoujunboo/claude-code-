@@ -1,0 +1,13 @@
+{
+  "id": "20260601-rss-npm-packages-from-redhat-have-been-compromised",
+  "title": "NPM packages from RedHat have been compromised",
+  "sourceUrl": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+  "summary": "红帽NPM包遭入侵，供应链安全受威胁，需警惕恶意包注入风险。",
+  "tags": [
+    "供应链安全",
+    "NPM",
+    "红帽",
+    "软件供应链攻击"
+  ],
+  "status": "draft"
+}

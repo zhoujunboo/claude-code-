@@ -1,0 +1,12 @@
+{
+  "id": "20260601-rss-cessation-of-public-development-of-kefir-c-compiler",
+  "title": "Cessation of public development of Kefir C compiler",
+  "sourceUrl": "https://kefir.protopopov.lv/posts/announce2.html",
+  "summary": "Kefir C编译器停止公开开发，项目终止，技术价值有限。",
+  "tags": [
+    "编译器",
+    "项目终止",
+    "C语言"
+  ],
+  "status": "draft"
+}

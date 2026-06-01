@@ -1,0 +1,13 @@
+{
+  "id": "20260601-rss-1-bit-bonsai-image-4b-image-generation-for-local-devices",
+  "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+  "sourceUrl": "https://prismml.com/news/bonsai-image-4b",
+  "summary": "该项目旨在实现4B参数级别的1-bit图像生成模型，优化本地设备运行效率，降低计算资源需求。",
+  "tags": [
+    "图像生成",
+    "模型压缩",
+    "边缘计算",
+    "低比特量化"
+  ],
+  "status": "draft"
+}

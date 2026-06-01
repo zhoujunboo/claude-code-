@@ -1,0 +1,13 @@
+{
+  "id": "20260601-rss-the-slax-scripting-language-an-alternate-syntax-for-xslt",
+  "title": "The SLAX Scripting Language: An Alternate Syntax for XSLT",
+  "sourceUrl": "http://juniper.github.io/libslax/slax-manual.html",
+  "summary": "为XSLT提供替代语法的脚本语言SLAX，旨在简化XML转换的编写与可读性。",
+  "tags": [
+    "XSLT",
+    "XML",
+    "脚本语言",
+    "语法糖"
+  ],
+  "status": "draft"
+}

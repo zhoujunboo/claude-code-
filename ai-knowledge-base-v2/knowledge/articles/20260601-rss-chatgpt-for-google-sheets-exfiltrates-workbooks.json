@@ -1,0 +1,13 @@
+{
+  "id": "20260601-rss-chatgpt-for-google-sheets-exfiltrates-workbooks",
+  "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+  "sourceUrl": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+  "summary": "该项目展示了通过Google Sheets的ChatGPT插件窃取工作簿数据的安全风险，提醒用户注意AI工具的数据泄露隐患。",
+  "tags": [
+    "安全风险",
+    "数据泄露",
+    "Google Sheets",
+    "ChatGPT插件"
+  ],
+  "status": "draft"
+}
