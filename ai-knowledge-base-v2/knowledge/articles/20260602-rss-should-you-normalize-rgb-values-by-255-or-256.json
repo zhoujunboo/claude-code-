@@ -1,0 +1,13 @@
+{
+  "id": "20260602-rss-should-you-normalize-rgb-values-by-255-or-256",
+  "title": "Should you normalize RGB values by 255 or 256?",
+  "sourceUrl": "https://30fps.net/pages/255-vs-256-division/",
+  "summary": "探讨图像预处理中RGB值归一化除255或256的差异，澄清常见误解，提供技术指导。",
+  "tags": [
+    "图像处理",
+    "归一化",
+    "RGB",
+    "技术讨论"
+  ],
+  "status": "draft"
+}
