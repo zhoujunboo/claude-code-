@@ -1,0 +1,14 @@
+{
+  "id": "20260603-rss-show-hn-edsger-a-handwritten-clojure-repl-for-the-remarkable",
+  "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+  "sourceUrl": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+  "summary": "在 reMarkable 2 设备上实现手写 Clojure REPL，结合手写输入与实时代码执行，提升交互式编程体验。",
+  "tags": [
+    "Clojure",
+    "REPL",
+    "reMarkable",
+    "手写交互",
+    "开发工具"
+  ],
+  "status": "draft"
+}

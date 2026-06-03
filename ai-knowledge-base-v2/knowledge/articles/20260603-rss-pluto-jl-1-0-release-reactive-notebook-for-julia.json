@@ -1,0 +1,14 @@
+{
+  "id": "20260603-rss-pluto-jl-1-0-release-reactive-notebook-for-julia",
+  "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
+  "sourceUrl": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
+  "summary": "Pluto.jl 1.0 发布，为 Julia 提供响应式笔记本环境，支持交互式计算与自动依赖更新，提升数据探索与教学效率。",
+  "tags": [
+    "Julia",
+    "响应式笔记本",
+    "交互式计算",
+    "数据科学",
+    "开源工具"
+  ],
+  "status": "draft"
+}

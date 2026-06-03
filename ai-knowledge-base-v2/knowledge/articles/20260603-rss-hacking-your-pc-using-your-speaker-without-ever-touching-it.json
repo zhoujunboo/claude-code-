@@ -1,0 +1,13 @@
+{
+  "id": "20260603-rss-hacking-your-pc-using-your-speaker-without-ever-touching-it",
+  "title": "Hacking your PC using your speaker without ever touching it",
+  "sourceUrl": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+  "summary": "该项目探讨通过扬声器声波攻击入侵电脑的技术，无需物理接触，突出硬件侧信道安全风险。",
+  "tags": [
+    "侧信道攻击",
+    "声波攻击",
+    "硬件安全",
+    "安全研究"
+  ],
+  "status": "draft"
+}

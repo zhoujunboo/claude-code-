@@ -1,0 +1,12 @@
+{
+  "id": "20260603-rss-roku-lt-operating-system-open-source-distribution",
+  "title": "Roku LT Operating System open source distribution",
+  "sourceUrl": "https://blog.roku.com/developer/roku-lt-os",
+  "summary": "Roku LT 操作系统的开源发行版，提供基础系统源码，适合嵌入式或流媒体设备开发研究。",
+  "tags": [
+    "操作系统",
+    "嵌入式",
+    "开源发行版"
+  ],
+  "status": "draft"
+}

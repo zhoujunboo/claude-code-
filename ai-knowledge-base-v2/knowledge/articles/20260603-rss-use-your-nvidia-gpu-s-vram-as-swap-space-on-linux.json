@@ -1,0 +1,13 @@
+{
+  "id": "20260603-rss-use-your-nvidia-gpu-s-vram-as-swap-space-on-linux",
+  "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+  "sourceUrl": "https://github.com/c0dejedi/nbd-vram",
+  "summary": "在Linux上利用Nvidia GPU显存作为交换空间，提升内存管理效率。",
+  "tags": [
+    "Linux",
+    "Nvidia GPU",
+    "显存交换",
+    "内存管理"
+  ],
+  "status": "draft"
+}

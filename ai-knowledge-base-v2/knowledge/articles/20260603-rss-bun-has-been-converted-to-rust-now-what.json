@@ -1,0 +1,14 @@
+{
+  "id": "20260603-rss-bun-has-been-converted-to-rust-now-what",
+  "title": "Bun Has Been Converted to Rust. Now What?",
+  "sourceUrl": "https://bytecode.news/posts/2026/06/bun-has-been-converted-to-rust-now-what",
+  "summary": "项目探讨了Bun从JavaScript/TypeScript运行时转换为Rust实现后的技术影响与未来方向，突出性能与生态潜力。",
+  "tags": [
+    "Rust",
+    "Bun",
+    "运行时",
+    "性能优化",
+    "技术转型"
+  ],
+  "status": "draft"
+}

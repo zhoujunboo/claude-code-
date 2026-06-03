@@ -1,0 +1,14 @@
+{
+  "id": "20260603-rss-capstone-multi-platform-multi-architecture-disassembly-frame",
+  "title": "Capstone – multi-platform, multi-architecture disassembly framework",
+  "sourceUrl": "https://www.capstone-engine.org/",
+  "summary": "Capstone 是一个跨平台、多架构的反汇编框架，支持多种指令集，为安全分析和逆向工程提供底层支持。",
+  "tags": [
+    "反汇编",
+    "跨平台",
+    "多架构",
+    "逆向工程",
+    "安全分析"
+  ],
+  "status": "draft"
+}
