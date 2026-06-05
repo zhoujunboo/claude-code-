@@ -1,0 +1,14 @@
+{
+  "id": "20260605-rss-esp32-bit-pirate-a-hardware-hacking-tool-with-webcli-that-sp",
+  "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
+  "sourceUrl": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+  "summary": "基于ESP32的硬件黑客工具，通过WebCLI支持多种协议通信，具备高扩展性和便携性。",
+  "tags": [
+    "ESP32",
+    "硬件黑客",
+    "WebCLI",
+    "多协议",
+    "嵌入式工具"
+  ],
+  "status": "draft"
+}

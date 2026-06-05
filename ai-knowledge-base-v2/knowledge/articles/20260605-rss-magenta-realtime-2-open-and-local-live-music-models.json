@@ -1,0 +1,13 @@
+{
+  "id": "20260605-rss-magenta-realtime-2-open-and-local-live-music-models",
+  "title": "Magenta RealTime 2: Open and Local Live Music Models",
+  "sourceUrl": "https://magenta.withgoogle.com/magenta-realtime-2",
+  "summary": "Magenta RealTime 2 是一个开源本地实时音乐模型项目，旨在支持现场音乐生成与交互，技术价值在于推动本地化、低延迟的AI音乐创作。",
+  "tags": [
+    "音乐生成",
+    "实时交互",
+    "开源模型",
+    "本地部署"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "20260605-rss-do-transformers-need-three-projections-systematic-study-of-q",
+  "title": "Do transformers need three projections? Systematic study of QKV variants",
+  "sourceUrl": "https://arxiv.org/abs/2606.04032",
+  "summary": "系统研究Transformer中QKV投影的必要性，通过变体实验分析多头注意力机制的结构简化对性能的影响。",
+  "tags": [
+    "Transformer",
+    "注意力机制",
+    "模型简化",
+    "QKV投影"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "20260605-rss-there-s-no-escaping-it-an-exploration-of-ansi-codes",
+  "title": "There's no escaping it: an exploration of ANSI codes",
+  "sourceUrl": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
+  "summary": "深入探索ANSI转义码的原理与应用，揭示其在终端控制与文本格式化中的技术价值。",
+  "tags": [
+    "ANSI",
+    "终端控制",
+    "文本格式化"
+  ],
+  "status": "draft"
+}

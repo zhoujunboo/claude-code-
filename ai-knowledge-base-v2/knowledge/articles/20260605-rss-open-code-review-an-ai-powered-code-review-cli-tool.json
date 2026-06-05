@@ -1,0 +1,12 @@
+{
+  "id": "20260605-rss-open-code-review-an-ai-powered-code-review-cli-tool",
+  "title": "Open Code Review – An AI-powered code review CLI tool",
+  "sourceUrl": "https://github.com/alibaba/open-code-review",
+  "summary": "基于AI的代码审查命令行工具，旨在通过自动化审查提升代码质量与开发效率。",
+  "tags": [
+    "AI代码审查",
+    "CLI工具",
+    "代码质量"
+  ],
+  "status": "draft"
+}

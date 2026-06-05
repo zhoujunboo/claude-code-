@@ -1,0 +1,12 @@
+{
+  "id": "20260605-rss-linear-cosine-palettes-2025",
+  "title": "Linear Cosine Palettes(2025)",
+  "sourceUrl": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
+  "summary": "提出线性余弦调色板方法，用于高效生成平滑色彩渐变，提升可视化与设计中的色彩一致性。",
+  "tags": [
+    "色彩生成",
+    "可视化",
+    "计算机图形学"
+  ],
+  "status": "draft"
+}

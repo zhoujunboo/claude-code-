@@ -1,0 +1,12 @@
+{
+  "id": "20260605-rss-meta-enables-adb-on-deprecated-portal-devices-video",
+  "title": "Meta enables ADB on deprecated Portal devices [video]",
+  "sourceUrl": "https://fb.watch/HxPu0fSyeH/",
+  "summary": "该项目展示了在已停产的Portal设备上启用ADB调试的方法，技术价值在于延长硬件生命周期和探索嵌入式系统调试。",
+  "tags": [
+    "ADB",
+    "硬件调试",
+    "设备逆向"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "20260605-rss-fine-tuning-an-llm-to-write-docs-like-it-s-1995",
+  "title": "Fine-tuning an LLM to write docs like it's 1995",
+  "sourceUrl": "https://passo.uno/fine-tuning-docs-llm/",
+  "summary": "该项目旨在微调大语言模型，使其生成风格类似1995年的技术文档，探索复古文档生成的AI应用。",
+  "tags": [
+    "LLM微调",
+    "文档生成",
+    "复古风格"
+  ],
+  "status": "draft"
+}

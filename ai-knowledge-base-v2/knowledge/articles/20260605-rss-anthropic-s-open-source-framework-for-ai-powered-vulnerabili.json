@@ -1,0 +1,13 @@
+{
+  "id": "20260605-rss-anthropic-s-open-source-framework-for-ai-powered-vulnerabili",
+  "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+  "sourceUrl": "https://github.com/anthropics/defending-code-reference-harness",
+  "summary": "Anthropic 开源的 AI 驱动漏洞发现框架，利用大模型自动化安全检测，提升代码审计效率。",
+  "tags": [
+    "AI安全",
+    "漏洞发现",
+    "开源框架",
+    "代码审计"
+  ],
+  "status": "draft"
+}
