@@ -1,0 +1,13 @@
+{
+  "id": "20260606-rss-the-perils-of-uuid-primary-keys-in-sqlite",
+  "title": "The perils of UUID primary keys in SQLite",
+  "sourceUrl": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+  "summary": "探讨在SQLite中使用UUID作为主键的性能与存储问题，提供技术分析与替代方案。",
+  "tags": [
+    "SQLite",
+    "UUID",
+    "数据库设计",
+    "性能优化"
+  ],
+  "status": "draft"
+}

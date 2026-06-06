@@ -1,0 +1,12 @@
+{
+  "id": "20260606-rss-zig-zen-update",
+  "title": "Zig Zen Update",
+  "sourceUrl": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
+  "summary": "一个零星的 Zig 语言项目，暂无明确技术贡献或功能描述，需进一步观察。",
+  "tags": [
+    "Zig",
+    "低活跃",
+    "未成熟"
+  ],
+  "status": "draft"
+}

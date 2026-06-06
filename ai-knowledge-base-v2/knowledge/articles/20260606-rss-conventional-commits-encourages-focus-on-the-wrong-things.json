@@ -1,0 +1,12 @@
+{
+  "id": "20260606-rss-conventional-commits-encourages-focus-on-the-wrong-things",
+  "title": "Conventional Commits encourages focus on the wrong things",
+  "sourceUrl": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+  "summary": "该项目批判 Conventional Commits 规范，认为其引导开发者过度关注提交格式而非代码质量与协作本质，引发对工具化流程的反思。",
+  "tags": [
+    "代码规范",
+    "开发流程",
+    "批判性思考"
+  ],
+  "status": "draft"
+}

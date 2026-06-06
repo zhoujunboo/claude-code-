@@ -1,0 +1,13 @@
+{
+  "id": "20260606-rss-did-claude-increase-bugs-in-rsync",
+  "title": "Did Claude increase bugs in rsync?",
+  "sourceUrl": "https://alexispurslane.github.io/rsync-analysis/",
+  "summary": "分析Claude是否导致rsync中bug增加，探讨AI生成代码对开源项目质量的影响。",
+  "tags": [
+    "AI代码质量",
+    "rsync",
+    "Claude",
+    "软件工程"
+  ],
+  "status": "draft"
+}

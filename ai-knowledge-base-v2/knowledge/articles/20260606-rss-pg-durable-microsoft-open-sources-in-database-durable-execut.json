@@ -1,0 +1,13 @@
+{
+  "id": "20260606-rss-pg-durable-microsoft-open-sources-in-database-durable-execut",
+  "title": "pg_durable: Microsoft open sources in-database durable execution",
+  "sourceUrl": "https://github.com/microsoft/pg_durable",
+  "summary": "微软开源 pg_durable，在 PostgreSQL 数据库内实现持久化执行，提升事务可靠性与容错能力。",
+  "tags": [
+    "PostgreSQL",
+    "持久化执行",
+    "微软开源",
+    "数据库可靠性"
+  ],
+  "status": "draft"
+}

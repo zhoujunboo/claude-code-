@@ -1,0 +1,12 @@
+{
+  "id": "20260606-rss-transformers-are-inherently-succinct",
+  "title": "Transformers are inherently succinct",
+  "sourceUrl": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+  "summary": "提出Transformer模型在序列建模中天然具备简洁表示能力，从理论角度分析其内在的简洁性优势。",
+  "tags": [
+    "Transformer",
+    "理论分析",
+    "序列建模"
+  ],
+  "status": "draft"
+}

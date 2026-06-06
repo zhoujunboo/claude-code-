@@ -1,0 +1,13 @@
+{
+  "id": "20260606-rss-azure-linux-desktop",
+  "title": "Azure Linux Desktop",
+  "sourceUrl": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
+  "summary": "Azure Linux Desktop 是一个基于 Azure 的 Linux 桌面环境项目，旨在提供云端桌面解决方案，但当前星标为 0，处于早期阶段。",
+  "tags": [
+    "Azure",
+    "Linux",
+    "桌面环境",
+    "云端桌面"
+  ],
+  "status": "draft"
+}
