@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-06-07T10:29:24.563Z",
+  "items": [
+    {
+      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "url": "https://www.ioccc.org/2025/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "I design with Claude more than Figma now",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Valve P2P networking broken for more than 2 months",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
+      "url": "https://github.com/sauravrao637/oproxy",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Public Domain Image Archive",
+      "url": "https://pdimagearchive.org/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Human-Like Neural Nets by Catapulting",
+      "url": "https://gwern.net/llm-catapult",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+      "url": "https://ataraxy-labs.github.io/sem/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
+      "url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "url": "https://twitter.com/lemire/status/2062880075117113739",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "url": "https://pokeemerald.com/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    },
+    {
+      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-07T10:29:24.562Z"
+    }
+  ]
+}

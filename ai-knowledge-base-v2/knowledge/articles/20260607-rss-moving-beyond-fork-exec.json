@@ -1,0 +1,13 @@
+{
+  "id": "20260607-rss-moving-beyond-fork-exec",
+  "title": "Moving beyond fork() + exec()",
+  "sourceUrl": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+  "summary": "探讨替代传统 fork()+exec() 进程创建模型的新方案，聚焦性能与安全优化。",
+  "tags": [
+    "操作系统",
+    "进程管理",
+    "系统调用",
+    "性能优化"
+  ],
+  "status": "draft"
+}

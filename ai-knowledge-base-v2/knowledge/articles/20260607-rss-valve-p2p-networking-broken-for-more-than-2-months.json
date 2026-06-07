@@ -1,0 +1,12 @@
+{
+  "id": "20260607-rss-valve-p2p-networking-broken-for-more-than-2-months",
+  "title": "Valve P2P networking broken for more than 2 months",
+  "sourceUrl": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+  "summary": "Valve的P2P网络功能已中断超过两个月，影响用户连接稳定性，需紧急修复。",
+  "tags": [
+    "网络故障",
+    "P2P",
+    "Valve"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "20260607-rss-sem-new-primitive-for-code-understanding-not-lsps-but-entiti",
+  "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+  "sourceUrl": "https://ataraxy-labs.github.io/sem/",
+  "summary": "提出一种新的代码理解原语Sem，基于Git实体而非LSP，旨在提升代码分析的结构化与可追溯性。",
+  "tags": [
+    "代码理解",
+    "Git",
+    "原语",
+    "代码分析"
+  ],
+  "status": "draft"
+}

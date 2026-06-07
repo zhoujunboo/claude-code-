@@ -1,0 +1,13 @@
+{
+  "id": "20260607-rss-pokemon-emerald-ported-to-webassembly-100k-fps",
+  "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+  "sourceUrl": "https://pokeemerald.com/",
+  "summary": "将宝可梦绿宝石游戏移植到WebAssembly，实现高达10万FPS性能，展示Wasm在游戏模拟中的高效能力。",
+  "tags": [
+    "WebAssembly",
+    "游戏模拟",
+    "性能优化",
+    "宝可梦"
+  ],
+  "status": "draft"
+}

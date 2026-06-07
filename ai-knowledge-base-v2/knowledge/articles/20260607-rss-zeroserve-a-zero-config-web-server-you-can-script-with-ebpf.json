@@ -1,0 +1,13 @@
+{
+  "id": "20260607-rss-zeroserve-a-zero-config-web-server-you-can-script-with-ebpf",
+  "title": "Zeroserve: A zero-config web server you can script with eBPF",
+  "sourceUrl": "https://su3.io/posts/introducing-zeroserve",
+  "summary": "Zeroserve 是一个零配置的 Web 服务器，支持通过 eBPF 进行脚本化扩展，实现高性能网络处理与动态控制。",
+  "tags": [
+    "eBPF",
+    "Web服务器",
+    "零配置",
+    "高性能网络"
+  ],
+  "status": "draft"
+}

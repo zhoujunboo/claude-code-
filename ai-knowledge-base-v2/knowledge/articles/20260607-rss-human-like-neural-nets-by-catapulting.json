@@ -1,0 +1,12 @@
+{
+  "id": "20260607-rss-human-like-neural-nets-by-catapulting",
+  "title": "Human-Like Neural Nets by Catapulting",
+  "sourceUrl": "https://gwern.net/llm-catapult",
+  "summary": "该项目提出一种类似人类神经网络的构建方法，通过“弹射”机制提升网络性能，技术价值在于探索生物启发的AI新路径。",
+  "tags": [
+    "神经网络",
+    "生物启发",
+    "AI研究"
+  ],
+  "status": "draft"
+}
