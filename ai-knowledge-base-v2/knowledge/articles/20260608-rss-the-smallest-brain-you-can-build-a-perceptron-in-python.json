@@ -1,0 +1,13 @@
+{
+  "id": "20260608-rss-the-smallest-brain-you-can-build-a-perceptron-in-python",
+  "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+  "sourceUrl": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+  "summary": "用Python从零实现单层感知机，展示最简神经网络构建过程，适合入门理解AI基础原理。",
+  "tags": [
+    "感知机",
+    "Python",
+    "入门教程",
+    "神经网络基础"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20260608-rss-a-matter-wi-fi-light-bulb-in-rust-on-the-raspberry-pi-pico-2",
+  "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+  "sourceUrl": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
+  "summary": "用 Rust 在树莓派 Pico 2 W 上实现 Wi-Fi 灯泡控制，展示嵌入式 Rust 与物联网结合的技术价值。",
+  "tags": [
+    "Rust",
+    "嵌入式",
+    "树莓派Pico",
+    "Wi-Fi灯泡",
+    "物联网"
+  ],
+  "status": "draft"
+}
