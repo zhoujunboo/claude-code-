@@ -1,0 +1,14 @@
+{
+  "id": "20260609-rss-show-hn-gitdot-a-better-github-open-source-written-in-rust",
+  "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
+  "sourceUrl": "https://gitdot.io/",
+  "summary": "Gitdot 是一个用 Rust 编写的开源 GitHub 替代品，旨在提供更好的代码托管体验，技术价值在于高性能和自托管能力。",
+  "tags": [
+    "Rust",
+    "开源",
+    "代码托管",
+    "GitHub替代",
+    "自托管"
+  ],
+  "status": "draft"
+}

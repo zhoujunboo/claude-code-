@@ -1,0 +1,14 @@
+{
+  "id": "20260609-rss-porting-the-thinkpad-x61-to-coreboot",
+  "title": "Porting the ThinkPad X61 to Coreboot",
+  "sourceUrl": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+  "summary": "将ThinkPad X61主板移植到Coreboot开源固件，提升硬件兼容性与安全性，具有逆向工程与嵌入式系统技术价值。",
+  "tags": [
+    "Coreboot",
+    "固件移植",
+    "ThinkPad X61",
+    "开源硬件",
+    "逆向工程"
+  ],
+  "status": "draft"
+}

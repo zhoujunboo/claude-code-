@@ -1,0 +1,13 @@
+{
+  "id": "20260609-rss-mimo-v2-5-pro-ultraspeed-1t-model-with-1000-tokens-per-secon",
+  "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+  "sourceUrl": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+  "summary": "MiMo-v2.5-Pro-UltraSpeed 提出 1T 参数模型实现每秒 1000 token 推理速度，突破大模型效率瓶颈，具有极高工程价值。",
+  "tags": [
+    "大模型",
+    "推理加速",
+    "超大规模",
+    "高效部署"
+  ],
+  "status": "draft"
+}
