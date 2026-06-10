@@ -1,0 +1,12 @@
+{
+  "id": "20260610-rss-macos-container-machines",
+  "title": "macOS Container Machines",
+  "sourceUrl": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+  "summary": "一个关于macOS容器化技术的项目，可能探索在macOS上运行容器化虚拟机的方法，技术价值待评估。",
+  "tags": [
+    "macOS",
+    "容器",
+    "虚拟机"
+  ],
+  "status": "draft"
+}

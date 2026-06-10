@@ -1,0 +1,13 @@
+{
+  "id": "20260610-rss-grit-rewriting-git-in-rust-with-agents",
+  "title": "Grit: Rewriting Git in Rust with agents",
+  "sourceUrl": "https://blog.gitbutler.com/true-grit",
+  "summary": "该项目尝试用Rust语言重写Git，并引入智能代理机制，旨在提升版本控制系统的性能与可维护性。",
+  "tags": [
+    "Rust",
+    "Git",
+    "版本控制",
+    "智能代理"
+  ],
+  "status": "draft"
+}

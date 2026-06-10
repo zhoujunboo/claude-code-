@@ -1,0 +1,14 @@
+{
+  "id": "20260610-rss-aws-bedrock-to-require-sharing-data-with-anthropic-for-mytho",
+  "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+  "sourceUrl": "https://news.ycombinator.com/item?id=48473166",
+  "summary": "AWS Bedrock 要求用户与 Anthropic 共享数据以使用 Mythos 及未来模型，引发数据隐私与合规性讨论。",
+  "tags": [
+    "数据共享",
+    "隐私合规",
+    "AI模型",
+    "AWS Bedrock",
+    "Anthropic"
+  ],
+  "status": "draft"
+}

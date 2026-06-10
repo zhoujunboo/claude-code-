@@ -1,0 +1,13 @@
+{
+  "id": "20260610-rss-port-react-compiler-to-rust",
+  "title": "Port React Compiler to Rust",
+  "sourceUrl": "https://github.com/react/react/pull/36173",
+  "summary": "将React编译器移植到Rust，旨在利用Rust的性能和安全性优势，提升编译效率与可靠性。",
+  "tags": [
+    "React",
+    "Rust",
+    "编译器",
+    "性能优化"
+  ],
+  "status": "draft"
+}

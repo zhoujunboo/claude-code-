@@ -1,0 +1,12 @@
+{
+  "id": "20260610-rss-upcoming-breaking-changes-for-npm-v12",
+  "title": "Upcoming breaking changes for npm v12",
+  "sourceUrl": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+  "summary": "npm v12 即将引入破坏性变更，需关注兼容性与迁移影响。",
+  "tags": [
+    "npm",
+    "破坏性变更",
+    "版本管理"
+  ],
+  "status": "draft"
+}

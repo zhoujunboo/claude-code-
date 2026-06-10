@@ -1,0 +1,13 @@
+{
+  "id": "20260610-rss-show-hn-macos-menu-bar-gauges-for-your-claude-code-quota",
+  "title": "Show HN: macOS menu bar gauges for your Claude Code quota",
+  "sourceUrl": "https://github.com/grzegorz-raczek-unit8/claude-quota",
+  "summary": "在 macOS 菜单栏显示 Claude Code 配额的仪表盘工具，方便用户实时监控使用量。",
+  "tags": [
+    "macOS",
+    "Claude Code",
+    "配额监控",
+    "菜单栏工具"
+  ],
+  "status": "draft"
+}

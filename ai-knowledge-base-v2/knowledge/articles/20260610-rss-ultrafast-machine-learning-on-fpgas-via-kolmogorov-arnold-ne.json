@@ -1,0 +1,13 @@
+{
+  "id": "20260610-rss-ultrafast-machine-learning-on-fpgas-via-kolmogorov-arnold-ne",
+  "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+  "sourceUrl": "https://aarushgupta.io/posts/kan-fpga/",
+  "summary": "将Kolmogorov-Arnold网络部署于FPGA，实现超快机器学习推理，提升能效与速度。",
+  "tags": [
+    "FPGA",
+    "KAN",
+    "超快推理",
+    "硬件加速"
+  ],
+  "status": "draft"
+}

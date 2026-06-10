@@ -1,0 +1,12 @@
+{
+  "id": "20260610-rss-test-case-reducers-are-underappreciated-debugging-tools",
+  "title": "Test-case reducers are underappreciated debugging tools",
+  "sourceUrl": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
+  "summary": "探讨测试用例缩减器作为调试工具的价值，强调其在软件调试中未被充分利用的潜力。",
+  "tags": [
+    "测试",
+    "调试",
+    "软件工程"
+  ],
+  "status": "draft"
+}
