@@ -1,0 +1,12 @@
+{
+  "id": "20260611-rss-anthropic-requires-30-day-data-retention-for-fable-and-mytho",
+  "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+  "sourceUrl": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+  "summary": "Anthropic 要求 Fable 和 Mythos 项目保留数据 30 天，体现数据合规与隐私管理策略。",
+  "tags": [
+    "数据保留",
+    "合规",
+    "隐私管理"
+  ],
+  "status": "draft"
+}

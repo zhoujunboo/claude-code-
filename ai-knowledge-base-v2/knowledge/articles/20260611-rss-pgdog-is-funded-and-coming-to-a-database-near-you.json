@@ -1,0 +1,13 @@
+{
+  "id": "20260611-rss-pgdog-is-funded-and-coming-to-a-database-near-you",
+  "title": "PgDog is funded and coming to a database near you",
+  "sourceUrl": "https://pgdog.dev/blog/our-funding-announcement",
+  "summary": "PgDog 项目获得资助，旨在为数据库提供连接池和代理功能，提升性能与可靠性。",
+  "tags": [
+    "数据库",
+    "连接池",
+    "代理",
+    "PostgreSQL"
+  ],
+  "status": "draft"
+}

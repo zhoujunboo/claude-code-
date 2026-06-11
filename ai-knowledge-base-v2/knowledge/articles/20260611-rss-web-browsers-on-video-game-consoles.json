@@ -1,0 +1,12 @@
+{
+  "id": "20260611-rss-web-browsers-on-video-game-consoles",
+  "title": "Web Browsers on Video Game Consoles",
+  "sourceUrl": "https://vale.rocks/posts/game-console-browsers",
+  "summary": "该项目探讨在游戏主机上运行网页浏览器的技术实现，具有跨平台应用潜力，但当前缺乏具体实现细节和社区关注。",
+  "tags": [
+    "游戏主机",
+    "网页浏览器",
+    "跨平台"
+  ],
+  "status": "draft"
+}
