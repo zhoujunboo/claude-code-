@@ -1,0 +1,14 @@
+{
+  "id": "20260612-rss-aur-packages-compromised-with-infostealer-and-rootkit",
+  "title": "AUR Packages Compromised with Infostealer and Rootkit",
+  "sourceUrl": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
+  "summary": "该项目揭示了AUR软件包被植入信息窃取器和Rootkit的安全事件，强调开源生态中的供应链攻击风险。",
+  "tags": [
+    "供应链安全",
+    "恶意软件",
+    "AUR",
+    "Rootkit",
+    "信息窃取"
+  ],
+  "status": "draft"
+}

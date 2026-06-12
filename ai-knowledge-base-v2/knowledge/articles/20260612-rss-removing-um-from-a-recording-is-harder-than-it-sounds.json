@@ -1,0 +1,12 @@
+{
+  "id": "20260612-rss-removing-um-from-a-recording-is-harder-than-it-sounds",
+  "title": "Removing 'um' from a recording is harder than it sounds",
+  "sourceUrl": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+  "summary": "该项目探讨从录音中去除‘um’等填充词的难度，揭示语音编辑中的技术挑战。",
+  "tags": [
+    "语音处理",
+    "音频编辑",
+    "自然语言处理"
+  ],
+  "status": "draft"
+}

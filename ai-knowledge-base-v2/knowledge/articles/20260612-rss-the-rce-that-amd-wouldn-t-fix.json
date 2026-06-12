@@ -1,0 +1,13 @@
+{
+  "id": "20260612-rss-the-rce-that-amd-wouldn-t-fix",
+  "title": "The RCE that AMD wouldn't fix",
+  "sourceUrl": "https://mrbruh.com/amd2/",
+  "summary": "披露AMD未修复的远程代码执行漏洞，揭示硬件安全风险与技术忽视问题。",
+  "tags": [
+    "安全漏洞",
+    "AMD",
+    "RCE",
+    "硬件安全"
+  ],
+  "status": "draft"
+}
