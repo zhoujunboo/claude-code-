@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-06-14T10:48:20.146Z",
+  "items": [
+    {
+      "title": "Don't trust large context windows",
+      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "Tribblix: The retro Illumos distribution",
+      "url": "http://tribblix.org/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "Phoenix LiveView 1.2",
+      "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "Pac-Man, but you're the ghost",
+      "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "Software Architecture Guide (2019)",
+      "url": "https://martinfowler.com/architecture/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+      "url": "https://sqltoerdiagram.com/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "Making Claude a Chemist",
+      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "Weave: Merging based on language structure and not lines",
+      "url": "https://ataraxy-labs.github.io/weave/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "Building a serial and VGA \"everything console\"",
+      "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "Honda Civics and the Evil Valet",
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+      "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+      "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "GameBoy Workboy",
+      "url": "https://tcrf.net/Workboy",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&amp;reflink=desktopwebshare_permalink",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "The experience of rendering Arabic typography and its technical debt",
+      "url": "https://lr0.org/blog/p/arabic/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.145Z"
+    },
+    {
+      "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+      "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-14T10:48:20.146Z"
+    }
+  ]
+}
