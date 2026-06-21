@@ -1,0 +1,10 @@
+{
+  "id": "20260621-rss-epoll-vs-io-uring-in-linux",
+  "title": "Epoll vs. io_uring in Linux",
+  "sourceUrl": "https://sibexi.co/posts/epoll-vs-io_uring/",
+  "summary": "",
+  "tags": [
+    "ai"
+  ],
+  "status": "draft"
+}
