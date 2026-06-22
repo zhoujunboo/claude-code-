@@ -1,0 +1,10 @@
+{
+  "id": "20260622-rss-codex-logging-bug-may-write-tbs-to-local-ssds",
+  "title": "Codex logging bug may write TBs to local SSDs",
+  "sourceUrl": "https://github.com/openai/codex/issues/28224",
+  "summary": "",
+  "tags": [
+    "ai"
+  ],
+  "status": "draft"
+}
