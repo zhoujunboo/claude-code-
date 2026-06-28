@@ -1,0 +1,10 @@
+{
+  "id": "20260628-rss-amd-strix-halo-rdma-cluster-setup-guide",
+  "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+  "sourceUrl": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+  "summary": "",
+  "tags": [
+    "ai"
+  ],
+  "status": "draft"
+}

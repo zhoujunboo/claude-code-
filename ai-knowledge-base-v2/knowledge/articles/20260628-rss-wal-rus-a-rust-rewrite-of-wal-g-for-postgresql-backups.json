@@ -1,0 +1,10 @@
+{
+  "id": "20260628-rss-wal-rus-a-rust-rewrite-of-wal-g-for-postgresql-backups",
+  "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+  "sourceUrl": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+  "summary": "",
+  "tags": [
+    "ai"
+  ],
+  "status": "draft"
+}

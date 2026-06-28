@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-06-28T10:27:42.490Z",
+  "items": [
+    {
+      "title": "Armadillo – A DNS Server in Gleam for Homelab Use",
+      "url": "https://github.com/vshakitskiy/armadillo",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "Bashblog – a single bash script to create blogs",
+      "url": "https://github.com/cfenollosa/bashblog",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "Turning music into a chore is how I became a musician (2022)",
+      "url": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "url": "https://decomp-academy.dev",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+      "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "Choosing a Public DNS Resolver",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "Enhancing X11 Application Security with LXC (2025)",
+      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "Turn your site into a place people can bump into each other",
+      "url": "https://cauenapier.com/blog/townsquare_release/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "Supabase (YC S20) Is Hiring for Multigres",
+      "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "Suspicious Discontinuities (2020)",
+      "url": "https://danluu.com/discontinuities/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "Nox Metals (YC S25) Is Hiring SWE",
+      "url": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    },
+    {
+      "title": "The case for physical media ownership",
+      "url": "https://dervis.de/physical/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-06-28T10:27:42.489Z"
+    }
+  ]
+}
