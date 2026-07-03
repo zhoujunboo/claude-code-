@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-07-03T10:34:56.089Z",
+  "items": [
+    {
+      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+      "url": "https://wordgard.net/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.088Z"
+    },
+    {
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.088Z"
+    },
+    {
+      "title": "Half-Baked Product",
+      "url": "https://weli.dev/blog/half-baked-product/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.088Z"
+    },
+    {
+      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+      "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.088Z"
+    },
+    {
+      "title": "The Safari MCP server for web developers",
+      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.088Z"
+    },
+    {
+      "title": "CarPlay Is Additive",
+      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.088Z"
+    },
+    {
+      "title": "An American Privacy Emergency",
+      "url": "https://scottaaronson.blog/?p=9902",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.088Z"
+    },
+    {
+      "title": "Right to Local Intelligence",
+      "url": "https://righttointelligence.org/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.088Z"
+    },
+    {
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "url": "https://github.com/FractalFir/crustc",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.088Z"
+    },
+    {
+      "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test",
+      "url": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.088Z"
+    },
+    {
+      "title": "Virginia bans sale of geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.088Z"
+    },
+    {
+      "title": "Great Salt Lake Tracker – Grow the Flow",
+      "url": "https://growtheflowutah.org/laketracker/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.088Z"
+    },
+    {
+      "title": "EFF letter to FTC on X consent order [pdf]",
+      "url": "https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.088Z"
+    },
+    {
+      "title": "The short leash AI coding method for beating Fable",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.088Z"
+    },
+    {
+      "title": "Claude-real-video － any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.089Z"
+    },
+    {
+      "title": "Exapunks (2018)",
+      "url": "https://www.zachtronics.com/exapunks/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.089Z"
+    },
+    {
+      "title": "Postgres transactions are a distributed systems superpower",
+      "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.089Z"
+    },
+    {
+      "title": "This is my attempt to get Vulkan going on NetBSD",
+      "url": "https://github.com/segaboy/vulkan-netbsd",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.089Z"
+    },
+    {
+      "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
+      "url": "https://zk.golf/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.089Z"
+    },
+    {
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-03T10:34:56.089Z"
+    }
+  ]
+}
