@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-07-07T10:55:31.148Z",
+  "items": [
+    {
+      "title": "Microsoft Can Track Users via a Windows Device ID",
+      "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
+      "url": "https://whimfiles.com",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "Lago (YC S21) Is Hiring for Our GTM Team",
+      "url": "https://jobs.ashbyhq.com/lago",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "The Art of Computer Programming by Donald E. Knuth",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "How to sequence your own DNA at home",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "NSA and IETF: Fairness",
+      "url": "https://blog.cr.yp.to/20260706-fairness.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "OpenSSH 10.4/10.4p1 Released",
+      "url": "https://www.openssh.org/txt/release-10.4",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "Learning to code is still worthwhile",
+      "url": "https://stevekrouse.com/learn-to-code",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "M/PC – A Concatenative OS",
+      "url": "https://wiki.xxiivv.com/site/m_pc.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "Linux on the Atari Jaguar",
+      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+      "url": "https://github.com/V4bel/Januscape",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.147Z"
+    },
+    {
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-07T10:55:31.148Z"
+    }
+  ]
+}
