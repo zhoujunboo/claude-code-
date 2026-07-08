@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-07-08T10:17:52.084Z",
+  "items": [
+    {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "url": "https://github.com/dekart-xyz/geosql",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "The space bit of SpaceX is worth $8 a share, says Morgan Stanley",
+      "url": "https://www.ft.com/content/09a62ed4-16af-433c-adb7-c877d1975388",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+      "url": "https://www.digipres.org/the-floppy-guide/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "LineageOS Statistics",
+      "url": "https://stats.lineageos.org",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "Show HN: Chiptune Radio",
+      "url": "https://chiptune-radio.alephvoid.com/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "url": "https://www.gao.gov/products/gao-26-108193",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "Every new car sold in the European Union must include a driver monitoring camera",
+      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "l: A new runtime for k and q",
+      "url": "https://lv1.sh/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "Jim's TrueType QR Code Font",
+      "url": "https://github.com/jimparis/qr-font",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://30papers.com/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "Why we built yet another Postgres connection pooler",
+      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.083Z"
+    },
+    {
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-08T10:17:52.084Z"
+    }
+  ]
+}
