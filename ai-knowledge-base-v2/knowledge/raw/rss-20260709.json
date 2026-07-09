@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-07-09T10:54:04.233Z",
+  "items": [
+    {
+      "title": "My Thoughts on the Bun Rust Rewrite",
+      "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "How Donkey Kong Toppled Atari",
+      "url": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "Remote Attestation",
+      "url": "https://www.liamcvw.com/p/remote-attestation",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "Rewriting Bun in Rust",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "Turning a pile of documents into a searchable useable knowledge base",
+      "url": "https://github.com/linuxrebel/DocuBrowser",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "New Sweden: the US's long-lost 'secret' colony",
+      "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "Cloudflare Drop",
+      "url": "https://www.cloudflare.com/drop/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "TypeScript 7",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "Unicode's transliteration rules are Turing-complete",
+      "url": "https://seriot.ch/computation/uts35/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    },
+    {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-09T10:54:04.233Z"
+    }
+  ]
+}
