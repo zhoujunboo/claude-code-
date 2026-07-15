@@ -1,0 +1,10 @@
+{
+  "id": "20260715-rss-ts-2026-009-insecure-argument-handling-in-tailscale-ssh-perm",
+  "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+  "sourceUrl": "https://tailscale.com/security-bulletins",
+  "summary": "",
+  "tags": [
+    "ai"
+  ],
+  "status": "draft"
+}
