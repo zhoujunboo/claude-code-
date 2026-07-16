@@ -1,0 +1,10 @@
+{
+  "id": "20260716-rss-the-tokio-rayon-trap-and-why-async-await-fails-concurrency",
+  "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+  "sourceUrl": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+  "summary": "",
+  "tags": [
+    "ai"
+  ],
+  "status": "draft"
+}

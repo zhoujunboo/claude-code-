@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-07-16T10:07:53.693Z",
+  "items": [
+    {
+      "title": "Netstrings (1997)",
+      "url": "https://cr.yp.to/proto/netstrings.txt",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "The lost joy of music piracy",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "Reynard: A real Firefox web browser for iOS 13 or later",
+      "url": "https://github.com/minh-ton/reynard-browser",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "Making 768 servers look like 1",
+      "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+      "url": "https://arxiv.org/abs/2607.11859",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+      "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "Bluesky Trademarks ATProto",
+      "url": "https://atproto.com/blog/at-protocol-trademark",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
+      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "LLM Networking with MikroTik",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "Duskers, the scary command line game, is getting a sequel",
+      "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "Artie (YC S23) Is Hiring Software Engineers",
+      "url": "https://jobs.ashbyhq.com/artie",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "Collection of Digital Clock Designs",
+      "url": "https://clocks.dev",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+      "url": "https://coasty.ai/docs",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    },
+    {
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-16T10:07:53.692Z"
+    }
+  ]
+}
