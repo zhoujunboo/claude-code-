@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-07-23T10:22:10.184Z",
+  "items": [
+    {
+      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Amiga 1000: Ten years ahead of its time",
+      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Restructuring GitHub's bug bounty program",
+      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Protecting our FLOSS commons from LLMs",
+      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Malleable Computing, Emacs, and You",
+      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "John C. Dvorak has died",
+      "url": "https://twitter.com/na_announce/status/2079952538040672302",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+      "url": "https://github.com/cactus-compute/cactus-hybrid",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Everyone should know SIMD",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Making",
+      "url": "https://beej.us/blog/data/ai-making/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Ghost Cut – Or why Cut and Paste is broken everywhere",
+      "url": "https://ishmael.textualize.io/blog/ghost-cut/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Back to Kagi",
+      "url": "https://blog.melashri.net/micro/back-to-kagi/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "Businesses with ugly AI menu redesigns",
+      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    },
+    {
+      "title": "The startup's Postgres survival guide",
+      "url": "https://hatchet.run/blog/postgres-survival-guide",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-23T10:22:10.183Z"
+    }
+  ]
+}
