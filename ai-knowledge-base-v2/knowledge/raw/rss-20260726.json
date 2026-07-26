@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-07-26T09:58:53.473Z",
+  "items": [
+    {
+      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+      "url": "https://astral.sh/blog/ruff-v0.16.0",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+      "url": "https://github.com/mulfyx/w4me-station",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "JetZero",
+      "url": "https://www.jetzero.aero",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "An ESP32 based plane radar for my desk",
+      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "Show HN: I mapped every US golf course",
+      "url": "https://golfcoursebrowser.com/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+      "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "Git rebase -I is not that scary",
+      "url": "https://cachebag.sh/journal/interactive-rebasing/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "Systems and Delays",
+      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "Clinical failure rates over the decades: yikes",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "Cloudflare's new AI traffic options for customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.472Z"
+    },
+    {
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.473Z"
+    },
+    {
+      "title": "Memory safety absolutists",
+      "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-07-26T09:58:53.473Z"
+    }
+  ]
+}
