@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-08-17T08:41:44.495Z",
+  "items": [
+    {
+      "title": "HackEurope 2026: A short rant on AI and hackathons",
+      "url": "https://duti.dev/blog/2026/spr/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
+      "url": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "Linear algebra done right",
+      "url": "https://linear.axler.net/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "GIMP Development Update",
+      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "Strong gravitational lensing and microlensing of supernovae (2024)",
+      "url": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "On A.I. regulation and messaging",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "Prolly: A content-addressed ordered map built on prolly trees",
+      "url": "https://github.com/crabbuild/prolly",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "Rhombus 1.1 is now available",
+      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "Applying a photosynthetic process to treat “dry eye”",
+      "url": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "The Life and Death of Direct File [pdf]",
+      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "Reticulum – Decentralized Mesh Network",
+      "url": "https://reticulum.network/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
+      "url": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "Red queen hypothesis – A new way forward for self-improving AI",
+      "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "Protobuf has LSP support",
+      "url": "https://buf.build/blog/protobuf-lsp",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "MathCode, Mathematical Coding Agent",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    },
+    {
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "url": "https://news.ycombinator.com/item?id=49322107",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-17T08:41:44.495Z"
+    }
+  ]
+}
