@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-08-21T08:38:56.747Z",
+  "items": [
+    {
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "url": "https://encore.dev/blog/firecracker-apple-silicon",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+      "url": "https://Argentic.network",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "Japan tried to build an operating system for the world, the US intervened",
+      "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "Seed: Minimal, self-modifying agent harness",
+      "url": "https://github.com/vivekhaldar/seed",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "Micron announces $10B research hub in Boise",
+      "url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "url": "https://github.com/openai/codex/issues/37674",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "Ox Alpha",
+      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "The August 17 outage",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "SpacetimeDB: a short technical review",
+      "url": "https://strn.cat/posts/spacetime/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "Why aren't smart people happier? (2022)",
+      "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "I should have loved biology (2020)",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "Linux 7.2",
+      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "url": "https://github.com/runvendo/vendo",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    },
+    {
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-21T08:38:56.747Z"
+    }
+  ]
+}
