@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-08-29T13:38:29.844Z",
+  "items": [
+    {
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.843Z"
+    },
+    {
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.843Z"
+    },
+    {
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.843Z"
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.843Z"
+    },
+    {
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.843Z"
+    },
+    {
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.843Z"
+    },
+    {
+      "title": "9th Circuit sides with states in Kalshi gambling fight",
+      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.843Z"
+    },
+    {
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.843Z"
+    },
+    {
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.843Z"
+    },
+    {
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.844Z"
+    },
+    {
+      "title": "EasyEffects can improve laptop speaker sound quality",
+      "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.844Z"
+    },
+    {
+      "title": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.844Z"
+    },
+    {
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.844Z"
+    },
+    {
+      "title": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.844Z"
+    },
+    {
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.844Z"
+    },
+    {
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "url": "https://www.orbify.eu/demo/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.844Z"
+    },
+    {
+      "title": "Migrating to HTTPX2",
+      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.844Z"
+    },
+    {
+      "title": "The Twelve-Factor App (2025)",
+      "url": "https://12factor.net/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.844Z"
+    },
+    {
+      "title": "Europe's last regular standard-gauge steam passenger service",
+      "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.844Z"
+    },
+    {
+      "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+      "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-08-29T13:38:29.844Z"
+    }
+  ]
+}
