@@ -1,0 +1,10 @@
+{
+  "id": "20260831-rss-uv-deduplicate-all-files-in-the-wheel-cache",
+  "title": "uv: Deduplicate all files in the wheel cache",
+  "sourceUrl": "https://github.com/astral-sh/uv/pull/21327",
+  "summary": "",
+  "tags": [
+    "ai"
+  ],
+  "status": "draft"
+}
