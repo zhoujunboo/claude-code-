@@ -1,0 +1,10 @@
+{
+  "id": "20260907-rss-speculative-decoding-in-vllm-on-amd-gpus",
+  "title": "Speculative Decoding in vLLM on AMD GPUs",
+  "sourceUrl": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+  "summary": "",
+  "tags": [
+    "ai"
+  ],
+  "status": "draft"
+}
