@@ -1,0 +1,10 @@
+{
+  "id": "20260914-rss-notes-on-gotchas-while-migrating-35kb-preprompts-from-opus-t",
+  "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+  "sourceUrl": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+  "summary": "",
+  "tags": [
+    "ai"
+  ],
+  "status": "draft"
+}
