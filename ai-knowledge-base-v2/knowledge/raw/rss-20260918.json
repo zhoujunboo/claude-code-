@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-09-18T12:44:27.573Z",
+  "items": [
+    {
+      "title": "I don't like passkeys",
+      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "Bend 2 and the Vibe-Coding Trap",
+      "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "Cekura (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "OpenJev",
+      "url": "https://openjev.com/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "Jemalloc 5.4.0",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "The scourge of x86 emulation",
+      "url": "https://fex-emu.com/Scourge-of-emulation/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+      "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+      "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+      "url": "https://askamonk.online",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "Telstra outage: The night a network decided the year was 2006",
+      "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "Qwen 3.8 Omni Flash",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "The most important product decision is what you don't build",
+      "url": "https://liamnugent.me/posts/what-you-dont-build/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "Flet 1.0 – Build cross-platform apps in Python",
+      "url": "https://flet.dev/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-09-18T12:44:27.573Z"
+    }
+  ]
+}
