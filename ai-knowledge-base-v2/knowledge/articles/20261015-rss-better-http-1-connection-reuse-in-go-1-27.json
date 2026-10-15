@@ -1,0 +1,10 @@
+{
+  "id": "20261015-rss-better-http-1-connection-reuse-in-go-1-27",
+  "title": "Better HTTP/1 connection reuse in Go 1.27",
+  "sourceUrl": "https://go.dev/blog/http-connection-reuse",
+  "summary": "",
+  "tags": [
+    "ai"
+  ],
+  "status": "draft"
+}
