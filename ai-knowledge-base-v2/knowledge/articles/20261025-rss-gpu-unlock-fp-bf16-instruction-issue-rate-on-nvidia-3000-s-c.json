@@ -1,0 +1,10 @@
+{
+  "id": "20261025-rss-gpu-unlock-fp-bf16-instruction-issue-rate-on-nvidia-3000-s-c",
+  "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+  "sourceUrl": "https://github.com/Zagitta/gpu-unlock",
+  "summary": "",
+  "tags": [
+    "ai"
+  ],
+  "status": "draft"
+}
