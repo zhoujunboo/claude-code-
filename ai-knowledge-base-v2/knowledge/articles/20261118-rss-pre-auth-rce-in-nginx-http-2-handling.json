@@ -1,0 +1,10 @@
+{
+  "id": "20261118-rss-pre-auth-rce-in-nginx-http-2-handling",
+  "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+  "sourceUrl": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+  "summary": "",
+  "tags": [
+    "ai"
+  ],
+  "status": "draft"
+}
