@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-11-20T16:43:34.629Z",
+  "items": [
+    {
+      "title": "I'll never buy Framework hardware again",
+      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "If you stop writing code, you also get worse at reviewing it",
+      "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "The Making of Oxygene",
+      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "What people are building, discovered through new domains",
+      "url": "https://startups.novumsignals.com/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "UK fridges secured from hackers",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "\"I can tell you wrote this yourself\"",
+      "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "FFmpeg 9.1 'Gauss'",
+      "url": "https://ffmpeg.org/download.html#release_9.1",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "PostgreSQL 19",
+      "url": "https://www.postgresql.org/docs/release/19.0/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    },
+    {
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-20T16:43:34.629Z"
+    }
+  ]
+}
