@@ -1,0 +1,10 @@
+{
+  "id": "20261123-rss-nariq-bf16-level-qwen3-8-27b-in-a-10-gb-file",
+  "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+  "sourceUrl": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+  "summary": "",
+  "tags": [
+    "ai"
+  ],
+  "status": "draft"
+}
