@@ -1,0 +1,146 @@
+{
+  "source": "rss",
+  "collectedAt": "2026-11-25T18:26:51.824Z",
+  "items": [
+    {
+      "title": "How Can Anything Beat n log n?",
+      "url": "https://iahmed.me/post/nlogn/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "Deriving Black-Scholes",
+      "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "Investigating degraded experiences across GitHub products",
+      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "In C++, = default and {} are not the same constructor",
+      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "Hazel (YC W24) Is Hiring a Product Designer",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+      "url": "https://arxiv.org/abs/2611.31286",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "Smart people who give a shit use tools",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "Macrohistory in Six Facts",
+      "url": "https://basilhalperin.com/essays/macrohistory.html",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    },
+    {
+      "title": "The matrix multiplication exponent is nine fourths [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "summary": "",
+      "source": "rss",
+      "collectedAt": "2026-11-25T18:26:51.824Z"
+    }
+  ]
+}
